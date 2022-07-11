@@ -1,0 +1,1675 @@
+[
+    {
+        "Address": "0xff579d6259dEDcc80488c9b89d2820bCb5609160",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xff579d6259dEDcc80488c9b89d2820bCb5609160.png",
+        "Name": "Louverture",
+        "Symbol": "LVT"
+    },
+    {
+        "Address": "0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xfcc6CE74f4cd7eDEF0C5429bB99d38A3608043a5.png",
+        "Name": "FIRE",
+        "Symbol": "FIRE"
+    },
+    {
+        "Address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xfcDe4A87b8b6FA58326BB462882f1778158B02F1.png",
+        "Name": "Wirex Token",
+        "Symbol": "WXT"
+    },
+    {
+        "Address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xfB98B335551a418cD0737375a2ea0ded62Ea213b.png",
+        "Name": "Pendle",
+        "Symbol": "PENDLE"
+    },
+    {
+        "Address": "0xf6d46849DB378AE01D93732585BEc2C4480D1fD5",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xf6d46849DB378AE01D93732585BEc2C4480D1fD5.png",
+        "Name": "Fort",
+        "Symbol": "FORT"
+    },
+    {
+        "Address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172.png",
+        "Name": "Treasure Under Sea",
+        "Symbol": "TUS"
+    },
+    {
+        "Address": "0xf54501FBc97d5CB9C8B96480996a397E07516b2E",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xf54501FBc97d5CB9C8B96480996a397E07516b2E.png",
+        "Name": "AvaNYAN",
+        "Symbol": "ANYAN"
+    },
+    {
+        "Address": "0xf3EC49ACb3084618121741e4BBB20996D383E9b2",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xf3EC49ACb3084618121741e4BBB20996D383E9b2.png",
+        "Name": "KING",
+        "Symbol": "KING"
+    },
+    {
+        "Address": "0xf32398dae246C5f672B52A54e9B413dFFcAe1A44",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xf32398dae246C5f672B52A54e9B413dFFcAe1A44.png",
+        "Name": "Kassandra",
+        "Symbol": "KACY"
+    },
+    {
+        "Address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6.png",
+        "Name": "Colony Token",
+        "Symbol": "CLY"
+    },
+    {
+        "Address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE.png",
+        "Name": "Elk",
+        "Symbol": "ELK"
+    },
+    {
+        "Address": "0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xeA6887e4a9CdA1B77E70129E5Fba830CdB5cdDef.png",
+        "Name": "IMX@avalanche",
+        "Symbol": "IMX.a"
+    },
+    {
+        "Address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c.png",
+        "Name": "PenguinToken",
+        "Symbol": "PEFI"
+    },
+    {
+        "Address": "0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xe7A102Fbc8AB3581d62830DdB599eCCaae5e7875.png",
+        "Name": "SNOSHARE",
+        "Symbol": "SNOSHARES Token"
+    },
+    {
+        "Address": "0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xe50fA9b3c56FfB159cB0FCA61F5c9D750e8128c8.png",
+        "Name": "Aave Avalanche WETH",
+        "Symbol": "aAvaWETH"
+    },
+    {
+        "Address": "0xe19A1684873faB5Fb694CfD06607100A632fF21c",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xe19A1684873faB5Fb694CfD06607100A632fF21c.png",
+        "Name": "BavaToken",
+        "Symbol": "BAVA"
+    },
+    {
+        "Address": "0xe0cCa86B254005889aC3a81e737f56a14f4A38F5",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xe0cCa86B254005889aC3a81e737f56a14f4A38F5.png",
+        "Name": "Alta Finance",
+        "Symbol": "ALTA"
+    },
+    {
+        "Address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xe0Ce60AF0850bF54072635e66E79Df17082A1109.png",
+        "Name": "IceToken",
+        "Symbol": "ICE"
+    },
+    {
+        "Address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xdef1fac7Bf08f173D286BbBDcBeeADe695129840.png",
+        "Name": "Cerby Token",
+        "Symbol": "CERBY"
+    },
+    {
+        "Address": "0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604",
+        "Decimals": 12,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xdDAaAD7366B455AfF8E7c82940C43CEB5829B604.png",
+        "Name": "MiniYAK",
+        "Symbol": "mYAK"
+    },
+    {
+        "Address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xd6070ae98b8069de6B494332d1A1a81B6179D960.png",
+        "Name": "beefy.finance",
+        "Symbol": "BIFI"
+    },
+    {
+        "Address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xd586E7F844cEa2F87f50152665BCbc2C279D8d70.png",
+        "Name": "Dai Stablecoin",
+        "Symbol": "DAI.e"
+    },
+    {
+        "Address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xd501281565bf7789224523144Fe5D98e8B28f267.png",
+        "Name": "1INCH Token",
+        "Symbol": "1INCH.e"
+    },
+    {
+        "Address": "0xd33df97747dD6bEcAD26B2e61F818c94B7588E69",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xd33df97747dD6bEcAD26B2e61F818c94B7588E69.png",
+        "Name": "Rebase Aggregator Capital",
+        "Symbol": "$REACT"
+    },
+    {
+        "Address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4.png",
+        "Name": "Avalaunch",
+        "Symbol": "XAVA"
+    },
+    {
+        "Address": "0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xd039C9079ca7F2a87D632A9C0d7cEa0137bAcFB5.png",
+        "Name": "Ape-X",
+        "Symbol": "APE-X"
+    },
+    {
+        "Address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xcaF5191fc480F43e4DF80106c7695ECA56E48B18.png",
+        "Name": "Akita Inu",
+        "Symbol": "AKITA"
+    },
+    {
+        "Address": "0xcF8419A615c57511807236751c0AF38Db4ba3351",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xcF8419A615c57511807236751c0AF38Db4ba3351.png",
+        "Name": "AxialToken",
+        "Symbol": "AXIAL"
+    },
+    {
+        "Address": "0xc8a251142722CeB4a524876b89CC4c0709585818",
+        "Decimals": 5,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc8a251142722CeB4a524876b89CC4c0709585818.png",
+        "Name": "Aurora",
+        "Symbol": "AURA"
+    },
+    {
+        "Address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc7B5D72C836e718cDA8888eaf03707fAef675079.png",
+        "Name": "TrustSwap Token",
+        "Symbol": "SWAP.e"
+    },
+    {
+        "Address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc7198437980c041c805A1EDcbA50c1Ce5db95118.png",
+        "Name": "Tether USD",
+        "Symbol": "USDT.e"
+    },
+    {
+        "Address": "0xc69Eba65e87889f0805dB717Af06797055A0BA07",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc69Eba65e87889f0805dB717Af06797055A0BA07.png",
+        "Name": "NitroNetwork",
+        "Symbol": "ncash"
+    },
+    {
+        "Address": "0xc3344870d52688874b06d844E0C36cc39FC727F6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc3344870d52688874b06d844E0C36cc39FC727F6.png",
+        "Name": "Ankr Avalanche Reward Bearing Certificate",
+        "Symbol": "aAVAXc"
+    },
+    {
+        "Address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437.png",
+        "Name": "Compound",
+        "Symbol": "COMP.e"
+    },
+    {
+        "Address": "0xc16A1b60175d16be6F2ED0bA506ca0e6EfBA8e08",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xc16A1b60175d16be6F2ED0bA506ca0e6EfBA8e08.png",
+        "Name": "GigaChad",
+        "Symbol": "CHAD"
+    },
+    {
+        "Address": "0xbeE994aD257dCC84672c0c6e6168A4701041F39f",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xbeE994aD257dCC84672c0c6e6168A4701041F39f.png",
+        "Name": "AvaXlauncher",
+        "Symbol": "AVXL"
+    },
+    {
+        "Address": "0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xbd3936eC8D83A5D4e73ecA625eCFa006da8C8F52.png",
+        "Name": "UREEQA Token [via ChainPort.io]",
+        "Symbol": "URQA"
+    },
+    {
+        "Address": "0xbD83010eB60F12112908774998F65761cf9f6f9a",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xbD83010eB60F12112908774998F65761cf9f6f9a.png",
+        "Name": "SpookyToken",
+        "Symbol": "BOO"
+    },
+    {
+        "Address": "0xb8EF3a190b68175000B74B4160d325FD5024760e",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb8EF3a190b68175000B74B4160d325FD5024760e.png",
+        "Name": "R U Generous",
+        "Symbol": "RUG"
+    },
+    {
+        "Address": "0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb84527D59b6Ecb96F433029ECc890D4492C5dCe1.png",
+        "Name": "TOMB",
+        "Symbol": "TOMB"
+    },
+    {
+        "Address": "0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb67a9374Da03d4114a6FB8f0E7F2b82b5cB34ee3.png",
+        "Name": "Augmented Finance",
+        "Symbol": "AGF"
+    },
+    {
+        "Address": "0xb599c3590F42f8F995ECfa0f85D2980B76862fc1",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb599c3590F42f8F995ECfa0f85D2980B76862fc1.png",
+        "Name": "UST (Wormhole)",
+        "Symbol": "UST"
+    },
+    {
+        "Address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb54f16fB19478766A268F172C9480f8da1a7c9C3.png",
+        "Name": "Time",
+        "Symbol": "TIME"
+    },
+    {
+        "Address": "0xb323c7f46f7F1CA0215553E794F7407c2Fa71eeB",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb323c7f46f7F1CA0215553E794F7407c2Fa71eeB.png",
+        "Name": "Army Token",
+        "Symbol": "ARMY"
+    },
+    {
+        "Address": "0xb2a85C5ECea99187A977aC34303b80AcbDdFa208",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb2a85C5ECea99187A977aC34303b80AcbDdFa208.png",
+        "Name": "ROCO",
+        "Symbol": "ROCO"
+    },
+    {
+        "Address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xb27c8941a7Df8958A1778c0259f76D1F8B711C35.png",
+        "Name": "Kalao Token",
+        "Symbol": "KLO"
+    },
+    {
+        "Address": "0xad7476c49D3f82a144f4836aACb9b069c188b759",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xad7476c49D3f82a144f4836aACb9b069c188b759.png",
+        "Name": "Soldier",
+        "Symbol": "SLD"
+    },
+    {
+        "Address": "0xaFc43610C7840b20b90CAaF93759bE5b54B291c9",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xaFc43610C7840b20b90CAaF93759bE5b54B291c9.png",
+        "Name": "Allbridge",
+        "Symbol": "ABR"
+    },
+    {
+        "Address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xaBC9547B534519fF73921b1FBA6E672b5f58D083.png",
+        "Name": "Wootrade Network",
+        "Symbol": "WOO.e"
+    },
+    {
+        "Address": "0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xa5E59761eBD4436fa4d20E1A27cBa29FB2471Fc6.png",
+        "Name": "Sherpa",
+        "Symbol": "SHERPA"
+    },
+    {
+        "Address": "0xa1144a6A1304bd9cbb16c800F7a867508726566E",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xa1144a6A1304bd9cbb16c800F7a867508726566E.png",
+        "Name": "Baguette",
+        "Symbol": "BAG"
+    },
+    {
+        "Address": "0xFd0c58F03c83d6960BB9dbFd45076d78Df2F095D",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xFd0c58F03c83d6960BB9dbFd45076d78Df2F095D.png",
+        "Name": "Ascend",
+        "Symbol": "ASND"
+    },
+    {
+        "Address": "0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xFE6B19286885a4F7F55AdAD09C3Cd1f906D2478F.png",
+        "Name": "Wrapped SOL (Wormhole)",
+        "Symbol": "SOL"
+    },
+    {
+        "Address": "0xF9A075C9647e91410bF6C402bDF166e1540f67F0",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xF9A075C9647e91410bF6C402bDF166e1540f67F0.png",
+        "Name": "Sing Token",
+        "Symbol": "SING"
+    },
+    {
+        "Address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6.png",
+        "Name": "Imperium Empires Token",
+        "Symbol": "IME"
+    },
+    {
+        "Address": "0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xF2F7CE610a091B94d41D69f4fF1129434a82E2f0.png",
+        "Name": "GalaxyGoggle",
+        "Symbol": "GG"
+    },
+    {
+        "Address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB.png",
+        "Name": "HonToken",
+        "Symbol": "HON"
+    },
+    {
+        "Address": "0xECF4e40E564A1DE686d89142A0963d908579daaA",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xECF4e40E564A1DE686d89142A0963d908579daaA.png",
+        "Name": "AvaOne",
+        "Symbol": "AVAO"
+    },
+    {
+        "Address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C.png",
+        "Name": "Elk",
+        "Symbol": "ELK"
+    },
+    {
+        "Address": "0xE18950c8F3b01f549cFc79dC44C3944FBd43fB76",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xE18950c8F3b01f549cFc79dC44C3944FBd43fB76.png",
+        "Name": "ICY.MONEY",
+        "Symbol": "ICY"
+    },
+    {
+        "Address": "0xE06fba763C2104dB5027F57f6A5Be0a0D86308af",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xE06fba763C2104dB5027F57f6A5Be0a0D86308af.png",
+        "Name": "AKITAVAX",
+        "Symbol": "AKITAX"
+    },
+    {
+        "Address": "0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xDd453dBD253fA4E5e745047d93667Ce9DA93bbCF.png",
+        "Name": "ZABU Token",
+        "Symbol": "ZABU"
+    },
+    {
+        "Address": "0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xDC42728B0eA910349ed3c6e1c9Dc06b5FB591f98.png",
+        "Name": "Frax",
+        "Symbol": "FRAX"
+    },
+    {
+        "Address": "0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xD606199557c8Ab6F4Cc70bD03FaCc96ca576f142.png",
+        "Name": "Gondola",
+        "Symbol": "GDL"
+    },
+    {
+        "Address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64.png",
+        "Name": "Frax",
+        "Symbol": "FRAX"
+    },
+    {
+        "Address": "0xCa1068444196cdfE676Fd15A29F35e502580A69E",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xCa1068444196cdfE676Fd15A29F35e502580A69E.png",
+        "Name": "AntGold",
+        "Symbol": "ANTG"
+    },
+    {
+        "Address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xCE1bFFBD5374Dac86a2893119683F4911a2F7814.png",
+        "Name": "Spell Token",
+        "Symbol": "SPELL"
+    },
+    {
+        "Address": "0xCC2f1d827b18321254223dF4e84dE399D9Ff116c",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xCC2f1d827b18321254223dF4e84dE399D9Ff116c.png",
+        "Name": "SmartCoin",
+        "Symbol": "SMRT"
+    },
+    {
+        "Address": "0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50",
+        "Decimals": 8,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xC931f61B1534EB21D8c11B24f3f5Ab2471d4aB50.png",
+        "Name": "Blocknet",
+        "Symbol": "aaBLOCK"
+    },
+    {
+        "Address": "0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xC7f4debC8072e23fe9259A5C0398326d8EfB7f5c.png",
+        "Name": "HeroesChained",
+        "Symbol": "HeC"
+    },
+    {
+        "Address": "0xC55036B5348CfB45a932481744645985010d3A44",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xC55036B5348CfB45a932481744645985010d3A44.png",
+        "Name": "Wine Shares",
+        "Symbol": "WINE"
+    },
+    {
+        "Address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xC38f41A296A4493Ff429F1238e030924A1542e50.png",
+        "Name": "Snowball",
+        "Symbol": "SNOB"
+    },
+    {
+        "Address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xBeC243C995409E6520D7C41E404da5dEba4b209B.png",
+        "Name": "Synthetix Network Token",
+        "Symbol": "SNX.e"
+    },
+    {
+        "Address": "0xBD100d061E120b2c67A24453CF6368E63f1Be056",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xBD100d061E120b2c67A24453CF6368E63f1Be056.png",
+        "Name": "iDeFiYieldProtocol",
+        "Symbol": "iDYP"
+    },
+    {
+        "Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E.png",
+        "Name": "USD Coin",
+        "Symbol": "USDC"
+    },
+    {
+        "Address": "0xB80323c7aA915CB960b19B5cCa1D88a2132F7BD1",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB80323c7aA915CB960b19B5cCa1D88a2132F7BD1.png",
+        "Name": "Nado",
+        "Symbol": "NADO"
+    },
+    {
+        "Address": "0xB669c71431bc4372140bC35Aa1962C4B980bA507",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB669c71431bc4372140bC35Aa1962C4B980bA507.png",
+        "Name": "HoneyBee",
+        "Symbol": "a.BEE"
+    },
+    {
+        "Address": "0xB648fA7A5f5ED3b3c743140346E3Dc3Fe94a9125",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB648fA7A5f5ED3b3c743140346E3Dc3Fe94a9125.png",
+        "Name": "altFINS",
+        "Symbol": "AFINS"
+    },
+    {
+        "Address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB44a9B6905aF7c801311e8F4E76932ee959c663C.png",
+        "Name": "Anyswap",
+        "Symbol": "ANY"
+    },
+    {
+        "Address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7.png",
+        "Name": "Wrapped AVAX",
+        "Symbol": "WAVAX"
+    },
+    {
+        "Address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C.png",
+        "Name": "HERMES",
+        "Symbol": "HERMES"
+    },
+    {
+        "Address": "0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB1466d4cf0DCfC0bCdDcf3500F473cdACb88b56D.png",
+        "Name": "Weble Ecosystem Token",
+        "Symbol": "WET"
+    },
+    {
+        "Address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0.png",
+        "Name": "Boo Finance Token",
+        "Symbol": "BOOFI"
+    },
+    {
+        "Address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0.png",
+        "Name": "Eleven.finance",
+        "Symbol": "ELE"
+    },
+    {
+        "Address": "0xAE4AA155D2987B454C29450ef4f862CF00907B61",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xAE4AA155D2987B454C29450ef4f862CF00907B61.png",
+        "Name": "Thorus",
+        "Symbol": "THO"
+    },
+    {
+        "Address": "0xAE21d31a6494829a9E4B2B291F4984AAE8121757",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xAE21d31a6494829a9E4B2B291F4984AAE8121757.png",
+        "Name": "IceCream Finance",
+        "Symbol": "CREAM"
+    },
+    {
+        "Address": "0xA9D633A1ac5Aa995C5e4F7d915ADe1Be565A97e8",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA9D633A1ac5Aa995C5e4F7d915ADe1Be565A97e8.png",
+        "Name": "Aurora",
+        "Symbol": "AURORA"
+    },
+    {
+        "Address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png",
+        "Name": "USD Coin",
+        "Symbol": "USDC.e"
+    },
+    {
+        "Address": "0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c.png",
+        "Name": "PSHARE",
+        "Symbol": "PSHARE"
+    },
+    {
+        "Address": "0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA56F9A54880afBc30CF29bB66d2D9ADCdcaEaDD6.png",
+        "Name": "Qi Dao Protocol",
+        "Symbol": "QI"
+    },
+    {
+        "Address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b.png",
+        "Name": "WOWswap",
+        "Symbol": "WOW"
+    },
+    {
+        "Address": "0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA32608e873F9DdEF944B24798db69d80Bbb4d1ed.png",
+        "Name": "CRA",
+        "Symbol": "CRA"
+    },
+    {
+        "Address": "0xA216F344FCd412C129E0c012798A137E332F8955",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0xA216F344FCd412C129E0c012798A137E332F8955.png",
+        "Name": "Avalend Finance",
+        "Symbol": "AVAL"
+    },
+    {
+        "Address": "0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9f285507Ea5B4F33822CA7aBb5EC8953ce37A645.png",
+        "Name": "DegisToken",
+        "Symbol": "DEG"
+    },
+    {
+        "Address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc.png",
+        "Name": "yearn.finance",
+        "Symbol": "YFI.e"
+    },
+    {
+        "Address": "0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9c5bBb5169B66773167d86818b3e149A4c7e1d1A.png",
+        "Name": "RADI",
+        "Symbol": "RADI"
+    },
+    {
+        "Address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd.png",
+        "Name": "Wrapped AllianceBlock Token",
+        "Symbol": "WALBT"
+    },
+    {
+        "Address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x98443B96EA4b0858FDF3219Cd13e98C7A4690588.png",
+        "Name": "Basic Attention Token",
+        "Symbol": "BAT.e"
+    },
+    {
+        "Address": "0x9767203e89dcD34851240B3919d4900d3E5069f1",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9767203e89dcD34851240B3919d4900d3E5069f1.png",
+        "Name": "A4",
+        "Symbol": "A4"
+    },
+    {
+        "Address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7.png",
+        "Name": "TetherToken",
+        "Symbol": "USDt"
+    },
+    {
+        "Address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17.png",
+        "Name": "DeFiYieldProtocol",
+        "Symbol": "DYP"
+    },
+    {
+        "Address": "0x959b88966fC5B261dF8359961357d34F4ee27b4a",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x959b88966fC5B261dF8359961357d34F4ee27b4a.png",
+        "Name": "Universe",
+        "Symbol": "UNIV"
+    },
+    {
+        "Address": "0x945a6869819cdAD404DC80647a2085957CB1f28b",
+        "Decimals": 5,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x945a6869819cdAD404DC80647a2085957CB1f28b.png",
+        "Name": "Leonidas",
+        "Symbol": "LEO"
+    },
+    {
+        "Address": "0x938FE3788222A74924E062120E7BFac829c719Fb",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x938FE3788222A74924E062120E7BFac829c719Fb.png",
+        "Name": "Ape In",
+        "Symbol": "APEIN"
+    },
+    {
+        "Address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21.png",
+        "Name": "Oh! Finance",
+        "Symbol": "OH"
+    },
+    {
+        "Address": "0x9366d30FeBA284E62900f6295BC28c9906f33172",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x9366d30FeBA284E62900f6295BC28c9906f33172.png",
+        "Name": "BioFi",
+        "Symbol": "BioFi"
+    },
+    {
+        "Address": "0x924157B5dbB387A823719916B25256410a4Ad470",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x924157B5dbB387A823719916B25256410a4Ad470.png",
+        "Name": "Snowtomb Lot",
+        "Symbol": "SLOT"
+    },
+    {
+        "Address": "0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x921f99719Eb6C01b4B8f0BA7973A7C24891e740A.png",
+        "Name": "MetaBrands",
+        "Symbol": "MAGE"
+    },
+    {
+        "Address": "0x90842eb834cFD2A1DB0b1512B254a18E4D396215",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x90842eb834cFD2A1DB0b1512B254a18E4D396215.png",
+        "Name": "Good Bridging",
+        "Symbol": "GB"
+    },
+    {
+        "Address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580.png",
+        "Name": "Uniswap",
+        "Symbol": "UNI.e"
+    },
+    {
+        "Address": "0x8afa62Fa8DdE8888405c899D7Da077A61a87EeD3",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8afa62Fa8DdE8888405c899D7Da077A61a87EeD3.png",
+        "Name": "Libre",
+        "Symbol": "LIBRE"
+    },
+    {
+        "Address": "0x8aE8be25C23833e0A01Aa200403e826F611f9CD2",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8aE8be25C23833e0A01Aa200403e826F611f9CD2.png",
+        "Name": "CRAFT",
+        "Symbol": "CRAFT"
+    },
+    {
+        "Address": "0x8aD883CCC39c87315e1Ee796aCb44743E624e1d5",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8aD883CCC39c87315e1Ee796aCb44743E624e1d5.png",
+        "Name": "AVAX Node",
+        "Symbol": "ANODE"
+    },
+    {
+        "Address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8a0cAc13c7da965a312f08ea4229c37869e85cB9.png",
+        "Name": "Graph Token",
+        "Symbol": "GRT.e"
+    },
+    {
+        "Address": "0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8F47416CaE600bccF9530E9F3aeaA06bdD1Caa79.png",
+        "Name": "THOR v2",
+        "Symbol": "THOR"
+    },
+    {
+        "Address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf.png",
+        "Name": "Canary",
+        "Symbol": "CNR"
+    },
+    {
+        "Address": "0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8CD309e14575203535EF120b5b0Ab4DDeD0C2073.png",
+        "Name": "Wrapped sOHM",
+        "Symbol": "wsOHM"
+    },
+    {
+        "Address": "0x8B1d98A91F853218ddbb066F20b8c63E782e2430",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8B1d98A91F853218ddbb066F20b8c63E782e2430.png",
+        "Name": "OrcaDAO",
+        "Symbol": "ORCA"
+    },
+    {
+        "Address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x88128fd4b259552A9A1D457f435a6527AAb72d42.png",
+        "Name": "Maker",
+        "Symbol": "MKR.e"
+    },
+    {
+        "Address": "0x87BAde473ea0513D4aA7085484aEAA6cB6EBE7e3",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x87BAde473ea0513D4aA7085484aEAA6cB6EBE7e3.png",
+        "Name": "Mor Stablecoin",
+        "Symbol": "MOR"
+    },
+    {
+        "Address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5.png",
+        "Name": "BENQI",
+        "Symbol": "QI"
+    },
+    {
+        "Address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a.png",
+        "Name": "VersoToken",
+        "Symbol": "VSO"
+    },
+    {
+        "Address": "0x82FE038Ea4b50f9C957da326C412ebd73462077C",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x82FE038Ea4b50f9C957da326C412ebd73462077C.png",
+        "Name": "Joe Hat Token",
+        "Symbol": "HAT"
+    },
+    {
+        "Address": "0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x82E64f49Ed5EC1bC6e43DAD4FC8Af9bb3A2312EE.png",
+        "Name": "Aave Avalanche DAI",
+        "Symbol": "aAvaDAI"
+    },
+    {
+        "Address": "0x81440C939f2C1E34fc7048E518a637205A632a74",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x81440C939f2C1E34fc7048E518a637205A632a74.png",
+        "Name": "Cycle Token",
+        "Symbol": "CYCLE"
+    },
+    {
+        "Address": "0x7f041ce89A2079873693207653b24C15B5e6A293",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7f041ce89A2079873693207653b24C15B5e6A293.png",
+        "Name": "LOOT",
+        "Symbol": "LOOT"
+    },
+    {
+        "Address": "0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7d1232B90D3F809A54eeaeeBC639C62dF8a8942f.png",
+        "Name": "Snowbank",
+        "Symbol": "SB"
+    },
+    {
+        "Address": "0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7b2B702706D9b361dfE3f00bD138C0CFDA7FB2Cf.png",
+        "Name": "Pollen",
+        "Symbol": "PLN"
+    },
+    {
+        "Address": "0x7C08413cbf02202a1c13643dB173f2694e0F73f0",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7C08413cbf02202a1c13643dB173f2694e0F73f0.png",
+        "Name": "Maximizer",
+        "Symbol": "MAXI"
+    },
+    {
+        "Address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE.png",
+        "Name": "Avaware",
+        "Symbol": "AVE"
+    },
+    {
+        "Address": "0x78c42324016cd91D1827924711563fb66E33A83A",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x78c42324016cd91D1827924711563fb66E33A83A.png",
+        "Name": "Relay Token",
+        "Symbol": "RELAY"
+    },
+    {
+        "Address": "0x788AE3b5D153d49F8DB649aacbA1857f744b739e",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x788AE3b5D153d49F8DB649aacbA1857f744b739e.png",
+        "Name": "KITTY",
+        "Symbol": "KITTY"
+    },
+    {
+        "Address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x783C08b5F26E3daf8C4681F3bf49844e425b6393.png",
+        "Name": "Avaware USD",
+        "Symbol": "AUSD"
+    },
+    {
+        "Address": "0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7761E2338B35bCEB6BdA6ce477EF012bde7aE611.png",
+        "Name": "chikn egg",
+        "Symbol": "EGG"
+    },
+    {
+        "Address": "0x75EcfC5825DC0f1b346dB945D5c463d212CDf2a3",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x75EcfC5825DC0f1b346dB945D5c463d212CDf2a3.png",
+        "Name": "Nobelium",
+        "Symbol": "NOBEL"
+    },
+    {
+        "Address": "0x75739a693459f33B1FBcC02099eea3eBCF150cBe",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x75739a693459f33B1FBcC02099eea3eBCF150cBe.png",
+        "Name": "ElasticSwap Tic Token",
+        "Symbol": "TIC"
+    },
+    {
+        "Address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x714f020C54cc9D104B6F4f6998C63ce2a31D1888.png",
+        "Name": "STEP.APP",
+        "Symbol": "FITFI"
+    },
+    {
+        "Address": "0x7086e045b78E1e72F741F25231c08d238812CF8a",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7086e045b78E1e72F741F25231c08d238812CF8a.png",
+        "Name": "RaceX",
+        "Symbol": "RACEX"
+    },
+    {
+        "Address": "0x7086C48c997b8597a1692798155B4fCf2cee7F0f",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x7086C48c997b8597a1692798155B4fCf2cee7F0f.png",
+        "Name": "AVAT",
+        "Symbol": "AVAT"
+    },
+    {
+        "Address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd.png",
+        "Name": "JoeToken",
+        "Symbol": "JOE"
+    },
+    {
+        "Address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985.png",
+        "Name": "Spore.Finance",
+        "Symbol": "SPORE"
+    },
+    {
+        "Address": "0x6d2f5dBf3a7396FCe32CfE406Aef7a8AFF812Fbb",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6d2f5dBf3a7396FCe32CfE406Aef7a8AFF812Fbb.png",
+        "Name": "100 Days Ventures - v1.1",
+        "Symbol": "ASTRO"
+    },
+    {
+        "Address": "0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6ca558bd3eaB53DA1B25aB97916dd14bf6CFEe4E.png",
+        "Name": "pAVAX",
+        "Symbol": "pAVAX"
+    },
+    {
+        "Address": "0x6b289CCeAA8639e3831095D75A3e43520faBf552",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6b289CCeAA8639e3831095D75A3e43520faBf552.png",
+        "Name": "Cartesi Token",
+        "Symbol": "CTSI"
+    },
+    {
+        "Address": "0x6b0d2a3c37d551963275bB104F045F6a68AB6374",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6b0d2a3c37d551963275bB104F045F6a68AB6374.png",
+        "Name": "APE UNIVERSE",
+        "Symbol": "ApeU"
+    },
+    {
+        "Address": "0x6ab707Aca953eDAeFBc4fD23bA73294241490620",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6ab707Aca953eDAeFBc4fD23bA73294241490620.png",
+        "Name": "Aave Avalanche USDT",
+        "Symbol": "aAvaUSDT"
+    },
+    {
+        "Address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6D923f688C7FF287dc3A5943CAeefc994F97b290.png",
+        "Name": "SmarterCoin",
+        "Symbol": "SMRTr"
+    },
+    {
+        "Address": "0x6C6f910A79639dcC94b4feEF59Ff507c2E843929",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6C6f910A79639dcC94b4feEF59Ff507c2E843929.png",
+        "Name": "Ankr Reward-Earning Staked AVAX",
+        "Symbol": "aAVAXb"
+    },
+    {
+        "Address": "0x6C1c0319d8dDcb0ffE1a68C5b3829Fd361587DB4",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6C1c0319d8dDcb0ffE1a68C5b3829Fd361587DB4.png",
+        "Name": "POLAR",
+        "Symbol": "POLAR"
+    },
+    {
+        "Address": "0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x6AFD5A1ea4b793CC1526d6Dc7e99A608b356eF7b.png",
+        "Name": " STORM Token",
+        "Symbol": "STORM"
+    },
+    {
+        "Address": "0x695Fa794d59106cEbd40ab5f5cA19F458c723829",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x695Fa794d59106cEbd40ab5f5cA19F458c723829.png",
+        "Name": "HakuSwap Token",
+        "Symbol": "HAKU"
+    },
+    {
+        "Address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654.png",
+        "Name": "Husky",
+        "Symbol": "HUSKY"
+    },
+    {
+        "Address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x63a72806098Bd3D9520cC43356dD78afe5D386D9.png",
+        "Name": "Aave Token",
+        "Symbol": "AAVE.e"
+    },
+    {
+        "Address": "0x637afeff75ca669fF92e4570B14D6399A658902f",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x637afeff75ca669fF92e4570B14D6399A658902f.png",
+        "Name": "Poly-Peg COOK",
+        "Symbol": "COOK"
+    },
+    {
+        "Address": "0x63682bDC5f875e9bF69E201550658492C9763F89",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x63682bDC5f875e9bF69E201550658492C9763F89.png",
+        "Name": "Betswap.gg",
+        "Symbol": "BSGG"
+    },
+    {
+        "Address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x62edc0692BD897D2295872a9FFCac5425011c661.png",
+        "Name": "GMX",
+        "Symbol": "GMX"
+    },
+    {
+        "Address": "0x625E7708f30cA75bfd92586e17077590C60eb4cD",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x625E7708f30cA75bfd92586e17077590C60eb4cD.png",
+        "Name": "Aave Avalanche USDC",
+        "Symbol": "aAvaUSDC"
+    },
+    {
+        "Address": "0x61eCd63e42C27415696e10864d70ecEA4aA11289",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x61eCd63e42C27415696e10864d70ecEA4aA11289.png",
+        "Name": "RUGPULL",
+        "Symbol": "RUGPULL"
+    },
+    {
+        "Address": "0x617724974218A18769020A70162165A539c07E8a",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x617724974218A18769020A70162165A539c07E8a.png",
+        "Name": "OliveCash Token",
+        "Symbol": "OLIVE"
+    },
+    {
+        "Address": "0x60781C2586D68229fde47564546784ab3fACA982",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x60781C2586D68229fde47564546784ab3fACA982.png",
+        "Name": "Pangolin",
+        "Symbol": "PNG"
+    },
+    {
+        "Address": "0x5E46c4AA8d9284d08e2Ad399b389ea4Cf0D51Bdc",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x5E46c4AA8d9284d08e2Ad399b389ea4Cf0D51Bdc.png",
+        "Name": "AbeatsHeroEnhencementToken",
+        "Symbol": "AHE"
+    },
+    {
+        "Address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x596fA47043f99A4e0F122243B841E55375cdE0d2.png",
+        "Name": "ZRX",
+        "Symbol": "ZRX.e"
+    },
+    {
+        "Address": "0x5947BB275c521040051D82396192181b413227A3",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x5947BB275c521040051D82396192181b413227A3.png",
+        "Name": "Chainlink Token",
+        "Symbol": "LINK.e"
+    },
+    {
+        "Address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7.png",
+        "Name": "Yak Token",
+        "Symbol": "YAK"
+    },
+    {
+        "Address": "0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x5817D4F0b62A59b17f75207DA1848C2cE75e7AF4.png",
+        "Name": "Vector",
+        "Symbol": "VTX"
+    },
+    {
+        "Address": "0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x5684a087C739A2e845F4AaAaBf4FBd261edc2bE8.png",
+        "Name": "Life",
+        "Symbol": "LF"
+    },
+    {
+        "Address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x564A341Df6C126f90cf3ECB92120FD7190ACb401.png",
+        "Name": "BiLira",
+        "Symbol": "TRYB"
+    },
+    {
+        "Address": "0x5541D83EFaD1f281571B343977648B75d95cdAC2",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x5541D83EFaD1f281571B343977648B75d95cdAC2.png",
+        "Name": "Grape Finance",
+        "Symbol": "GRAPE"
+    },
+    {
+        "Address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x544c42fBB96B39B21DF61cf322b5EDC285EE7429.png",
+        "Name": "Avalanche INSUR Token",
+        "Symbol": "INSUR"
+    },
+    {
+        "Address": "0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD.png",
+        "Name": "TRACTOR JOE",
+        "Symbol": "TRACTOR"
+    },
+    {
+        "Address": "0x511D35c52a3C244E7b8bd92c0C297755FbD89212",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x511D35c52a3C244E7b8bd92c0C297755FbD89212.png",
+        "Name": "Beta Token",
+        "Symbol": "BETA"
+    },
+    {
+        "Address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+        "Decimals": 8,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x50b7545627a5162F82A992c33b87aDc75187B218.png",
+        "Name": "Wrapped BTC",
+        "Symbol": "WBTC.e"
+    },
+    {
+        "Address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4fbf0429599460D327BD5F55625E30E4fC066095.png",
+        "Name": "TSD Stablecoin",
+        "Symbol": "TSD"
+    },
+    {
+        "Address": "0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4f60a160D8C2DDdaAfe16FCC57566dB84D674BD6.png",
+        "Name": "Jewels",
+        "Symbol": "JEWEL"
+    },
+    {
+        "Address": "0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4C9B4E1AC6F24CdE3660D5E4Ef1eBF77C710C084.png",
+        "Name": "LydiaFinance Token",
+        "Symbol": "LYD"
+    },
+    {
+        "Address": "0x4Aca0ad6357b918e3d06BB1a0BCC403619177523",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4Aca0ad6357b918e3d06BB1a0BCC403619177523.png",
+        "Name": "Sonic Token",
+        "Symbol": "SONIC"
+    },
+    {
+        "Address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB.png",
+        "Name": "Wrapped Ether",
+        "Symbol": "WETH.e"
+    },
+    {
+        "Address": "0x4939B3313E73ae8546b90e53E998E82274afDbDB",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4939B3313E73ae8546b90e53E998E82274afDbDB.png",
+        "Name": "Cross Chain Capital V2",
+        "Symbol": "CCC"
+    },
+    {
+        "Address": "0x488F73cddDA1DE3664775fFd91623637383D6404",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x488F73cddDA1DE3664775fFd91623637383D6404.png",
+        "Name": "YetiSwap",
+        "Symbol": "YTS"
+    },
+    {
+        "Address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D.png",
+        "Name": "Defrost Finance Token",
+        "Symbol": "MELT"
+    },
+    {
+        "Address": "0x4735721ED62713E3A141C939f4Aa55cA8aD5F66A",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4735721ED62713E3A141C939f4Aa55cA8aD5F66A.png",
+        "Name": "Chihuahuax",
+        "Symbol": "CHIHUA"
+    },
+    {
+        "Address": "0x4636e16444720075db87A0a4fd998B423c2B5456",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4636e16444720075db87A0a4fd998B423c2B5456.png",
+        "Name": "ACTA [via ChainPort.io]",
+        "Symbol": "ACTA"
+    },
+    {
+        "Address": "0x4501e37a79cf953116331a105B3644d07b74C0F8",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x4501e37a79cf953116331a105B3644d07b74C0F8.png",
+        "Name": "SafeMoonAvax",
+        "Symbol": "SafeMoonA"
+    },
+    {
+        "Address": "0x449674B82F05d498E126Dd6615a1057A9c088f2C",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x449674B82F05d498E126Dd6615a1057A9c088f2C.png",
+        "Name": "LostToken",
+        "Symbol": "LOST"
+    },
+    {
+        "Address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1.png",
+        "Name": "SHIBAVAX",
+        "Symbol": "SHIBX"
+    },
+    {
+        "Address": "0x431289cb3a2eC0875351e33767e175c816C73B3A",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x431289cb3a2eC0875351e33767e175c816C73B3A.png",
+        "Name": "Alfheim Token",
+        "Symbol": "AFM"
+    },
+    {
+        "Address": "0x3b1468a6f1E6030aBF31D81337C5D5D73d5ED5C4",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x3b1468a6f1E6030aBF31D81337C5D5D73d5ED5C4.png",
+        "Name": "AVAX Capital Node",
+        "Symbol": "ACN"
+    },
+    {
+        "Address": "0x3F3Fea5dd9b1940C2ee4822D7B7a06F19d58656e",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x3F3Fea5dd9b1940C2ee4822D7B7a06F19d58656e.png",
+        "Name": "AVAPAY",
+        "Symbol": "AVAPAY"
+    },
+    {
+        "Address": "0x3EeFb18003D033661f84e48360eBeCD181A84709",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x3EeFb18003D033661f84e48360eBeCD181A84709.png",
+        "Name": "Islander",
+        "Symbol": "ISA"
+    },
+    {
+        "Address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339.png",
+        "Name": "UMA Voting Token v1",
+        "Symbol": "UMA.e"
+    },
+    {
+        "Address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1.png",
+        "Name": "Avaxtars Token",
+        "Symbol": "AVXT"
+    },
+    {
+        "Address": "0x37deD665a387a6f170FB60376B3057f09df6c0Ea",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x37deD665a387a6f170FB60376B3057f09df6c0Ea.png",
+        "Name": "Kandy",
+        "Symbol": "$KANDY"
+    },
+    {
+        "Address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76.png",
+        "Name": "SushiToken",
+        "Symbol": "SUSHI.e"
+    },
+    {
+        "Address": "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x3709E8615E02C15B096f8a9B460ccb8cA8194e86.png",
+        "Name": "Vee",
+        "Symbol": "VEE"
+    },
+    {
+        "Address": "0x346A59146b9b4a77100D369a3d18E8007A9F46a6",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x346A59146b9b4a77100D369a3d18E8007A9F46a6.png",
+        "Name": "AVAI",
+        "Symbol": "AVAI"
+    },
+    {
+        "Address": "0x321E7092a180BB43555132ec53AaA65a5bF84251",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x321E7092a180BB43555132ec53AaA65a5bF84251.png",
+        "Name": "Governance OHM",
+        "Symbol": "gOHM"
+    },
+    {
+        "Address": "0x320aDa89DbFA3A154613D2731c9BC3a4030DbA19",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x320aDa89DbFA3A154613D2731c9BC3a4030DbA19.png",
+        "Name": "FROST",
+        "Symbol": "FROST"
+    },
+    {
+        "Address": "0x2dee42737d769f7444F8E0C0365E0EE1f992A88c",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x2dee42737d769f7444F8E0C0365E0EE1f992A88c.png",
+        "Name": "BananaApeGarden",
+        "Symbol": "BAG"
+    },
+    {
+        "Address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE.png",
+        "Name": "Staked AVAX",
+        "Symbol": "sAVAX"
+    },
+    {
+        "Address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590.png",
+        "Name": "StargateToken",
+        "Symbol": "STG"
+    },
+    {
+        "Address": "0x2D5433E9D475C78542dbd0d16d7016b9AaB99c1c",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x2D5433E9D475C78542dbd0d16d7016b9AaB99c1c.png",
+        "Name": "Big Fund Capital DAO",
+        "Symbol": "BFC"
+    },
+    {
+        "Address": "0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x28690ec942671aC8d9Bc442B667EC338eDE6dFd3.png",
+        "Name": "deBridge USD Coin",
+        "Symbol": "deUSDC"
+    },
+    {
+        "Address": "0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x2841A8a2ce98A9d21aD8C3B7Fc481527569bd7bb.png",
+        "Name": "SL3",
+        "Symbol": "SL3"
+    },
+    {
+        "Address": "0x264c1383EA520f73dd837F915ef3a732e204a493",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x264c1383EA520f73dd837F915ef3a732e204a493.png",
+        "Name": "Binance",
+        "Symbol": "BNB"
+    },
+    {
+        "Address": "0x22d4002028f537599bE9f666d1c4Fa138522f9c8",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x22d4002028f537599bE9f666d1c4Fa138522f9c8.png",
+        "Name": "Platypus",
+        "Symbol": "PTP"
+    },
+    {
+        "Address": "0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x21c5402C3B7d40C89Cc472C9dF5dD7E51BbAb1b1.png",
+        "Name": "TUNDRAToken",
+        "Symbol": "TUNDRA"
+    },
+    {
+        "Address": "0x218aC1bc9Ad8c0562988B03263540ec85C462F5a",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x218aC1bc9Ad8c0562988B03263540ec85C462F5a.png",
+        "Name": "Anortis",
+        "Symbol": "ANORTIS"
+    },
+    {
+        "Address": "0x214DB107654fF987AD859F34125307783fC8e387",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x214DB107654fF987AD859F34125307783fC8e387.png",
+        "Name": "Frax Share",
+        "Symbol": "FXS"
+    },
+    {
+        "Address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f.png",
+        "Name": "AlphaToken",
+        "Symbol": "ALPHA.e"
+    },
+    {
+        "Address": "0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x20CF1b6E9d856321ed4686877CF4538F2C84B4dE.png",
+        "Name": "Ankr Network",
+        "Symbol": "ANKR"
+    },
+    {
+        "Address": "0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1fE4869f2C5181b9CD780a7E16194FA2c4C4293D.png",
+        "Name": "SNO",
+        "Symbol": "SNO Token"
+    },
+    {
+        "Address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1f1E7c893855525b303f99bDF5c3c05Be09ca251.png",
+        "Name": "Synapse",
+        "Symbol": "SYN"
+    },
+    {
+        "Address": "0x1efE6a8AF01920912F0B4f7F26fc16e294664c4C",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1efE6a8AF01920912F0B4f7F26fc16e294664c4C.png",
+        "Name": "Etherstones",
+        "Symbol": "ETHS"
+    },
+    {
+        "Address": "0x1aa76D4A622aDAa89C443047C0E5955D1b575407",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1aa76D4A622aDAa89C443047C0E5955D1b575407.png",
+        "Name": "AvaxDAO",
+        "Symbol": "AVAXD"
+    },
+    {
+        "Address": "0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1ECd47FF4d9598f89721A2866BFEb99505a413Ed.png",
+        "Name": "AVME",
+        "Symbol": "AVME"
+    },
+    {
+        "Address": "0x1DB749847C4abB991d8B6032102383e6BfD9B1c7",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1DB749847C4abB991d8B6032102383e6BfD9B1c7.png",
+        "Name": "Dogeon Token",
+        "Symbol": "DON"
+    },
+    {
+        "Address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB.png",
+        "Name": "TrueUSD",
+        "Symbol": "TUSD"
+    },
+    {
+        "Address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x1B88D7aD51626044Ec62eF9803EA264DA4442F32.png",
+        "Name": "ZooToken",
+        "Symbol": "ZOO"
+    },
+    {
+        "Address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98.png",
+        "Name": "Binance USD",
+        "Symbol": "BUSD.e"
+    },
+    {
+        "Address": "0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x191c10Aa4AF7C30e871E70C95dB0E4eb77237530.png",
+        "Name": "Aave Avalanche LINK",
+        "Symbol": "aAvaLINK"
+    },
+    {
+        "Address": "0x18E2269F98DB2eda3CFc06E6cCA384b291e553d9",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x18E2269F98DB2eda3CFc06E6cCA384b291e553d9.png",
+        "Name": "Digits",
+        "Symbol": "DIGITS"
+    },
+    {
+        "Address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "Decimals": 8,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x152b9d0FdC40C096757F570A51E494bd4b943E50.png",
+        "Name": "Bitcoin",
+        "Symbol": "BTC.b"
+    },
+    {
+        "Address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x130966628846BFd36ff31a822705796e8cb8C18D.png",
+        "Name": "Magic Internet Money",
+        "Symbol": "MIM"
+    },
+    {
+        "Address": "0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb",
+        "Decimals": 6,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x120AD3e5A7c796349e591F1570D9f7980F4eA9cb.png",
+        "Name": "Axelar Wrapped LUNA",
+        "Symbol": "LUNA"
+    },
+    {
+        "Address": "0x111111111111ed1D73f860F57b2798b683f2d325",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x111111111111ed1D73f860F57b2798b683f2d325.png",
+        "Name": "YUSD Stablecoin",
+        "Symbol": "YUSD"
+    },
+    {
+        "Address": "0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x100Cc3a819Dd3e8573fD2E46D1E66ee866068f30.png",
+        "Name": "Dragon Crypto Aurum",
+        "Symbol": "DCAU"
+    },
+    {
+        "Address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x0f34919404a290e71fc6A510cB4a6aCb8D764b24.png",
+        "Name": "Blizz.Finance Protocol Token",
+        "Symbol": "BLZZ"
+    },
+    {
+        "Address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x0ebd9537A25f56713E34c45b38F421A1e7191469.png",
+        "Name": "OpenOcean",
+        "Symbol": "OOE"
+    },
+    {
+        "Address": "0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x0da67235dD5787D67955420C84ca1cEcd4E5Bb3b.png",
+        "Name": "Wrapped MEMO",
+        "Symbol": "wMEMO"
+    },
+    {
+        "Address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC.png",
+        "Name": "TEDDY",
+        "Symbol": "TEDDY"
+    },
+    {
+        "Address": "0x094BFaC9894d2A2A35771D0BD6d2447689190F32",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x094BFaC9894d2A2A35771D0BD6d2447689190F32.png",
+        "Name": "CAT",
+        "Symbol": "CAT"
+    },
+    {
+        "Address": "0x093783055F9047C2BfF99c4e414501F8A147bC69",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x093783055F9047C2BfF99c4e414501F8A147bC69.png",
+        "Name": "Dexalot Token",
+        "Symbol": "ALOT"
+    },
+    {
+        "Address": "0x078f358208685046a11C85e8ad32895DED33A249",
+        "Decimals": 8,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x078f358208685046a11C85e8ad32895DED33A249.png",
+        "Name": "Aave Avalanche WBTC",
+        "Symbol": "aAvaWBTC"
+    },
+    {
+        "Address": "0x02Bfd11499847003De5f0F5AA081C43854d48815",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x02Bfd11499847003De5f0F5AA081C43854d48815.png",
+        "Name": "RadioShack Token",
+        "Symbol": "RADIO"
+    },
+    {
+        "Address": "0x027dbcA046ca156De9622cD1e2D907d375e53aa7",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x027dbcA046ca156De9622cD1e2D907d375e53aa7.png",
+        "Name": "Ampleforth secured by Meter Passport",
+        "Symbol": "AMPL"
+    },
+    {
+        "Address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x026187BdbC6b751003517bcb30Ac7817D5B766f8.png",
+        "Name": "Defrost Finance H2O",
+        "Symbol": "H2O"
+    },
+    {
+        "Address": "0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5",
+        "Decimals": 9,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x01c5E2a4af2bd9f62c7d55C6105b8a64e6905be5.png",
+        "Name": "Hatter",
+        "Symbol": "Hatter"
+    },
+    {
+        "Address": "0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x01C2086faCFD7aA38f69A6Bd8C91BEF3BB5adFCa.png",
+        "Name": "YAY Games",
+        "Symbol": "YAY"
+    },
+    {
+        "Address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
+        "Decimals": 18,
+        "IconURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/avalanche/tokens/images/0x00EE200Df31b869a321B10400Da10b561F3ee60d.png",
+        "Name": "Arable Protocol",
+        "Symbol": "ACRE"
+    }
+]
