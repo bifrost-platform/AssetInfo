@@ -1,0 +1,4076 @@
+{
+    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/polygon/tokens/images/",
+    "EmptyToken": "empty-token.png",
+    "TokenList": [
+        {
+            "Address": "0xfe712251173A2cd5F5bE2B46Bb528328EA3565E1",
+            "Name": "Metaverse Index (PoS)",
+            "Symbol": "MVI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xfe4546feFe124F30788c4Cc1BB9AA6907A7987F9",
+            "Name": "CelsiusX Wrapped ETH",
+            "Symbol": "cxETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xfa68FB4628DFF1028CFEc22b4162FCcd0d45efb6",
+            "Name": "Liquid Staking Matic (PoS)",
+            "Symbol": "MaticX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xfC40a4F89b410a1b855b5e205064a38fC29F5eb5",
+            "Name": "rUSD",
+            "Symbol": "rUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf5EA626334037a2cf0155D49eA6462fDdC6Eff19",
+            "Name": "PolygonFarm Finance",
+            "Symbol": "SPADE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf50D05A1402d0adAfA880D36050736f9f6ee7dee",
+            "Name": "Instadapp (PoS)",
+            "Symbol": "INST",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf4C83080E80AE530d6f8180572cBbf1Ac9D5d435",
+            "Name": "GoBlank Token (PoS)",
+            "Symbol": "BLANK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf2ae0038696774d65E67892c9D301C5f2CbbDa58",
+            "Name": "CargoX Token (PoS)",
+            "Symbol": "CXO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf153EfF70DC0bf3b085134928daeEA248d9B30d0",
+            "Name": "Standard (PoS)",
+            "Symbol": "xMARK",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf1428850f92B87e629c6f3A3B75BffBC496F7Ba6",
+            "Name": "GEOPOLY",
+            "Symbol": "GEO$",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf0059CC2b3E980065A906940fbce5f9Db7ae40A7",
+            "Name": "Shardus (PoS)",
+            "Symbol": "ULT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xef938b6da8576a896f6E0321ef80996F4890f9c4",
+            "Name": "Decentral Games (PoS)",
+            "Symbol": "DG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xee7666aACAEFaa6efeeF62ea40176d3eB21953B9",
+            "Name": "MCHCoin (PoS)",
+            "Symbol": "MCHC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xeb2778f74E5ee038E67AA6c77f0F0451ABd748FD",
+            "Name": "PolyZap",
+            "Symbol": "PZAP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xeEeEEb57642040bE42185f49C52F7E9B38f8eeeE",
+            "Name": "Elk",
+            "Symbol": "ELK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xeEe3371B89FC43Ea970E908536Fcddd975135D8a",
+            "Name": "The Doge NFT",
+            "Symbol": "DOG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xeCf8f2FA183b1C4d2A269BF98A54fCe86C812d3e",
+            "Name": "CyberFi Token (PoS)",
+            "Symbol": "CFi",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe8377A076adAbb3F9838afB77Bee96Eac101ffB1",
+            "Name": "MetaSoccer Universe",
+            "Symbol": "MSU",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe82808eaA78339b06a691fd92E1Be79671cAd8D3",
+            "Name": "PlotX",
+            "Symbol": "PLOT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe6FC6C7CB6d2c31b359A49A33eF08aB87F4dE7CE",
+            "Name": "IG Gold (PoS)",
+            "Symbol": "IGG",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe20D2Df5041f8Ed06976846470f727295cDd4D23",
+            "Name": "BIOS (PoS)",
+            "Symbol": "BIOS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe20B9e246db5a0d21BF9209E4858Bc9A3ff7A034",
+            "Name": "Wrapped Banano",
+            "Symbol": "wBAN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe0Ce60AF0850bF54072635e66E79Df17082A1109",
+            "Name": "Propel",
+            "Symbol": "PROPEL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdef1fac7Bf08f173D286BbBDcBeeADe695129840",
+            "Name": "Cerby Token",
+            "Symbol": "CERBY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdb725f82818De83e99F1dAc22A9b5B51d3d04DD4",
+            "Name": "GET Protocol (PoS)",
+            "Symbol": "GET",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdae89dA41a96956e9e70320Ac9c0dd077070D3a5",
+            "Name": "Centaur Token (PoS)",
+            "Symbol": "CNTR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdaB35042e63E93Cc8556c9bAE482E5415B5Ac4B1",
+            "Name": "Iris",
+            "Symbol": "IRIS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdF7837DE1F2Fa4631D716CF2502f8b230F1dcc32",
+            "Name": "Telcoin (PoS)",
+            "Symbol": "TEL",
+            "Decimals": 2,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdDa40cdfe4A0090f42Ff49f264A831402ADB801A",
+            "Name": "Dogira",
+            "Symbol": "DOGIRA",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdD2AF2E723547088D3846841fbDcC6A8093313d6",
+            "Name": "GOGOcoin",
+            "Symbol": "GOGO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdAb529f40E671A1D4bF91361c21bf9f0C9712ab7",
+            "Name": "(PoS) Binance USD",
+            "Symbol": "BUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd99baFe5031cC8B345cb2e8c80135991F12D7130",
+            "Name": "Ferrum Network Token",
+            "Symbol": "FRM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd8cA34fd379d9ca3C6Ee3b3905678320F5b45195",
+            "Name": "Governance OHM",
+            "Symbol": "gOHM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd7ecf95Cf7eF5256990BeAf4ac895cD9e64cb947",
+            "Name": "pTokens BTC",
+            "Symbol": "pBTC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd6A5aB46ead26f49b03bBB1F9EB1Ad5c1767974a",
+            "Name": "EthermonToken",
+            "Symbol": "EMON",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd55fCe7CDaB84d84f2EF3F99816D765a2a94a509",
+            "Name": "Chain Games",
+            "Symbol": "CHAIN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd28449BB9bB659725aCcAd52947677ccE3719fD7",
+            "Name": "Dark Matter Token (PoS)",
+            "Symbol": "DMT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd1790c5435b9fB7C9444c749ceFE53D40D751eaC",
+            "Name": "Mimir Token",
+            "Symbol": "MIMIR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xd0258a3fD00f38aa8090dfee343f10A9D4d30D3F",
+            "Name": "VOXEL Token",
+            "Symbol": "VOXEL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcf32822ff397Ef82425153a9dcb726E5fF61DCA7",
+            "Name": "GAMEE",
+            "Symbol": "GMEE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xce6bF09e5c7A3E65B84F88DcC6475c88d38BA5eF",
+            "Name": "Opacity (PoS)",
+            "Symbol": "OPCT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcd7361ac3307D1C5a46b63086a90742Ff44c63B3",
+            "Name": "RaiderToken",
+            "Symbol": "RAIDER",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcaF5191fc480F43e4DF80106c7695ECA56E48B18",
+            "Name": "DinoX Coin",
+            "Symbol": "DNXC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcFb54a6D2dA14ABeCD231174FC5735B4436965D8",
+            "Name": "Cyclone Protocol",
+            "Symbol": "CYC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcE899f26928a2B21c6a2Fddd393EF37c61dbA918",
+            "Name": "Museum of Crypto Art",
+            "Symbol": "MOCA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcE829A89d4A55a63418bcC43F00145adef0eDB8E",
+            "Name": "renDOGE",
+            "Symbol": "renDOGE",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcD86152047e800d67BDf00A4c635A8B6C0e5C4c2",
+            "Name": "NACHO",
+            "Symbol": "NACHO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xcBce9f77921C2E90522d438dF4C5582F4c617768",
+            "Name": "AGA Carbon Rewards",
+            "Symbol": "AGAcr",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc75ea0c71023C14952F3C7B9101ECbbAa14aA27A",
+            "Name": "Scalara NFT Index (PoS)",
+            "Symbol": "NFTI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc6C855AD634dCDAd23e64DA71Ba85b8C51E5aD7c",
+            "Name": "Decentral Games ICE",
+            "Symbol": "ICE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc6480Da81151B2277761024599E8Db2Ad4C388C8",
+            "Name": "Decentral Games Governance (PoS)",
+            "Symbol": "xDG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc58158c14D4757EF36Ce25e493758F2fcEEDec5D",
+            "Name": "DeFi11",
+            "Symbol": "D11",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc48F61a288A08F1B80c2edd74652e1276B6A168c",
+            "Name": "Geyser (PoS)",
+            "Symbol": "GYSR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc3cFFDAf8F3fdF07da6D5e3A89B8723D5E385ff8",
+            "Name": "Rubic (PoS)",
+            "Symbol": "RBC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc3FdbadC7c795EF1D6Ba111e06fF8F16A20Ea539",
+            "Name": "Adamant",
+            "Symbol": "ADDY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc2A45FE7d40bCAc8369371B08419DDAFd3131b4a",
+            "Name": "Lucidao",
+            "Symbol": "LCD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc26D47d5c33aC71AC5CF9F776D63Ba292a4F7842",
+            "Name": "Bancor Network Token (PoS)",
+            "Symbol": "BNT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F",
+            "Name": "(PoS) Tether USD",
+            "Symbol": "USDT",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc1c93D475dc82Fe72DBC7074d55f5a734F8cEEAE",
+            "Name": "Pegaxy Stone",
+            "Symbol": "PGX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xc10358f062663448a3489fC258139944534592ac",
+            "Name": "Blockchain Monster Coin",
+            "Symbol": "BCMC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xbe9512e2754cb938dd69Bbb96c8a09Cb28a02D6D",
+            "Name": "GemBites",
+            "Symbol": "GBTS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xbE5cf150E1fF59ca7F2499Eaa13BFC40AAE70e78",
+            "Name": "Glitch (PoS)",
+            "Symbol": "GLCH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xbC91347e80886453F3f8bBd6d7aC07C122D87735",
+            "Name": "Banana",
+            "Symbol": "BANANA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xbAe28251B2a4E621aA7e20538c06DEe010Bc06DE",
+            "Name": "dHEDGE Stablecoin Yield",
+            "Symbol": "dUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xbA3CB8329D442E6F9Eb70fafe1E214251df3D275",
+            "Name": "Swash Token",
+            "Symbol": "SWASH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xb75bBd79985a8092B05224f62D7fED25924B075d",
+            "Name": "Datamine (PoS)",
+            "Symbol": "DAM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xb371248Dd0f9E4061ccf8850E9223Ca48Aa7CA4b",
+            "Name": "Honey (PoS)",
+            "Symbol": "HNY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xb33EaAd8d922B1083446DC23f610c2567fB5180f",
+            "Name": "Uniswap (PoS)",
+            "Symbol": "UNI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xad684e79CE4b6D464f2Ff7c3FD51646892e24b96",
+            "Name": "Autonio (PoS)",
+            "Symbol": "NIOX",
+            "Decimals": 4,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xab3D689C22a2Bb821f50A4Ff0F21A7980dCB8591",
+            "Name": "Proxy",
+            "Symbol": "PRXY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xab0b2ddB9C7e440fAc8E140A89c0dbCBf2d7Bbff",
+            "Name": "Harvest Interest Token",
+            "Symbol": "miFARM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xaECeBfcF604AD245Eaf0D5BD68459C3a7A6399c2",
+            "Name": "RAMP (PoS)",
+            "Symbol": "RAMP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xaAa5B9e6c589642f98a1cDA99B9D024B8407285A",
+            "Name": "IRON Titanium Token",
+            "Symbol": "TITAN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa7051C5a22d963b81D71C2BA64D46a877fBc1821",
+            "Name": "SifChain (erowan) (PoS)",
+            "Symbol": "EROWAN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa6b37fC85d870711C56FbcB8afe2f8dB049AE774",
+            "Name": "PILLAR (PoS)",
+            "Symbol": "PLR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa69d14d6369E414a32a5C7E729B7afbAfd285965",
+            "Name": "Global Coin Research (PoS)",
+            "Symbol": "GCR",
+            "Decimals": 4,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa3eD22EEE92a3872709823a6970069e12A4540Eb",
+            "Name": "Frontier Token (PoS)",
+            "Symbol": "FRONT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+            "Name": "miMATIC",
+            "Symbol": "miMATIC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa2CA40DBe72028D3Ac78B5250a8CB8c404e7Fb8C",
+            "Name": "Fear NFTs (PoS)",
+            "Symbol": "FEAR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa25610a77077390A75aD9072A084c5FbC7d43A0d",
+            "Name": "Monsoon Finance",
+            "Symbol": "MCASH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa1428174F516F527fafdD146b883bB4428682737",
+            "Name": "SuperFarm (PoS)",
+            "Symbol": "SUPER",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa0E390e9ceA0D0e8cd40048ced9fA9EA10D71639",
+            "Name": "DSLA (PoS)",
+            "Symbol": "DSLA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xFeD16c746CB5BFeD009730f9E3e6A673006105c7",
+            "Name": "Digital Reserve Currency (PoS)",
+            "Symbol": "DRC",
+            "Decimals": 0,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xFdc26CDA2d2440d0E83CD1DeE8E8bE48405806DC",
+            "Name": "BTU Protocol (PoS)",
+            "Symbol": "BTU",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xFbdd194376de19a88118e84E279b977f165d01b8",
+            "Name": "beefy.finance",
+            "Symbol": "BIFI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xFF2382Bd52efaceF02Cc895bcBFc4618608AA56F",
+            "Name": "One Rare Token",
+            "Symbol": "ORARE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xFDde616084427f0A231D0664a985E1F820E34693",
+            "Name": "Badger Sett Digg (PoS)",
+            "Symbol": "bDIGG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF915fDDa4c882731C0456a4214548Cd13A822886",
+            "Name": "Fuse",
+            "Symbol": "FUSE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF868939Ee81F04f463010BC52EAb91c0839eF08c",
+            "Name": "Attack",
+            "Symbol": "ATK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF84BD51eab957c2e7B7D646A3427C5A50848281D",
+            "Name": "AGA Rewards (PoS)",
+            "Symbol": "AGAr",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF521D590Fb1e0b432fD0e020cdbD6c6397d652C2",
+            "Name": "Parachute (PoS)",
+            "Symbol": "PAR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF501dd45a1198C2E1b5aEF5314A68B9006D842E0",
+            "Name": "Meta (PoS)",
+            "Symbol": "MTA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF4B0903774532AEe5ee567C02aaB681a81539e92",
+            "Name": "PolyGaj Token",
+            "Symbol": "GAJ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xEe9A352F6aAc4aF1A5B9f467F6a93E0ffBe9Dd35",
+            "Name": "MASQ (PoS)",
+            "Symbol": "MASQ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xEe9801669C6138E84bD50dEB500827b776777d28",
+            "Name": "O3 Swap Token",
+            "Symbol": "O3",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xEde1B77C0Ccc45BFa949636757cd2cA7eF30137F",
+            "Name": "Wrapped Filecoin (PoS)",
+            "Symbol": "WFIL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xEFeE2de82343BE622Dcb4E545f75a3b9f50c272D",
+            "Name": "TryHards",
+            "Symbol": "TRY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xEE800B277A96B0f490a1A732e1D6395FAD960A26",
+            "Name": "ARPA Token (PoS)",
+            "Symbol": "ARPA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xED0bb69f9F96E8C5FffdF16c468eceC385134eA5",
+            "Name": "Starchi Liquid Luck",
+            "Symbol": "ELIXIR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE8d17b127BA8b9899a160D9a07b69bCa8E08bfc6",
+            "Name": "NASDEX Token",
+            "Symbol": "NSDX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE7804D91dfCDE7F776c90043E03eAa6Df87E6395",
+            "Name": "DFX Token (PoS)",
+            "Symbol": "DFX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE6469Ba6D2fD6130788E0eA9C0a0515900563b59",
+            "Name": "UST (Wormhole)",
+            "Symbol": "UST",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE5417Af564e4bFDA1c483642db72007871397896",
+            "Name": "Gains Network",
+            "Symbol": "GNS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE2Aa7db6dA1dAE97C5f5C6914d285fBfCC32A128",
+            "Name": "PAR Stablecoin",
+            "Symbol": "PAR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE111178A87A3BFf0c8d18DECBa5798827539Ae99",
+            "Name": "STASIS EURS Token (PoS)",
+            "Symbol": "EURS",
+            "Decimals": 2,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE0B52e49357Fd4DAf2c15e02058DCE6BC0057db4",
+            "Name": "agEUR",
+            "Symbol": "agEUR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE06Bd4F5aAc8D0aA337D13eC88dB6defC6eAEefE",
+            "Name": "PlanetIX",
+            "Symbol": "IXT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xE0339c80fFDE91F3e20494Df88d4206D86024cdF",
+            "Name": "Dogelon (PoS)",
+            "Symbol": "ELON",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xDb3b3b147A030F032633f6C4BEBf9a2fB5a882B5",
+            "Name": "EASY",
+            "Symbol": "EASY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xDBf31dF14B66535aF65AaC99C32e9eA844e14501",
+            "Name": "renBTC",
+            "Symbol": "renBTC",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xDA537104D6A5edd53c6fBba9A898708E465260b6",
+            "Name": "(PoS) yearn.finance",
+            "Symbol": "YFI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD86b5923F3AD7b585eD81B448170ae026c65ae9a",
+            "Name": "IRON Stablecoin",
+            "Symbol": "IRON",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD85d1e945766Fea5Eda9103F918Bd915FbCa63E6",
+            "Name": "Celsius (PoS)",
+            "Symbol": "CEL",
+            "Decimals": 4,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD838290e877E0188a4A44700463419ED96c16107",
+            "Name": "Toucan Protocol: Nature Carbon Tonne",
+            "Symbol": "NCT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD6DF932A45C0f255f85145f286eA0b292B21C90B",
+            "Name": "Aave (PoS)",
+            "Symbol": "AAVE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD5d86FC8d5C0Ea1aC1Ac5Dfab6E529c9967a45E9",
+            "Name": "NFT Worlds",
+            "Symbol": "WRLD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD52f6CA48882Be8fbaa98ce390db18e1dbe1062d",
+            "Name": "pTokens ORE (PoS)",
+            "Symbol": "ORE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD3b71117E6C1558c1553305b44988cd944e97300",
+            "Name": "YEL Token",
+            "Symbol": "YEL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD30DC92b8ec0fa8de625768d208f51A93C10aFF2",
+            "Name": "CelsiusX Wrapped BTC",
+            "Symbol": "cxBTC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD1f9c58e33933a993A3891F8acFe05a68E1afC05",
+            "Name": "Sunflower Land",
+            "Symbol": "SFL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD1A5f2A049343fc4D5F8d478f734eBa51B22375E",
+            "Name": "KeyFi Token",
+            "Symbol": "KEYFI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xD0660cD418a64a1d44E9214ad8e459324D8157f1",
+            "Name": "Woofy",
+            "Symbol": "WOOFY",
+            "Decimals": 12,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xCa7BF3C514d412AC12D10Eff302301A81153F557",
+            "Name": "LunaFi (PoS)",
+            "Symbol": "LFI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC91c06DB0f7bFFba61e2A5645CC15686F0a8c828",
+            "Name": "RAZOR (PoS)",
+            "Symbol": "RAZOR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC68e83a305b0FaD69E264A1769a0A070F190D2d6",
+            "Name": "Polyroll Token",
+            "Symbol": "ROLL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC5B57e9a1E7914FDA753A88f24E5703e617Ee50c",
+            "Name": "Popcorn (PoS)",
+            "Symbol": "POP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC3Ec80343D2bae2F8E680FDADDe7C17E71E114ea",
+            "Name": "MANTRA DAO (PoS)",
+            "Symbol": "OM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+            "Name": "Lido DAO Token (PoS)",
+            "Symbol": "LDO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC25351811983818c9Fe6D8c580531819c8ADe90f",
+            "Name": "Idle (PoS)",
+            "Symbol": "IDLE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC250e9987A032ACAC293d838726C511E6E1C029d",
+            "Name": "Otter Clam",
+            "Symbol": "CLAM",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+            "Name": "DFYN Token (PoS)",
+            "Symbol": "DFYN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC004e2318722EA2b15499D6375905d75Ee5390B8",
+            "Name": "Kommunitas",
+            "Symbol": "KOM",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
+            "Name": "SAND",
+            "Symbol": "SAND",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xBA25B552C8A098AFdf276324C32C71fE28e0Ad40",
+            "Name": "MacaronSwap Token",
+            "Symbol": "MCRN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB9638272aD6998708de56BBC0A290a1dE534a578",
+            "Name": "Everipedia IQ (PoS)",
+            "Symbol": "IQ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB77e62709e39aD1cbeEBE77cF493745AeC0F453a",
+            "Name": "Wise Token (PoS)",
+            "Symbol": "WISE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB6509Cbd9e2D1CeC787a7357eB1578B86a0c702d",
+            "Name": "Drakoin (PoS)",
+            "Symbol": "DRK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB5C064F955D8e7F38fE0460C556a72987494eE17",
+            "Name": "QuickSwap",
+            "Symbol": "QUICK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB382C1cfA622795a534e5bd56Fac93d59BAc8B0D",
+            "Name": "Kirobo (PoS)",
+            "Symbol": "KIRO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB35fcBCF1fD489fCe02Ee146599e893FDCdC60e6",
+            "Name": "DeRace Token",
+            "Symbol": "DERC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB25e20De2F2eBb4CfFD4D16a55C7B395e8a94762",
+            "Name": "Request",
+            "Symbol": "REQ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xB140665ddE25c644c6B418e417C930dE8A8a6Ac9",
+            "Name": "Atari (PoS)",
+            "Symbol": "ATRI",
+            "Decimals": 0,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xAcD7B3D9c10e97d0efA418903C0c7669E702E4C0",
+            "Name": "Eleven.finance",
+            "Symbol": "ELE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xAa9654BECca45B5BDFA5ac646c939C62b527D394",
+            "Name": "DinoSwap (PoS)",
+            "Symbol": "DINO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xAa7DbD1598251f856C12f63557A4C4397c253Cea",
+            "Name": "Moss Carbon Credit (PoS)",
+            "Symbol": "MCO2",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xAF24765F631C8830B5528B57002241eE7eef1C14",
+            "Name": "IOI Token",
+            "Symbol": "IOI",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xADAC33f543267c4D59a8c299cF804c303BC3e4aC",
+            "Name": "MIMO Parallel Governance Token (PoS)",
+            "Symbol": "MIMO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xAC63686230f64BDEAF086Fe6764085453ab3023F",
+            "Name": "Universal Store of Value",
+            "Symbol": "USV",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA96D47c621a8316d4F9539E3B38180C7067e84CA",
+            "Name": "AurusSILVER",
+            "Symbol": "AWS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA9536B9c75A9E0faE3B56a96AC8EdF76AbC91978",
+            "Name": "Polygon Ecosystem Index",
+            "Symbol": "PECO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA8b1E0764f85f53dfe21760e8AfE5446D82606ac",
+            "Name": "BandToken (PoS)",
+            "Symbol": "BAND",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA649325Aa7C5093d12D6F98EB4378deAe68CE23F",
+            "Name": "Binance",
+            "Symbol": "BNB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA55870278d6389ec5B524553D03C04F5677c061E",
+            "Name": "XCAD Token (PoS)",
+            "Symbol": "XCAD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA486c6BC102f409180cCB8a94ba045D39f8fc7cB",
+            "Name": "Nash Exchange Token (PoS)",
+            "Symbol": "NEX",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA3c322Ad15218fBFAEd26bA7f616249f7705D945",
+            "Name": "Metaverse (PoS)",
+            "Symbol": "MV",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xA1c57f48F0Deb89f569dFbE6E2B7f46D33606fD4",
+            "Name": "(PoS) Decentraland MANA",
+            "Symbol": "MANA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9e01e0A928588aE6E669b8d1F0f1fa4AB976f617",
+            "Name": "Showcase Token (PoS)",
+            "Symbol": "SHO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9d5565dA88e596730522CbC5a918d2A89dbC16d9",
+            "Name": "OpenOcean",
+            "Symbol": "OOE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9c49BA0212Bb5Db371e66b59D1565b7c06E4894e",
+            "Name": "Cryptocurrency Top Tokens Index (PoS)",
+            "Symbol": "CC10",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9c2C5fd7b07E95EE044DDeba0E97a665F142394f",
+            "Name": "1Inch (PoS)",
+            "Symbol": "1INCH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9aF3b7DC29D3C4B1A5731408B6A9656fA7aC3b72",
+            "Name": "PUSD",
+            "Symbol": "PUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9a71012B13CA4d3D0Cdc72A177DF3ef03b0E76A3",
+            "Name": "Balancer (PoS)",
+            "Symbol": "BAL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9a05D1FF699ea187Dc8523E333eD63503f0d82db",
+            "Name": "BABYQUICK",
+            "Symbol": "BABYQUICK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9CD552551EC130b50c1421649C8d11E76aC821e1",
+            "Name": "Crypto Volatility Token",
+            "Symbol": "CVOL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9C78EE466D6Cb57A4d01Fd887D2b5dFb2D46288f",
+            "Name": "Must",
+            "Symbol": "MUST",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9C6BfEdc14b5C23E3900889436Edca7805170f01",
+            "Name": "Phoenix Token (PoS)",
+            "Symbol": "PHX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9Bd9aD490dD3a52f096D229af4483b94D63BE618",
+            "Name": "CelsiusX Wrapped DOGE",
+            "Symbol": "cxDOGE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x980111ae1B84E50222C8843e3A7a038F36Fecd2b",
+            "Name": "StackOS",
+            "Symbol": "STACK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9719d867A500Ef117cC201206B8ab51e794d3F82",
+            "Name": "Matic Aave interest bearing USDC",
+            "Symbol": "maUSDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x95c300e7740D2A88a44124B424bFC1cB2F9c3b89",
+            "Name": "Alchemix (PoS)",
+            "Symbol": "ALCX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x948D0a28b600BDBd77AF4ea30E6F338167034181",
+            "Name": "NSHARE",
+            "Symbol": "NSHARE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x90F3edc7D5298918F7BB51694134b07356F7d0C7",
+            "Name": "DEFI HUNTERS DAO Token",
+            "Symbol": "DDAO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x904371845Bc56dCbBcf0225ef84a669b2fD6bd0d",
+            "Name": "Relay Token",
+            "Symbol": "RELAY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8f9E8e833A69Aa467E42c46cCA640da84DD4585f",
+            "Name": "NFT Champions",
+            "Symbol": "CHAMP",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063",
+            "Name": "(PoS) Dai Stablecoin",
+            "Symbol": "DAI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8f18dC399594b451EdA8c5da02d0563c0b2d0f16",
+            "Name": "moonwolf.io",
+            "Symbol": "WOLF",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8f006D1e1D9dC6C98996F50a4c810F17a47fBF19",
+            "Name": "Pleasure Coin",
+            "Symbol": "NSFW",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8dF3aad3a84da6b69A4DA8aeC3eA40d9091B2Ac4",
+            "Name": "Aave Matic Market WMATIC",
+            "Symbol": "amWMATIC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8d520c8E66091cfD6743fe37Fbe3A09505616C4b",
+            "Name": "CosplayToken (PoS)",
+            "Symbol": "COT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8d1566569d5b695d44a9a234540f68D393cDC40D",
+            "Name": "GAME Credits",
+            "Symbol": "GAME",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8a2870fb69A90000D6439b7aDfB01d4bA383A415",
+            "Name": "DEGEN Index (PoS)",
+            "Symbol": "DEGEN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8a0e8b4b0903929f47C3ea30973940D4a9702067",
+            "Name": "InsurAce (PoS)",
+            "Symbol": "INSUR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8DF26a1BD9bD98e2eC506fc9d8009954716A05DC",
+            "Name": "PolyPup Collar Token",
+            "Symbol": "COLLAR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8D546026012bF75073d8A586f24A5d5ff75b9716",
+            "Name": "Sphere Finance",
+            "Symbol": "SPHERE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8C92e38eCA8210f4fcBf17F0951b198Dd7668292",
+            "Name": "dHedge DAO Token (PoS)",
+            "Symbol": "DHT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8A953CfE442c5E8855cc6c61b1293FA648BAE472",
+            "Name": "PolyDoge",
+            "Symbol": "PolyDoge",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x88C949b4eB85a90071f2C0beF861BDDEe1a7479D",
+            "Name": "SHEESHA POLYGON",
+            "Symbol": "mSHEESHA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8839e639F210B80ffea73AedF51baed8DAc04499",
+            "Name": "DecentraWeb (PoS)",
+            "Symbol": "DWEB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8765f05ADce126d70bcdF1b0a48Db573316662eB",
+            "Name": "PlayDapp Token (PoS)",
+            "Symbol": "PLA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x85955046DF4668e1DD369D2DE9f3AEB98DD2A369",
+            "Name": "DefiPulse Index (PoS)",
+            "Symbol": "DPI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x855D4248672a1fCE482165e8DBE1207b94b1968a",
+            "Name": "WOWswap",
+            "Symbol": "WOW",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8505b9d2254A7Ae468c0E9dd10Ccea3A837aef5c",
+            "Name": "(PoS) Compound",
+            "Symbol": "COMP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x840195888Db4D6A99ED9F73FcD3B225Bb3cB1A79",
+            "Name": "SportX (PoS)",
+            "Symbol": "SX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x839F1a22A59eAAf26c85958712aB32F80FEA23d9",
+            "Name": "Axion",
+            "Symbol": "AXN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8346Ab8d5EA7A9Db0209aEd2d1806AFA0E2c4C21",
+            "Name": "MODEFI  (PoS)",
+            "Symbol": "MOD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+            "Name": "Quickswap",
+            "Symbol": "QUICK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x823CD4264C1b951C9209aD0DeAea9988fE8429bF",
+            "Name": "Matic Aave interest bearing AAVE",
+            "Symbol": "maAAVE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x82362Ec182Db3Cf7829014Bc61E9BE8a2E82868a",
+            "Name": "Meshswap Protocol",
+            "Symbol": "MESH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7f426F6Dc648e50464a0392E60E1BB465a67E9cf",
+            "Name": "Orbit Bridge Polygon AUTOv2",
+            "Symbol": "oAUTO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7f280daC515121DcdA3EaC69eB4C13a52392CACE",
+            "Name": "Fancy Games",
+            "Symbol": "FNC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "Name": "Wrapped Ether",
+            "Symbol": "WETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7c28F627eA3aEc8B882b51eb1935f66e5b875714",
+            "Name": "Paint",
+            "Symbol": "PAINT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7FBc10850caE055B27039aF31bD258430e714c62",
+            "Name": "Unibright (PoS)",
+            "Symbol": "UBT",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7E7fF932FAb08A0af569f93Ce65e7b8b23698Ad8",
+            "Name": "YfDAI.finance (PoS)",
+            "Symbol": "Yf-DAI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7E4c577ca35913af564ee2a24d882a4946Ec492B",
+            "Name": "MoonEdge",
+            "Symbol": "MOONED",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7CdC0421469398e0F3aA8890693d86c840Ac8931",
+            "Name": "DokiDokiAzuki",
+            "Symbol": "AZUKI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x76e63a3E7Ba1e2E61D3DA86a87479f983dE89a7E",
+            "Name": "Augury Finance",
+            "Symbol": "OMEN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x72d6066F486bd0052eefB9114B66ae40e0A6031a",
+            "Name": "Wazirx (PoS)",
+            "Symbol": "WRX",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x723B17718289A91AF252D616DE2C77944962d122",
+            "Name": "GAIA Everworld",
+            "Symbol": "GAIA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x71B821aa52a49F32EEd535fCA6Eb5aa130085978",
+            "Name": "0xBitcoin Token",
+            "Symbol": "0xBTC",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x70c006878a5A50Ed185ac4C87d837633923De296",
+            "Name": "REVV",
+            "Symbol": "REVV",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x709A4B6217584188DDb93c82f5d716D969accE1C",
+            "Name": "Hanu Yokia (PoS)",
+            "Symbol": "HANU",
+            "Decimals": 12,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7075cAB6bCCA06613e2d071bd918D1a0241379E2",
+            "Name": "Gains V2",
+            "Symbol": "GFARM2",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6f7C932e7684666C9fd1d44527765433e01fF61d",
+            "Name": "MAKER (PoS)",
+            "Symbol": "MKR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6d5f5317308C6fE7D6CE16930353a8Dfd92Ba4D7",
+            "Name": "Abachi",
+            "Symbol": "ABI",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6aB6d61428fde76768D7b45D8BFeec19c6eF91A8",
+            "Name": "Anyswap",
+            "Symbol": "ANY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6a3E7C3c6EF65Ee26975b12293cA1AAD7e1dAeD2",
+            "Name": "Aavegotchi ALPHA",
+            "Symbol": "ALPHA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6F3Cc27E17a0f2e52D8e7693FF0d892Cea1854bF",
+            "Name": "Goo",
+            "Symbol": "GOO",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6E65Ae5572DF196FAe40Be2545Ebc2A9A24eAcE9",
+            "Name": "Shack Token",
+            "Symbol": "SHACK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6DdB31002abC64e1479Fc439692F7eA061e78165",
+            "Name": "Furucombo (PoS)",
+            "Symbol": "COMBO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6C0AB120dBd11BA701AFF6748568311668F63FE0",
+            "Name": "APWine Token (PoS)",
+            "Symbol": "APW",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6AE7Dfc73E0dDE2aa99ac063DcF7e8A63265108c",
+            "Name": "JPY Coin (PoS)",
+            "Symbol": "JPYC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6968105460f67c3BF751bE7C15f92F5286Fd0CE5",
+            "Name": "Monavale",
+            "Symbol": "MONA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x695FC8B80F344411F34bDbCb4E621aA69AdA384b",
+            "Name": "Nitro (PoS)",
+            "Symbol": "NITRO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x692AC1e363ae34b6B489148152b12e2785a3d8d6",
+            "Name": "Polytrade (PoS)",
+            "Symbol": "TRADE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x692597b009d13C4049a947CAB2239b7d6517875F",
+            "Name": "Wrapped UST Token (PoS)",
+            "Symbol": "UST",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x689f8e5913C158fFB5Ac5aeb83b3C875F5d20309",
+            "Name": "Snook",
+            "Symbol": "SNK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6863BD30C9e313B264657B107352bA246F8Af8e0",
+            "Name": "BlackPool Token (PoS)",
+            "Symbol": "BPT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x669ddc70273084Ea30e6cd4f28CA6e2C70735065",
+            "Name": "AGA Carbon Credit (PoS)",
+            "Symbol": "AGAc",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x65A05DB8322701724c197AF82C9CaE41195B0aA8",
+            "Name": "FOX (PoS)",
+            "Symbol": "FOX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x64875Aaa68d1d5521666C67d692Ee0B926b08b2F",
+            "Name": "CelsiusX Wrapped ADA",
+            "Symbol": "cxADA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x638Df98Ad8069a15569dA5a6b01181804c47e34c",
+            "Name": "DAFI Token (PoS)",
+            "Symbol": "DAFI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6286A9e6f7e745A6D884561D88F94542d6715698",
+            "Name": "Cryptomeda",
+            "Symbol": "TECH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x61dAECaB65EE2A1D5b6032df030f3fAA3d116Aa7",
+            "Name": "Dark Magic",
+            "Symbol": "DMAGIC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x614389EaAE0A6821DC49062D56BDA3d9d45Fa2ff",
+            "Name": "Orbs (PoS)",
+            "Symbol": "ORBS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x613a489785C95afEB3b404CC41565cCff107B6E0",
+            "Name": "RadioShack Token",
+            "Symbol": "RADIO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x61299774020dA444Af134c82fa83E3810b309991",
+            "Name": "Render Token",
+            "Symbol": "RNDR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x60bB3D364B765C497C8cE50AE0Ae3f0882c5bD05",
+            "Name": "Impermax (PoS)",
+            "Symbol": "IMX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x60D55F02A771d515e077c9C2403a1ef324885CeC",
+            "Name": "Aave Matic Market USDT",
+            "Symbol": "amUSDT",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x60AC2E84078Ce30CBC68e3d7b18bCF613271ce6B",
+            "Name": "ALOHA",
+            "Symbol": "ALOHA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6002410dDA2Fb88b4D0dc3c1D562F7761191eA80",
+            "Name": "The Employment Commons Work Token (PoS)",
+            "Symbol": "WORK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5fe2B58c013d7601147DcdD68C143A77499f5531",
+            "Name": "Graph Token (PoS)",
+            "Symbol": "GRT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5fCB9de282Af6122ce3518CDe28B7089c9F97b26",
+            "Name": "DeHive.finance",
+            "Symbol": "DHV",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5f0197Ba06860DaC7e31258BdF749F92b6a636d4",
+            "Name": "Flare Token",
+            "Symbol": "1FLR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5eB8D998371971D01954205c7AFE90A7AF6a95AC",
+            "Name": "Audius (PoS)",
+            "Symbol": "AUDIO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5d47bAbA0d66083C52009271faF3F50DCc01023C",
+            "Name": "ApeSwapFinance Banana",
+            "Symbol": "BANANA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5c2ed810328349100A66B82b78a1791B101C9D61",
+            "Name": "Aave Matic Market WBTC",
+            "Symbol": "amWBTC",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5a3064CbDCCF428ae907796cF6aD5a664CD7F3d8",
+            "Name": "PYQ",
+            "Symbol": "PYQ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5FFD62D3C3eE2E81C00A7b9079FB248e7dF024A8",
+            "Name": "Gnosis Token (PoS)",
+            "Symbol": "GNO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5E430F88D1BE82EB3eF92b6fF06125168fD5DCf2",
+            "Name": "moda",
+            "Symbol": "MODA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5E0294Af1732498C77F8dB015a2d52a76298542B",
+            "Name": "Orion Money Token (Wormhole)",
+            "Symbol": "ORION",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5CEeBB0947d58Fabde2fc026Ffe4B33ccFE1bA8B",
+            "Name": "4INT",
+            "Symbol": "4INT",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5C7F7Fe4766fE8f0fa9b41E2E4194d939488ff1C",
+            "Name": "DokiDokiFinance (PoS)",
+            "Symbol": "DOKI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5B4CF2C120A9702225814E18543ee658c5f8631e",
+            "Name": "UniLend Finance Token (PoS)",
+            "Symbol": "UFT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x59E9261255644c411AfDd00bD89162d09D862e38",
+            "Name": "ETHA",
+            "Symbol": "ETHA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x59B5654a17Ac44F3068b3882F298881433bB07Ef",
+            "Name": "CoinPoker Chips (PoS)",
+            "Symbol": "CHP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x598e49f01bEfeB1753737934a5b11fea9119C796",
+            "Name": "Adshares (PoS)",
+            "Symbol": "ADS",
+            "Decimals": 11,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x596eBE76e2DB4470966ea395B0d063aC6197A8C5",
+            "Name": "Jarvis Reward Token (PoS)",
+            "Symbol": "JRT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x580A84C73811E1839F75d86d75d88cCa0c241fF4",
+            "Name": "Qi Dao",
+            "Symbol": "QI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x578360AdF0BbB2F10ec9cEC7EF89Ef495511ED5f",
+            "Name": "KIWI Token",
+            "Symbol": "KIWI",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x56A0eFEFC9F1FBb54FBd25629Ac2aA764F1b56F7",
+            "Name": "AurusDeFi",
+            "Symbol": "AWX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5647Fe4281F8F6F01E84BCE775AD4b828A7b8927",
+            "Name": "Million (PoS)",
+            "Symbol": "MM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5617604BA0a30E0ff1d2163aB94E50d8b6D0B0Df",
+            "Name": "AthleteX",
+            "Symbol": "AX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x556f501CF8a43216Df5bc9cC57Eb04D4FFAA9e6D",
+            "Name": "Distant Universe Stardust Token",
+            "Symbol": "DUST",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x554f074d9cCda8F483d1812d4874cBebD682644E",
+            "Name": "AnRKey X (PoS)",
+            "Symbol": "$ANRX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+            "Name": "ChainLink Token",
+            "Symbol": "LINK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5314bA045a459f63906Aa7C76d9F337DcB7d6995",
+            "Name": "Fodl (PoS)",
+            "Symbol": "FODL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x52eDe6bbA83B7b4Ba1D738Df0dF713D6A2036B71",
+            "Name": "0xMonero (PoS)",
+            "Symbol": "0xMR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x521CddC0CBa84F14c69C1E99249F781AA73Ee0BC",
+            "Name": "Holyheld (PoS)",
+            "Symbol": "HH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x51dE72b17c7bD12E9E6d69eb506a669EB6b5249E",
+            "Name": "Waves Ducks",
+            "Symbol": "EGG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x51b5619F5180e333d18b6310C8D540AEa43a0371",
+            "Name": "Vault Hill City (PoS)",
+            "Symbol": "VHC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x51869836681BcE74a514625c856aFb697a013797",
+            "Name": "Genesis",
+            "Symbol": "GENESIS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x50B728D8D964fd00C2d0AAD81718b71311feF68a",
+            "Name": "Synthetix Network Token (PoS)",
+            "Symbol": "SNX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4fdCE518fE527439Fe76883e6b51A1c522B61b7C",
+            "Name": "Coreto (PoS)",
+            "Symbol": "COR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4e830F67Ec499E69930867f9017AEb5B3f629c73",
+            "Name": "OddzToken",
+            "Symbol": "ODDZ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4e78011Ce80ee02d2c3e649Fb657E45898257815",
+            "Name": "Klima DAO",
+            "Symbol": "KLIMA",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4e1581f01046eFDd7a1a2CDB0F82cdd7F71F2E59",
+            "Name": "IceToken",
+            "Symbol": "ICE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4d8181f051E617642e233Be09Cea71Cc3308ffD4",
+            "Name": "Digi",
+            "Symbol": "DIGI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4c4BF319237D98a30A929A96112EfFa8DA3510EB",
+            "Name": "WaultSwap Polygon",
+            "Symbol": "WEXpoly",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4FF0b68ABc2b9E4e1401E9b691DBa7d66B264AC8",
+            "Name": "RIOT (PoS)",
+            "Symbol": "RIOT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4DE7FEA447b837d7E77848a4B6C0662a64A84E14",
+            "Name": "WAVE Token",
+            "Symbol": "WAVE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4D0Def42Cf57D6f27CD4983042a55dce1C9F853c",
+            "Name": "DexKit (PoS)",
+            "Symbol": "KIT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4C16f69302CcB511c5Fac682c7626B9eF0Dc126a",
+            "Name": "Polygon BUNNY Token",
+            "Symbol": "polyBUNNY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4A81f8796e0c6Ad4877A51C86693B0dE8093F2ef",
+            "Name": "Iron Finance ICE Token",
+            "Symbol": "ICE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x49a0400587A7F65072c87c4910449fDcC5c47242",
+            "Name": "Magic Internet Money",
+            "Symbol": "MIM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x49690541E3f6E933A9aa3cFFEe6010a7BB5B72d7",
+            "Name": "Axia (axiaprotocol.io)",
+            "Symbol": "AXIA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x46F48FbdedAa6F5500993BEDE9539ef85F4BeE8e",
+            "Name": "ARIANEE (PoS)",
+            "Symbol": "ARIA20",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x46D502Fac9aEA7c5bC7B13C8Ec9D02378C33D36F",
+            "Name": "WolfSafePoorPeople",
+            "Symbol": "WSPP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x45c32fA6DF82ead1e2EF74d17b76547EDdFaFF89",
+            "Name": "Frax",
+            "Symbol": "FRAX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x44A6e0BE76e1D9620A7F76588e4509fE4fa8E8C8",
+            "Name": "Aavegotchi FOMO",
+            "Symbol": "FOMO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4455eF8B4B4A007a93DaA12DE63a47EEAC700D9D",
+            "Name": "Forest Knight",
+            "Symbol": "KNIGHT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x430EF9263E76DAE63c84292C3409D61c598E9682",
+            "Name": "PYR Token",
+            "Symbol": "PYR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x42f37A1296b2981F7C3cAcEd84c5096b2Eb0C72C",
+            "Name": "KEEP Token (PoS)",
+            "Symbol": "KEEP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x42dbBd5ae373FEA2FC320F62d44C058522Bb3758",
+            "Name": "Memecoin",
+            "Symbol": "MEM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x42d61D766B85431666B39B89C43011f24451bFf6",
+            "Name": "ParaSwap (PoS)",
+            "Symbol": "PSP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x42E5E06EF5b90Fe15F853F59299Fc96259209c5C",
+            "Name": "Aavegotchi KEK",
+            "Symbol": "KEK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4287F07CBE6954f9F0DecD91d0705C926d8d03A4",
+            "Name": "Trace Network",
+            "Symbol": "TRACE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x42435F467D33e5C4146a4E8893976ef12BBCE762",
+            "Name": "DEFI Top 5 Tokens Index (PoS)",
+            "Symbol": "DEFI5",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x41b3966B4FF7b427969ddf5da3627d6AEAE9a48E",
+            "Name": "Nexo (PoS)",
+            "Symbol": "NEXO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x403E967b044d4Be25170310157cB1A4Bf10bdD0f",
+            "Name": "Aavegotchi FUD",
+            "Symbol": "FUD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3fB256CFefedb6A54De7465c0EE86dC574AE464D",
+            "Name": "Emanate",
+            "Symbol": "EMT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3f6b3595ecF70735D3f48D69b09C4E4506DB3F47",
+            "Name": "GameStation",
+            "Symbol": "GAMER",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3eCdeB8fC5023839B92b0c293D049D61069e02b1",
+            "Name": "GenX Token",
+            "Symbol": "GENX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3e121107F6F22DA4911079845a470757aF4e1A1b",
+            "Name": "Frax Share (PoS)",
+            "Symbol": "FXS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3a3Df212b7AA91Aa0402B9035b098891d276572B",
+            "Name": "Fish",
+            "Symbol": "FISH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3F46a70adB395cddb81FF9bFE3B62aDae1B44816",
+            "Name": "Warp Token",
+            "Symbol": "WARP",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3D1D2aFd191b165D140e3E8329E634665fFB0E5e",
+            "Name": "Deri (PoS)",
+            "Symbol": "DERI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3Cef98bb43d732E2F285eE605a8158cDE967D219",
+            "Name": "Basic Attention Token (PoS)",
+            "Symbol": "BAT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3C720206bFaCB2d16fA3ac0ed87D2048Dbc401Fc",
+            "Name": "UnirisToken (PoS)",
+            "Symbol": "UCO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87",
+            "Name": "Wall Street Games",
+            "Symbol": "WSG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3B56a704C01D650147ADE2b8cEE594066b3F9421",
+            "Name": "Affyn",
+            "Symbol": "FYN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3B1A0c9252ee7403093fF55b4a5886d49a3d837a",
+            "Name": "Continuum",
+            "Symbol": "UM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3Ad707dA309f3845cd602059901E39C4dcd66473",
+            "Name": "ETH 2x Flexible Leverage Index",
+            "Symbol": "ETH2x-FLI-P",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3A58a54C066FdC0f2D55FC9C89F0415C92eBf3C4",
+            "Name": "Staked MATIC (PoS)",
+            "Symbol": "stMATIC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3A3e7650f8B9f667dA98F236010fBf44Ee4B2975",
+            "Name": "xDollar Stablecoin",
+            "Symbol": "xUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x39aB6574c289c3Ae4d88500eEc792AB5B947A5Eb",
+            "Name": "Dystopia token",
+            "Symbol": "DYST",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x385Eeac5cB85A38A9a07A70c73e0a3271CfB54A7",
+            "Name": "Aavegotchi GHST Token (PoS)",
+            "Symbol": "GHST",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x381d168DE3991c7413d46e3459b48A5221E3dfE4",
+            "Name": "CUBO token",
+            "Symbol": "CUBO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3809dcDd5dDe24B37AbE64A5a339784c3323c44F",
+            "Name": "TrustSwap Token (PoS)",
+            "Symbol": "SWAP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3801C3B3B5c98F88a9c9005966AA96aa440B9Afc",
+            "Name": "GAX Liquidity Token Reward",
+            "Symbol": "GLTR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x361A5a4993493cE00f61C32d4EcCA5512b82CE90",
+            "Name": "Stake DAO Token (PoS)",
+            "Symbol": "SDT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x34d4ab47Bee066F361fA52d792e69AC7bD05ee23",
+            "Name": "RaiderAurum",
+            "Symbol": "AURUM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x34C1b299A74588D6Abdc1b85A53345A48428a521",
+            "Name": "EASY V2",
+            "Symbol": "EZ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x34667ED7C36cBBbF2d5d5c5c8d6Eb76a094EDb9F",
+            "Name": "GenomesDAO (PoS)",
+            "Symbol": "GENE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x32Cd1BCB75473845b5d1dB6ecE60AEC6E41d8518",
+            "Name": "PolysportsToken",
+            "Symbol": "PS1",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x32934CB16DA43fd661116468c1B225Fc26CF9A8c",
+            "Name": "StrongNodeEdge Token",
+            "Symbol": "SNE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x313d009888329C9d1cf4f75CA3f32566335bd604",
+            "Name": "(PoS) EthLend Token",
+            "Symbol": "LEND",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x31042A4E66eDa0d12143ffc8cC1552D611dA4cbA",
+            "Name": "Morpheus Infrastructure Token (PoS)",
+            "Symbol": "MITx",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3068382885602FC0089aeC774944b5ad6123ae60",
+            "Name": "PDSHARE",
+            "Symbol": "PDSHARE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3066818837c5e6eD6601bd5a91B0762877A6B731",
+            "Name": "UMA Voting Token v1 (PoS)",
+            "Symbol": "UMA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x300211Def2a644b036A9bdd3e58159bb2074d388",
+            "Name": "Crosschain IOTX",
+            "Symbol": "CIOTX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2fe8733dcb25BFbbA79292294347415417510067",
+            "Name": "Exeedme (PoS)",
+            "Symbol": "XED",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2e1AD108fF1D8C782fcBbB89AAd783aC49586756",
+            "Name": "TrueUSD (PoS)",
+            "Symbol": "TUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2db0Db271a10661e7090b6758350E18F6798a49D",
+            "Name": "Mobius Token",
+            "Symbol": "MOT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2c92a8A41f4b806a6f6F1F7C9D9DEc78DCd8c18e",
+            "Name": "99Starz",
+            "Symbol": "STZ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2bF9b864cdc97b08B6D79ad4663e71B8aB65c45c",
+            "Name": "Fusion",
+            "Symbol": "FSN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2bC07124D8dAc638E290f401046Ad584546BC47b",
+            "Name": "TOWER",
+            "Symbol": "TOWER",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2b88aD57897A8b496595925F43048301C37615Da",
+            "Name": "PickleToken (PoS)",
+            "Symbol": "PICKLE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2a93172c8DCCbfBC60a39d56183B7279a2F647b4",
+            "Name": "decentral.games (PoS)",
+            "Symbol": "$DG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2F800Db0fdb5223b3C3f354886d907A671414A7F",
+            "Name": "Toucan Protocol: Base Carbon Tonne",
+            "Symbol": "BCT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590",
+            "Name": "StargateToken",
+            "Symbol": "STG",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2C89bbc92BD86F8075d1DEcc58C7F4E0107f286b",
+            "Name": "Avalanche Token",
+            "Symbol": "AVAX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7",
+            "Name": "Mask Network (PoS)",
+            "Symbol": "MASK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x29F1e986FCa02B7E54138c04C4F503DdDD250558",
+            "Name": "VSQ",
+            "Symbol": "VSQ",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2934b36ca9A4B31E633C5BE670C8C8b28b6aA015",
+            "Name": "THX Network (PoS)",
+            "Symbol": "THX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x28424507fefb6f7f8E9D3860F56504E4e5f5f390",
+            "Name": "Aave Matic Market WETH",
+            "Symbol": "amWETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x282d8efCe846A88B159800bd4130ad77443Fa1A1",
+            "Name": "Ocean Token (PoS)",
+            "Symbol": "mOCEAN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x27F8D03b3a2196956ED754baDc28D73be8830A6e",
+            "Name": "Aave Matic Market DAI",
+            "Symbol": "amDAI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+            "Name": "USD Coin (PoS)",
+            "Symbol": "USDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2727Ab1c2D22170ABc9b595177B2D5C6E1Ab7B7B",
+            "Name": "Cartesi Token (PoS)",
+            "Symbol": "CTSI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x268Ad27C28601D28b79c792C14e95BD2b7A030F8",
+            "Name": "Julien (PoS)",
+            "Symbol": "JULIEN",
+            "Decimals": 4,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2628D301b161DB70E3dBbAc88d9D900cA426fF02",
+            "Name": "Badger Sett Badger (PoS)",
+            "Symbol": "bBADGER",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2628568509E87c4429fBb5c664Ed11391BE1BD29",
+            "Name": "renDGB",
+            "Symbol": "renDGB",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x25788a1a171ec66Da6502f9975a15B609fF54CF6",
+            "Name": "PoolTogether (PoS)",
+            "Symbol": "POOL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x255707B70BF90aa112006E1b07B9AeA6De021424",
+            "Name": "TETU Reward Token",
+            "Symbol": "TETU",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x24834BBEc7E39ef42f4a75EAF8E5B6486d3F0e57",
+            "Name": "Wrapped LUNA Token (PoS)",
+            "Symbol": "LUNA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x23E8B6A3f6891254988B84Da3738D2bfe5E703b9",
+            "Name": "FABWELT",
+            "Symbol": "WELT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x23D29D30e35C5e8D321e1dc9A8a61BFD846D4C5C",
+            "Name": "HEX (PoS)",
+            "Symbol": "HEX",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x236eeC6359fb44CCe8f97E99387aa7F8cd5cdE1f",
+            "Name": "USD+",
+            "Symbol": "USD+",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x235737dBb56e8517391473f7c964DB31fA6ef280",
+            "Name": "KastaToken",
+            "Symbol": "KASTA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x22e3f02f86Bc8eA0D73718A2AE8851854e62adc5",
+            "Name": "FireStarter",
+            "Symbol": "FLAME",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x229b1b6C23ff8953D663C4cBB519717e323a0a84",
+            "Name": "BLOK",
+            "Symbol": "BLOK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x228b5C21ac00155cf62c57bcc704c0dA8187950b",
+            "Name": "Nexus Dubai",
+            "Symbol": "NXD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x20D3922b4a1A8560E1aC99FBA4faDe0c849e2142",
+            "Name": "Matic Aave interest bearing WETH",
+            "Symbol": "maWETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1dDcaa4Ed761428ae348BEfC6718BCb12e63bFaa",
+            "Name": "deBridge USD Coin",
+            "Symbol": "deUSDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1d2a0E5EC8E5bBDCA5CB219e649B565d8e5c3360",
+            "Name": "Aave Matic Market AAVE",
+            "Symbol": "amAAVE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1a3acf6D19267E2d3e7f898f42803e90C9219062",
+            "Name": "Frax Share",
+            "Symbol": "FXS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1a13F4Ca1d028320A707D99520AbFefca3998b7F",
+            "Name": "Aave Matic Market USDC",
+            "Symbol": "amUSDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1E42EDbe5376e717C1B22904C59e406426E8173F",
+            "Name": "SURF.Finance (PoS)",
+            "Symbol": "SURF",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1D607Faa0A51518a7728580C238d912747e71F7a",
+            "Name": "DATA Economy Index (PoS)",
+            "Symbol": "DATA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1C954E8fe737F99f68Fa1CCda3e51ebDB291948C",
+            "Name": "Kyber Network Crystal v2 (PoS)",
+            "Symbol": "KNC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
+            "Name": "(PoS) Wrapped BTC",
+            "Symbol": "WBTC",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1BA17C639BdaeCd8DC4AAc37df062d17ee43a1b8",
+            "Name": "Wrapped Ixs Token",
+            "Symbol": "WIXS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1B815d120B3eF02039Ee11dC2d33DE7aA4a8C603",
+            "Name": "Wootrade Network (PoS)",
+            "Symbol": "WOO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x19782D3Dc4701cEeeDcD90f0993f0A9126ed89d0",
+            "Name": "REN (PoS)",
+            "Symbol": "REN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x187Ae45f2D361CbCE37c6A8622119c91148F261b",
+            "Name": "Polylastic",
+            "Symbol": "POLX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x175Bdc4e52EECB675B86FC4C9A3Ea3f80adBb610",
+            "Name": "Havens Nook (PoS)",
+            "Symbol": "HXN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x172370d5Cd63279eFa6d502DAB29171933a610AF",
+            "Name": "CRV (PoS)",
+            "Symbol": "CRV",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+            "Name": "Route",
+            "Symbol": "ROUTE (PoS)",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1659fFb2d40DfB1671Ac226A0D9Dcc95A774521A",
+            "Name": "Daily COP",
+            "Symbol": "DLYCOP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1599fE55Cda767b1F631ee7D414b41F5d6dE393d",
+            "Name": "Milk",
+            "Symbol": "MILK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x146e58D34EaB0bFf7e0a63cfe9332908d680c667",
+            "Name": "pddollar",
+            "Symbol": "PDDOLLAR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1379E8886A944d2D9d440b3d88DF536Aea08d9F3",
+            "Name": "Mysterium (PoS)",
+            "Symbol": "MYST",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x13748d548D95D78a3c83fe3F32604B4796CFfa23",
+            "Name": "kogecoin.io",
+            "Symbol": "KOGECOIN",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x12a34A6759c871C4C1E8A0A42CFc97e4D7Aaf68d",
+            "Name": "Tutellus token",
+            "Symbol": "TUT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x127984b5E6d5c59f81DACc9F1C8b3Bdc8494572e",
+            "Name": "Pepedex (PoS)",
+            "Symbol": "PPDEX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x11a819Beb0AA3327E39f52F90d65Cc9bCA499F33",
+            "Name": "ScaleSwapToken",
+            "Symbol": "SCA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x104592a158490a9228070E0A8e5343B499e125D0",
+            "Name": "Frax (PoS)",
+            "Symbol": "FRAX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0e98C977B943f06075b2D795794238fBfB9b9a34",
+            "Name": "TOMB",
+            "Symbol": "TOMB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
+            "Name": "Wrapped Matic",
+            "Symbol": "WMATIC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0d0B8488222F7f83B23E365320a4021b12eAD608",
+            "Name": "NextEarthToken",
+            "Symbol": "NXTT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0b3F868E0BE5597D5DB7fEB59E1CADBb0fdDa50a",
+            "Name": "SushiToken (PoS)",
+            "Symbol": "SUSHI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0E9b89007eEE9c958c0EDA24eF70723C2C93dD58",
+            "Name": "Ankr MATIC Reward Bearing Certif",
+            "Symbol": "aMATICc",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0E50BEA95Fe001A370A4F1C220C49AEdCB982DeC",
+            "Name": "Ethernity Chain (PoS)",
+            "Symbol": "ERN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0D6ae2a429df13e44A07Cd2969E085e4833f64A0",
+            "Name": "PolkaBridge",
+            "Symbol": "PBR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0B048D6e01a6b9002C291060bF2179938fd8264c",
+            "Name": "PolyAlpha Finance",
+            "Symbol": "ALPHA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x09211Dc67f9fe98Fb7bBB91Be0ef05f4a12FA2b2",
+            "Name": "yieldwatch",
+            "Symbol": "WATCH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x07738Eb4ce8932CA961c815Cb12C9d4ab5Bd0Da4",
+            "Name": "Elementeum (PoS)",
+            "Symbol": "ELET",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x071AC29d569a47EbfFB9e57517F855Cb577DCc4C",
+            "Name": "GCOIN",
+            "Symbol": "GFC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0621d647cecbFb64b79E44302c1933cB4f27054d",
+            "Name": "Amp Token (PoS)",
+            "Symbol": "AMP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x05089C9EBFFa4F0AcA269e32056b1b36B37ED71b",
+            "Name": "Krill",
+            "Symbol": "Krill",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x04b33078Ea1aEf29bf3fB29c6aB7B200C58ea126",
+            "Name": "Safle",
+            "Symbol": "SAFLE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x034b2090b579228482520c589dbD397c53Fc51cC",
+            "Name": "Vision Token (PoS)",
+            "Symbol": "VISION",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x033d942A6b495C4071083f4CDe1f17e986FE856c",
+            "Name": "AGA Token (PoS)",
+            "Symbol": "AGA",
+            "Decimals": 4,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x02649C1Ff4296038De4b9bA8F491b42b940A8252",
+            "Name": "Exchange Genesis Ethlas Medium",
+            "Symbol": "XGEM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0169eC1f8f639B32Eec6D923e24C2A2ff45B9DD6",
+            "Name": "Algebra",
+            "Symbol": "ALGB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x00e5646f60AC6Fb446f621d146B6E1886f002905",
+            "Name": "Rai Reflex Index (PoS)",
+            "Symbol": "RAI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        }
+    ]
+}
