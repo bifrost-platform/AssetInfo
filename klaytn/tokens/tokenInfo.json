@@ -3,652 +3,52 @@
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {
-            "Address": "0x5133bd36a20bba25c78a7428a7bd9d2c6887dc8c",
-            "Name": "Bluewhale Trust Pool KORC-KDAI Compound Interest",
-            "Symbol": "BWTP KORC-KDAI CI",
+            "Address": "0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f",
+            "Name": "Kokoa",
+            "Symbol": "KOKOA",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x9e481eb17d3c3c07d7a6ab571b4ba8ef432b5cf2",
-            "Name": "MyCreditChain",
-            "Symbol": "MCC",
+            "Address": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
+            "Name": "WEMIX TOKEN",
+            "Symbol": "WEMIX",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x718fea0946c6a558ece7724e7f8559cac2255967",
-            "Name": "Bluewhale Trust Pool KSP-KUSDT Compound Interest",
-            "Symbol": "BWTP KSP-KUSDT CI",
+            "Address": "0x2ef5f2642674f768b4efe9a7de470a6a68bcb8f3",
+            "Name": "BYPE",
+            "Symbol": "BYPE",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x07aa7ae19b17579f7237ad72c616fecf4ccc787b",
-            "Name": "ARTUBE TOKEN",
-            "Symbol": "ATT",
+            "Address": "0x74ba03198fed2b15a51af242b9c63faf3c8f4d34",
+            "Name": "Auto-Staking-Klay",
+            "Symbol": "AKLAY",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x75ad14d0360408dc6f8163e5dfb51aad516f4afd",
-            "Name": "Beeblock",
-            "Symbol": "BUZ",
+            "Address": "0x158beff8c8cdebd64654add5f6a1d9937e73536c",
+            "Name": "Klaymore Stakehouse",
+            "Symbol": "HOUSE",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8bc28c926a0fe54b5c56a329cd3b129cc52ae099",
-            "Name": "Orbit Bridge Klaytn Dotr Coin",
-            "Symbol": "oDOTR",
-            "Decimals": 9,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8ff0586b6eea63a35e73d09237b4a58b3056f274",
-            "Name": "Orbit Bridge Klaytn BioPassport Coin",
-            "Symbol": "oBIOT",
-            "Decimals": 9,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x6a6184283af9f62da739f8b309c5fca61e2f1400",
-            "Name": "CRYPTOKKI COIN",
-            "Symbol": "TOKKI",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x01cb8563e9c4703f4e6b9fa09edeaed0e5948f28",
-            "Name": "Jun Bond Token",
-            "Symbol": "JUNB",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x2842a6d0c182e3f1cf4556311c48a7706d7ba6ad",
-            "Name": "Orbit Bridge Klaytn Gala",
-            "Symbol": "oGALA",
-            "Decimals": 8,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xddc42416f16176d835311f710ee78aff63705b37",
-            "Name": "APT Coin",
-            "Symbol": "KAPT",
-            "Decimals": 9,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x36e5ea82a099e8188bd5af5709b23628076de822",
-            "Name": "Orbit Bridge Klaytn PancakeSwap Token",
-            "Symbol": "oCAKE",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x15d814ba6ca0e5b87c505ad9bd1ad7af2bcfee85",
-            "Name": "Bluewhale Trust Pool KSP-KORC Compound Interest",
-            "Symbol": "BWTP KSP-KORC CI",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x18814b01b5cc76f7043e10fd268cc4364df47da0",
-            "Name": "c4ei.net 4 klay",
-            "Symbol": "CEIK",
-            "Decimals": 8,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8177ac20455f31d8cb777923f0c632436568c719",
-            "Name": "DATA Token",
-            "Symbol": "DTA",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3886df0cb94f4bf7e0ac3dfe2d1db40d2ee2293b",
-            "Name": "Orbit Bridge Klaytn TOM",
-            "Symbol": "oTOM",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x06d566491c858f50ee412bc475ac29260650f43c",
-            "Name": "Q2",
-            "Symbol": "Q2",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x46f307b58bf05ff089ba23799fae0e518557f87c",
-            "Name": "Airbloc",
-            "Symbol": "ABL",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x292725810ab3dde0a01e19acd4e8e9d6c073773b",
-            "Name": "Orbit Bridge Klaytn Aergo",
-            "Symbol": "oAERGO",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x968d93a44b3ef61168ca621a59ddc0e56583e592",
-            "Name": "Kai Bond Token",
-            "Symbol": "bKAI",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x76264ad1b50852c4d8efb55bfaf154dd5a80d0c2",
-            "Name": "JSD",
-            "Symbol": "JSD",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3b3b30a76d169f72a0a38ae01b0d6e0fbee3cc2e",
-            "Name": "TEMCO",
-            "Symbol": "TEMCO",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x143d71be70dc518a9e9c25b6008d9353b3698d26",
-            "Name": "FEWK Far East White Kindoms OYAT",
-            "Symbol": "OYAT",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x656f86dd0f3bc25af2d15855f2a2f142f9eaed87",
-            "Name": "BOX",
-            "Symbol": "BOX",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xafde910130c335fa5bd5fe991053e3e0a49dce7b",
-            "Name": "Pibble Token",
-            "Symbol": "PIB",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xafde910130c335fa5bd5fe991053e3e0a49dce7b",
-            "Name": "Pibble Token",
-            "Symbol": "PIB",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4dd402a7d54eaa8147cb6ff252afe5be742bdf40",
-            "Name": "HINT Token",
-            "Symbol": "HINT",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8583063110b5d29036eced4db1cc147e78a86a77",
-            "Name": "Orbit Bridge Klaytn AUTOv2",
-            "Symbol": "oAUTO",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x5425b810432bc7e7dbc74859ed3c37bb39d9df00",
-            "Name": "Pixel",
-            "Symbol": "PXL",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xe06b40df899b9717b4e6b50711e1dc72d08184cf",
-            "Name": "HiblocksToken",
-            "Symbol": "HIBS",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xdde2154f47e80c8721c2efbe02834ae056284368",
-            "Name": "Influencer",
-            "Symbol": "IMI",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8c783809332be7734fa782eb5139861721f77b33",
-            "Name": "Turtle King",
-            "Symbol": "TURK",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9657fb399847d85a9c1a234ece9ca09d5c00f466",
-            "Name": "Insureum Token",
-            "Symbol": "ISR",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xdabee145a1395e09280c23ea9aa71caca35a1ec0",
-            "Name": "NIKPLACE",
-            "Symbol": "NIK",
-            "Decimals": 16,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x52f4c436c9aab5b5d0dd31fb3fb8f253fd6cb285",
-            "Name": "Orbit Bridge Klaytn CRYPTO BANK",
-            "Symbol": "oCBANK",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x96035fbdd4cb888862ee28c9d8fdadef78311cc9",
-            "Name": "MilliMeter",
-            "Symbol": "MM",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8ef60f0a5a2db984431934f8659058e87cd5c70a",
-            "Name": "Orbit Bridge Klaytn ICON",
-            "Symbol": "KICX",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xb1a7abe0c5a9e06cc7585a435e74976d2dee07f3",
-            "Name": "BlockchainPetToken",
-            "Symbol": "BPT",
-            "Decimals": 2,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x033da9f82297fd828e133fc364aba1cb636b97c6",
-            "Name": "MERITO",
-            "Symbol": "MERI",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xdfe180e288158231ffa5faf183eca3301344a51f",
-            "Name": "Orbit Bridge Klaytn BELT Token",
-            "Symbol": "oBELT",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1c64cda740f0595e2bb7c4e6a736bd5fcc691c66",
-            "Name": "COWCOW Token",
-            "Symbol": "COW",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d",
-            "Name": "BWPM Vault",
-            "Symbol": "sBWPM",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xa4547080f3310b9ec4ed4b08fbc3762c6d294cc9",
-            "Name": "ORCA Finance Token",
-            "Symbol": "ORCA",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1deaf220c70b6def6f936772d61d8f6b0b404157",
-            "Name": "CRYPTOLLS COIN",
-            "Symbol": "TOLLS",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xaf952acf66a66c28b04e14ab52158a2165838cd8",
-            "Name": "THE PLAYER",
-            "Symbol": "PLYR",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3513b2bc58f1f260107fd1ee0dabb5b0637b9ed5",
-            "Name": "XPIKE Token",
-            "Symbol": "XE",
-            "Decimals": 6,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x43de991a0d9b666a215f3eb5801accd260092c2c",
-            "Name": "IBP Token",
-            "Symbol": "IBP",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972",
-            "Name": "Treecle",
-            "Symbol": "TRCL",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xdc229b451798774b2f2de279cbf13370bb802fb5",
-            "Name": "CHAINFLIX",
-            "Symbol": "CFXT",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x7f223b1607171b81ebd68d22f1ca79157fd4a44b",
-            "Name": "Cojam",
-            "Symbol": "CT",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xb1834e4e773a180168f2292e036ca8e17f86196f",
-            "Name": "Fandom",
-            "Symbol": "FDM",
-            "Decimals": 16,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x11dc950ef29594cc19eb573811339df20c86c800",
-            "Name": "Orbit Bridge Klaytn DeFine Art",
-            "Symbol": "oDFA",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
-            "Name": "OBSR",
-            "Symbol": "OBSR",
-            "Decimals": 8,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xa323d7386b671e8799dca3582d6658fdcdcd940a",
-            "Name": "sKlay",
-            "Symbol": "SKLAY",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18",
-            "Name": "BLUEBAIKAL",
-            "Symbol": "BBC",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
-            "Name": "Orbit Bridge Klaytn Wrapped BTC",
-            "Symbol": "oWBTC",
-            "Decimals": 8,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x275f942985503d8ce9558f8377cc526a3aba3566",
-            "Name": "ProjectWITH",
-            "Symbol": "WIKEN",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x5388ce775de8f7a69d17fd5caa9f7dbfee65dfce",
-            "Name": "DON token for KLAYTN",
-            "Symbol": "oDON",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x0c1d7ce4982fd63b1bc77044be1da05c995e4463",
-            "Name": "Orbit Bridge Klaytn TriumphX",
-            "Symbol": "oTRIX",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x648fd38efefb4f97cf2df3ff93eff70e94da0691",
-            "Name": "Monstock Token",
-            "Symbol": "MON",
-            "Decimals": 10,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xfe4cd053f1e9200e784b7d60b54e6aa16e09406a",
-            "Name": "Orbit Bridge Klaytn Qubit Token",
-            "Symbol": "oQBT",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1",
-            "Name": "Cloudbric",
-            "Symbol": "CLBK",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
-            "Name": "Orbit Bridge Klaytn Ethereum",
-            "Symbol": "oETH",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
-            "Name": "Orbit Bridge Klaytn Ripple",
-            "Symbol": "oXRP",
-            "Decimals": 6,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xba9725eaccf07044625f1d232ef682216f5371c2",
-            "Name": "Clam Token",
-            "Symbol": "CLAM",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -658,27 +58,57 @@
             "Symbol": "UFO",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
-            "Name": "Orbit Bridge Klaytn Orbit Chain",
-            "Symbol": "oORC",
+            "Address": "0xe815a060b9279eba642f8c889fab7afc0d0aca63",
+            "Name": "Klaymeta Token",
+            "Symbol": "META",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x2f3713f388bc4b8b364a7a2d8d57c5ff4e054830",
-            "Name": "Voting KlaySwap Protocol",
-            "Symbol": "vKSP",
+            "Address": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
+            "Name": "KlaySwap Protocol",
+            "Symbol": "KSP",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdcd62c57182e780e23d2313c4782709da85b9d6c",
+            "Name": "Somesing Exchange",
+            "Symbol": "SSX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdd483a970a7a7fef2b223c3510fac852799a88bf",
+            "Name": "DSC Mix",
+            "Symbol": "MIX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xef82b1c6a550e730d8283e1edd4977cd01faf435",
+            "Name": "SIX",
+            "Symbol": "SIX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -688,17 +118,17 @@
             "Symbol": "aKAI",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x44efe1ec288470276e29ac3adb632bff990e2e1f",
-            "Name": "Kai Vote Token",
-            "Symbol": "vKAI",
+            "Address": "0x7eee60a000986e9efe7f5c90340738558c24317b",
+            "Name": "PER Project",
+            "Symbol": "PER",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -708,67 +138,47 @@
             "Symbol": "KRNO",
             "Decimals": 9,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xf445e3d0f88c4c2c8a2751180ae4a525789cfe32",
-            "Name": "gobus",
-            "Symbol": "bus",
+            "Address": "0xd51c337147c8033a43f3b5ce0023382320c113aa",
+            "Name": "Definix Token",
+            "Symbol": "FINIX",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x02e7d9ad54a19a9a0721d9515cf9f80f9547d771",
-            "Name": "kkakdugi",
-            "Symbol": "KDG",
+            "Address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
+            "Name": "Orbit Bridge Klaytn USD Tether",
+            "Symbol": "oUSDT",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdb116e2dc96b4e69e3544f41b50550436579979a",
+            "Name": "KlayFi",
+            "Symbol": "KFI",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xb1834e4e773a180168f2292e036ca8e17f86196f",
-            "Name": "Fandom",
-            "Symbol": "FDM",
-            "Decimals": 16,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
-            "Name": "OBSR",
-            "Symbol": "OBSR",
-            "Decimals": 8,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
-            "Name": "Orbit Bridge Klaytn Orbit Chain",
-            "Symbol": "oORC",
+            "Address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
+            "Name": "Klaytn Dai",
+            "Symbol": "KDAI",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x37d46c6813b121d6a27ed263aef782081ae95434",
-            "Name": "Kai Share Token",
-            "Symbol": "sKAI",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -783,42 +193,62 @@
             }
         },
         {
-            "Address": "0x5c74070fdea071359b86082bd9f9b3deaafbe32b",
-            "Name": "Klaytn Dai",
-            "Symbol": "KDAI",
+            "Address": "0x37d46c6813b121d6a27ed263aef782081ae95434",
+            "Name": "Kai Share Token",
+            "Symbol": "sKAI",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xdb116e2dc96b4e69e3544f41b50550436579979a",
-            "Name": "KlayFi",
-            "Symbol": "KFI",
+            "Address": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
+            "Name": "Orbit Bridge Klaytn Orbit Chain",
+            "Symbol": "oORC",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
-            "Name": "Orbit Bridge Klaytn USD Tether",
-            "Symbol": "oUSDT",
-            "Decimals": 6,
+            "Address": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
+            "Name": "OBSR",
+            "Symbol": "OBSR",
+            "Decimals": 8,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xd51c337147c8033a43f3b5ce0023382320c113aa",
-            "Name": "Definix Token",
-            "Symbol": "FINIX",
+            "Address": "0xb1834e4e773a180168f2292e036ca8e17f86196f",
+            "Name": "Fandom",
+            "Symbol": "FDM",
+            "Decimals": 16,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x02e7d9ad54a19a9a0721d9515cf9f80f9547d771",
+            "Name": "kkakdugi",
+            "Symbol": "KDG",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf445e3d0f88c4c2c8a2751180ae4a525789cfe32",
+            "Name": "gobus",
+            "Symbol": "bus",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -828,17 +258,17 @@
             "Symbol": "KRNO",
             "Decimals": 9,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x7eee60a000986e9efe7f5c90340738558c24317b",
-            "Name": "PER Project",
-            "Symbol": "PER",
+            "Address": "0x44efe1ec288470276e29ac3adb632bff990e2e1f",
+            "Name": "Kai Vote Token",
+            "Symbol": "vKAI",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -848,57 +278,27 @@
             "Symbol": "aKAI",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xef82b1c6a550e730d8283e1edd4977cd01faf435",
-            "Name": "SIX",
-            "Symbol": "SIX",
+            "Address": "0x2f3713f388bc4b8b364a7a2d8d57c5ff4e054830",
+            "Name": "Voting KlaySwap Protocol",
+            "Symbol": "vKSP",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xdd483a970a7a7fef2b223c3510fac852799a88bf",
-            "Name": "DSC Mix",
-            "Symbol": "MIX",
+            "Address": "0xfe41102f325deaa9f303fdd9484eb5911a7ba557",
+            "Name": "Orbit Bridge Klaytn Orbit Chain",
+            "Symbol": "oORC",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xdcd62c57182e780e23d2313c4782709da85b9d6c",
-            "Name": "Somesing Exchange",
-            "Symbol": "SSX",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xc6a2ad8cc6e4a7e08fc37cc5954be07d499e7654",
-            "Name": "KlaySwap Protocol",
-            "Symbol": "KSP",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xe815a060b9279eba642f8c889fab7afc0d0aca63",
-            "Name": "Klaymeta Token",
-            "Symbol": "META",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
@@ -908,57 +308,657 @@
             "Symbol": "UFO",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x158beff8c8cdebd64654add5f6a1d9937e73536c",
-            "Name": "Klaymore Stakehouse",
-            "Symbol": "HOUSE",
+            "Address": "0xba9725eaccf07044625f1d232ef682216f5371c2",
+            "Name": "Clam Token",
+            "Symbol": "CLAM",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x74ba03198fed2b15a51af242b9c63faf3c8f4d34",
-            "Name": "Auto-Staking-Klay",
-            "Symbol": "AKLAY",
-            "Decimals": 18,
+            "Address": "0x9eaefb09fe4aabfbe6b1ca316a3c36afc83a393f",
+            "Name": "Orbit Bridge Klaytn Ripple",
+            "Symbol": "oXRP",
+            "Decimals": 6,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x2ef5f2642674f768b4efe9a7de470a6a68bcb8f3",
-            "Name": "BYPE",
-            "Symbol": "BYPE",
+            "Address": "0x34d21b1e550d73cee41151c77f3c73359527a396",
+            "Name": "Orbit Bridge Klaytn Ethereum",
+            "Symbol": "oETH",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0x5096db80b21ef45230c9e423c373f1fc9c0198dd",
-            "Name": "WEMIX TOKEN",
-            "Symbol": "WEMIX",
+            "Address": "0xc4407f7dc4b37275c9ce0f839652b393e13ff3d1",
+            "Name": "Cloudbric",
+            "Symbol": "CLBK",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         },
         {
-            "Address": "0xb15183d0d4d5e86ba702ce9bb7b633376e7db29f",
-            "Name": "Kokoa",
-            "Symbol": "KOKOA",
+            "Address": "0xfe4cd053f1e9200e784b7d60b54e6aa16e09406a",
+            "Name": "Orbit Bridge Klaytn Qubit Token",
+            "Symbol": "oQBT",
             "Decimals": 18,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x648fd38efefb4f97cf2df3ff93eff70e94da0691",
+            "Name": "Monstock Token",
+            "Symbol": "MON",
+            "Decimals": 10,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x0c1d7ce4982fd63b1bc77044be1da05c995e4463",
+            "Name": "Orbit Bridge Klaytn TriumphX",
+            "Symbol": "oTRIX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5388ce775de8f7a69d17fd5caa9f7dbfee65dfce",
+            "Name": "DON token for KLAYTN",
+            "Symbol": "oDON",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x275f942985503d8ce9558f8377cc526a3aba3566",
+            "Name": "ProjectWITH",
+            "Symbol": "WIKEN",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x16d0e1fbd024c600ca0380a4c5d57ee7a2ecbf9c",
+            "Name": "Orbit Bridge Klaytn Wrapped BTC",
+            "Symbol": "oWBTC",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x321bc0b63efb1e4af08ec6d20c85d5e94ddaaa18",
+            "Name": "BLUEBAIKAL",
+            "Symbol": "BBC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa323d7386b671e8799dca3582d6658fdcdcd940a",
+            "Name": "sKlay",
+            "Symbol": "SKLAY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3cb6be2fc6677a63cb52b07aed523f93f5a06cb4",
+            "Name": "OBSR",
+            "Symbol": "OBSR",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x11dc950ef29594cc19eb573811339df20c86c800",
+            "Name": "Orbit Bridge Klaytn DeFine Art",
+            "Symbol": "oDFA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xb1834e4e773a180168f2292e036ca8e17f86196f",
+            "Name": "Fandom",
+            "Symbol": "FDM",
+            "Decimals": 16,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x7f223b1607171b81ebd68d22f1ca79157fd4a44b",
+            "Name": "Cojam",
+            "Symbol": "CT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdc229b451798774b2f2de279cbf13370bb802fb5",
+            "Name": "CHAINFLIX",
+            "Symbol": "CFXT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4b91c67a89d4c4b2a4ed9fcde6130d7495330972",
+            "Name": "Treecle",
+            "Symbol": "TRCL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x43de991a0d9b666a215f3eb5801accd260092c2c",
+            "Name": "IBP Token",
+            "Symbol": "IBP",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3513b2bc58f1f260107fd1ee0dabb5b0637b9ed5",
+            "Name": "XPIKE Token",
+            "Symbol": "XE",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xaf952acf66a66c28b04e14ab52158a2165838cd8",
+            "Name": "THE PLAYER",
+            "Symbol": "PLYR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1deaf220c70b6def6f936772d61d8f6b0b404157",
+            "Name": "CRYPTOLLS COIN",
+            "Symbol": "TOLLS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xa4547080f3310b9ec4ed4b08fbc3762c6d294cc9",
+            "Name": "ORCA Finance Token",
+            "Symbol": "ORCA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf4546e1d3ad590a3c6d178d671b3bc0e8a81e27d",
+            "Name": "BWPM Vault",
+            "Symbol": "sBWPM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x1c64cda740f0595e2bb7c4e6a736bd5fcc691c66",
+            "Name": "COWCOW Token",
+            "Symbol": "COW",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdfe180e288158231ffa5faf183eca3301344a51f",
+            "Name": "Orbit Bridge Klaytn BELT Token",
+            "Symbol": "oBELT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x033da9f82297fd828e133fc364aba1cb636b97c6",
+            "Name": "MERITO",
+            "Symbol": "MERI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xb1a7abe0c5a9e06cc7585a435e74976d2dee07f3",
+            "Name": "BlockchainPetToken",
+            "Symbol": "BPT",
+            "Decimals": 2,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8ef60f0a5a2db984431934f8659058e87cd5c70a",
+            "Name": "Orbit Bridge Klaytn ICON",
+            "Symbol": "KICX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x96035fbdd4cb888862ee28c9d8fdadef78311cc9",
+            "Name": "MilliMeter",
+            "Symbol": "MM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x52f4c436c9aab5b5d0dd31fb3fb8f253fd6cb285",
+            "Name": "Orbit Bridge Klaytn CRYPTO BANK",
+            "Symbol": "oCBANK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdabee145a1395e09280c23ea9aa71caca35a1ec0",
+            "Name": "NIKPLACE",
+            "Symbol": "NIK",
+            "Decimals": 16,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9657fb399847d85a9c1a234ece9ca09d5c00f466",
+            "Name": "Insureum Token",
+            "Symbol": "ISR",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8c783809332be7734fa782eb5139861721f77b33",
+            "Name": "Turtle King",
+            "Symbol": "TURK",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xdde2154f47e80c8721c2efbe02834ae056284368",
+            "Name": "Influencer",
+            "Symbol": "IMI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xe06b40df899b9717b4e6b50711e1dc72d08184cf",
+            "Name": "HiblocksToken",
+            "Symbol": "HIBS",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5425b810432bc7e7dbc74859ed3c37bb39d9df00",
+            "Name": "Pixel",
+            "Symbol": "PXL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8583063110b5d29036eced4db1cc147e78a86a77",
+            "Name": "Orbit Bridge Klaytn AUTOv2",
+            "Symbol": "oAUTO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x4dd402a7d54eaa8147cb6ff252afe5be742bdf40",
+            "Name": "HINT Token",
+            "Symbol": "HINT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xafde910130c335fa5bd5fe991053e3e0a49dce7b",
+            "Name": "Pibble Token",
+            "Symbol": "PIB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xafde910130c335fa5bd5fe991053e3e0a49dce7b",
+            "Name": "Pibble Token",
+            "Symbol": "PIB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x656f86dd0f3bc25af2d15855f2a2f142f9eaed87",
+            "Name": "BOX",
+            "Symbol": "BOX",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x143d71be70dc518a9e9c25b6008d9353b3698d26",
+            "Name": "FEWK Far East White Kindoms OYAT",
+            "Symbol": "OYAT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3b3b30a76d169f72a0a38ae01b0d6e0fbee3cc2e",
+            "Name": "TEMCO",
+            "Symbol": "TEMCO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x76264ad1b50852c4d8efb55bfaf154dd5a80d0c2",
+            "Name": "JSD",
+            "Symbol": "JSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x968d93a44b3ef61168ca621a59ddc0e56583e592",
+            "Name": "Kai Bond Token",
+            "Symbol": "bKAI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x292725810ab3dde0a01e19acd4e8e9d6c073773b",
+            "Name": "Orbit Bridge Klaytn Aergo",
+            "Symbol": "oAERGO",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x46f307b58bf05ff089ba23799fae0e518557f87c",
+            "Name": "Airbloc",
+            "Symbol": "ABL",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x06d566491c858f50ee412bc475ac29260650f43c",
+            "Name": "Q2",
+            "Symbol": "Q2",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x3886df0cb94f4bf7e0ac3dfe2d1db40d2ee2293b",
+            "Name": "Orbit Bridge Klaytn TOM",
+            "Symbol": "oTOM",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8177ac20455f31d8cb777923f0c632436568c719",
+            "Name": "DATA Token",
+            "Symbol": "DTA",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x18814b01b5cc76f7043e10fd268cc4364df47da0",
+            "Name": "c4ei.net 4 klay",
+            "Symbol": "CEIK",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x15d814ba6ca0e5b87c505ad9bd1ad7af2bcfee85",
+            "Name": "Bluewhale Trust Pool KSP-KORC Compound Interest",
+            "Symbol": "BWTP KSP-KORC CI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x36e5ea82a099e8188bd5af5709b23628076de822",
+            "Name": "Orbit Bridge Klaytn PancakeSwap Token",
+            "Symbol": "oCAKE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xddc42416f16176d835311f710ee78aff63705b37",
+            "Name": "APT Coin",
+            "Symbol": "KAPT",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x2842a6d0c182e3f1cf4556311c48a7706d7ba6ad",
+            "Name": "Orbit Bridge Klaytn Gala",
+            "Symbol": "oGALA",
+            "Decimals": 8,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x01cb8563e9c4703f4e6b9fa09edeaed0e5948f28",
+            "Name": "Jun Bond Token",
+            "Symbol": "JUNB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x6a6184283af9f62da739f8b309c5fca61e2f1400",
+            "Name": "CRYPTOKKI COIN",
+            "Symbol": "TOKKI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8ff0586b6eea63a35e73d09237b4a58b3056f274",
+            "Name": "Orbit Bridge Klaytn BioPassport Coin",
+            "Symbol": "oBIOT",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x8bc28c926a0fe54b5c56a329cd3b129cc52ae099",
+            "Name": "Orbit Bridge Klaytn Dotr Coin",
+            "Symbol": "oDOTR",
+            "Decimals": 9,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x75ad14d0360408dc6f8163e5dfb51aad516f4afd",
+            "Name": "Beeblock",
+            "Symbol": "BUZ",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x07aa7ae19b17579f7237ad72c616fecf4ccc787b",
+            "Name": "ARTUBE TOKEN",
+            "Symbol": "ATT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x718fea0946c6a558ece7724e7f8559cac2255967",
+            "Name": "Bluewhale Trust Pool KSP-KUSDT Compound Interest",
+            "Symbol": "BWTP KSP-KUSDT CI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x9e481eb17d3c3c07d7a6ab571b4ba8ef432b5cf2",
+            "Name": "MyCreditChain",
+            "Symbol": "MCC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x5133bd36a20bba25c78a7428a7bd9d2c6887dc8c",
+            "Name": "Bluewhale Trust Pool KORC-KDAI Compound Interest",
+            "Symbol": "BWTP KORC-KDAI CI",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
                 "Has128": false
             }
         }
