@@ -3931,6 +3931,16 @@
                 "Has32": true,
                 "Has128": false
             }
+        },
+        {
+            "Address": "0x1378e33a09d8bd8e449cfd8a5abca0439286d645",
+            "Name": "BiFi BSC",
+            "Symbol": "BiFiB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
         }
     ]
 }

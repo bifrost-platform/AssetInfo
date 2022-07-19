@@ -1351,6 +1351,16 @@
                 "Has32": true,
                 "Has128": false
             }
+        },
+        {
+            "Address": "0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87",
+            "Name": "BiFi",
+            "Symbol": "BiFi",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": false
+            }
         }
     ]
 }

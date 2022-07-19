@@ -5001,6 +5001,16 @@
                 "Has32": true,
                 "Has128": false
             }
+        },
+        {
+            "Address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+            "Name": "Wrapped Ether",
+            "Symbol": "WETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
         }
     ]
 }

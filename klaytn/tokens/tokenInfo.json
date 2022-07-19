@@ -183,8 +183,8 @@
             }
         },
         {
-            "Address": "0xfd844c2fca5e595004b17615f891620d1cb9bbb2",
-            "Name": "Wrapped KLAY",
+            "Address": "0xe4f05a66ec68b54a58b17c22107b02e0232cc817",
+            "Name": "Wrapped Klay",
             "Symbol": "WKLAY",
             "Decimals": 18,
             "ImageInfo": {
@@ -959,6 +959,26 @@
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x754288077d0ff82af7a5317c7cb8c444d421d103",
+            "Name": "Orbit Bridge Klaytn USD Coin",
+            "Symbol": "oUSDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xf6c2ecd4b14dab46246608e8e1c2b697faebea11",
+            "Name": "Orbit Bridge Klaytn BiFi",
+            "Symbol": "oBiFi",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
                 "Has128": false
             }
         }
