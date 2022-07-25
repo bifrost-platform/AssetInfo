@@ -1,5 +1,5 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/Assets/avalanche/tokens/images/",
+    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/",
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {

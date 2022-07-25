@@ -1,5 +1,5 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfos/master/Assets/binance/tokens/images/",
+    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/binance/tokens/images/",
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {
