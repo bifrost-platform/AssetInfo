@@ -5009,7 +5009,7 @@
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": true,
-                "Has128": true
+                "Has128": false
             }
         }
     ]
