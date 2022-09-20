@@ -1,5 +1,96 @@
 {
     "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrosttest1/tokens/images/",
     "EmptyToken": "empty-token.png",
-    "TokenList": []
+    "TokenList": [
+        {
+            "Address": "0xb3f5C3a2237Df09F94dDAC32F63E5D962Ae66a42",
+            "Name": "BIFROST-BiFi",
+            "Symbol": "bi BiFi",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0xF2419ceE93d19F6BcC19220007DCFc418A2AaCcf",
+            "Name": "BIFROST-BUSD",
+            "Symbol": "bi BUSD",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0x02B0891CC3f3865E52bB0F9c4DF2Dc3d172ff9a3",
+            "Name": "BIFROST-USDC",
+            "Symbol": "bi USDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xDE23135c958536eE291019B405921EAE84fFa759",
+            "Name": "BIFROST-BNB",
+            "Symbol": "bi BNB",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0xd1E060FD930B75DA9A709c91E6Ad03B330Fb2950",
+            "Name": "BIFROST-KLAY",
+            "Symbol": "bi KLAY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0x619d50242bCA4141aEEE35822F751D768e63397a",
+            "Name": "BIFROST-MATIC",
+            "Symbol": "bi MATIC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0x6EeE91b7c69e3576C13cE7a9C7C0E305dF6996F9",
+            "Name": "BIFROST-USDT",
+            "Symbol": "bi USDT",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0xAb2dB3Ec63342e4172e75D788F38fBF7E604e549",
+            "Name": "BIFROST-ETH",
+            "Symbol": "bi ETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": false,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0xC9B1EbB9826A89665E35017F01a3dbaC6eE5F933",
+            "Name": "Wrapped BFC",
+            "Symbol": "WBFC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        }
+    ]
 }
