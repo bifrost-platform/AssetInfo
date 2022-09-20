@@ -1,0 +1,46 @@
+{
+    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/goerli/tokens/images/",
+    "EmptyToken": "empty-token.png",
+    "TokenList": [
+        {
+            "Address": "0x67fBEB3b54dBbBe3aC710D019eb2781b66486886",
+            "Name": "Bifrost",
+            "Symbol": "BFC",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0xD978Be30CE95D42DF7067b988f25bCa2b286Fb70",
+            "Name": "USD Coin",
+            "Symbol": "USDC",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xF26d15E6484e00Af2772b840eb4F2B36F0BD569C",
+            "Name": "Tether USD",
+            "Symbol": "USDT",
+            "Decimals": 6,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0x055ED934c426855caB467FdF8441D4FD6a7D2659",
+            "Name": "BiFi",
+            "Symbol": "BiFi",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        }
+    ]
+}
