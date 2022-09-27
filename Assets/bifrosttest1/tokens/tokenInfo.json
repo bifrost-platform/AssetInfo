@@ -1,5 +1,5 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/test-platform/AssetInfo/master/Assets/testtest1/tokens/images/",
+    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrosttest1/tokens/images/",
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {
