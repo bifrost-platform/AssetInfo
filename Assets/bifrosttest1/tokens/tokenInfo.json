@@ -4,8 +4,8 @@
     "TokenList": [
         {
             "Address": "0xDE23135c958536eE291019B405921EAE84fFa759",
-            "Name": "test-ETH",
-            "Symbol": "test ETH",
+            "Name": "ETH",
+            "Symbol": "ETH",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": false,
@@ -14,8 +14,8 @@
         },
         {
             "Address": "0x619d50242bCA4141aEEE35822F751D768e63397a",
-            "Name": "test-BiFi",
-            "Symbol": "test BiFi",
+            "Name": "BiFi",
+            "Symbol": "BiFi",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": true,
@@ -24,8 +24,8 @@
         },
         {
             "Address": "0xd1E060FD930B75DA9A709c91E6Ad03B330Fb2950",
-            "Name": "test-BNB",
-            "Symbol": "test BNB",
+            "Name": "BNB",
+            "Symbol": "BNB",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": false,
@@ -34,8 +34,8 @@
         },
         {
             "Address": "0xb3f5C3a2237Df09F94dDAC32F63E5D962Ae66a42",
-            "Name": "test-MATIC",
-            "Symbol": "test MATIC",
+            "Name": "MATIC",
+            "Symbol": "MATIC",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": false,
@@ -44,8 +44,8 @@
         },
         {
             "Address": "0x02B0891CC3f3865E52bB0F9c4DF2Dc3d172ff9a3",
-            "Name": "test-KLAY",
-            "Symbol": "test KLAY",
+            "Name": "KLAY",
+            "Symbol": "KLAY",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": false,
@@ -54,8 +54,8 @@
         },
         {
             "Address": "0x6EeE91b7c69e3576C13cE7a9C7C0E305dF6996F9",
-            "Name": "test-USDC",
-            "Symbol": "test USDC",
+            "Name": "USDC",
+            "Symbol": "USDC",
             "Decimals": 6,
             "ImageInfo": {
                 "Has32": true,
@@ -64,8 +64,8 @@
         },
         {
             "Address": "0xF2419ceE93d19F6BcC19220007DCFc418A2AaCcf",
-            "Name": "test-USDT",
-            "Symbol": "test USDT",
+            "Name": "USDT",
+            "Symbol": "USDT",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": true,
@@ -74,8 +74,8 @@
         },
         {
             "Address": "0x9c8B701961C20d006cb7c4B5B91c6cb93EdB44Ac",
-            "Name": "test-BUSD",
-            "Symbol": "test BUSD",
+            "Name": "BUSD",
+            "Symbol": "BUSD",
             "Decimals": 18,
             "ImageInfo": {
                 "Has32": true,
