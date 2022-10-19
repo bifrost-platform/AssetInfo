@@ -3,6 +3,16 @@
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {
+            "Address": "0xB4FBF271143F4FBf7B91A5ded31805e42b2208d6",
+            "Name": "Wrapped Ether",
+            "Symbol": "WETH",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        },
+        {
             "Address": "0x3A815eBa66EaBE966a6Ae7e5Df9652eca24e9c54",
             "Name": "Bifrost",
             "Symbol": "BFC",
