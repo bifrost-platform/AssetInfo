@@ -1,0 +1,61 @@
+{
+    "coins": [
+      {
+        "item": {
+          "id": "solana",
+          "name": "Solana",
+          "symbol": "SOL",
+          "thumb": "https://assets.coingecko.com/coins/images/4128/thumb/solana.png?1640133422"
+        }
+      },
+      {
+        "item": {
+          "id": "lido-dao",
+          "name": "Lido DAO",
+          "symbol": "LDO",
+          "thumb": "https://assets.coingecko.com/coins/images/13573/thumb/Lido_DAO.png?1609873644"
+        }
+      },
+      {
+        "item": {
+          "id": "gmx",
+          "name": "GMX",
+          "symbol": "GMX",
+          "thumb": "https://assets.coingecko.com/coins/images/18323/thumb/arbit.png?1631532468"
+        }
+      },
+      {
+        "item": {
+          "id": "xen-crypto",
+          "name": "XEN Crypto",
+          "symbol": "XEN",
+          "thumb": "https://assets.coingecko.com/coins/images/27713/thumb/Xen.jpeg?1665453190"
+        }
+      },
+      {
+        "item": {
+          "id": "matic-network",
+          "name": "Polygon",
+          "symbol": "MATIC",
+          "thumb": "https://assets.coingecko.com/coins/images/4713/thumb/matic-token-icon.png?1624446912"
+        }
+      },
+      {
+        "item": {
+          "id": "algorand",
+          "name": "Algorand",
+          "symbol": "ALGO",
+          "thumb": "https://assets.coingecko.com/coins/images/4380/thumb/download.png?1547039725"
+       
+        }
+      },
+      {
+        "item": {
+          "id": "aptos",
+          "name": "Aptos",
+          "symbol": "APT",
+          "thumb": "https://assets.coingecko.com/coins/images/26455/thumb/aptos_round.png?1666839629"
+        }
+      }
+    ]
+  }
