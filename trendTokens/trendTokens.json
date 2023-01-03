@@ -5,7 +5,8 @@
           "id": "ethereum",
           "symbol": "USDT",
           "contract": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/ethereum/tokens/images/128/0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/ethereum/tokens/images/128/0xdAC17F958D2ee523a2206206994597C13D831ec7.png",
+          "url": "https://www.coingecko.com/en/coins/tether"
         }
       },
       {
@@ -13,7 +14,8 @@
           "id": "binance-smart-chain",
           "symbol": "USDT",
           "contract":"0x55d398326f99059ff775485246999027b3197955",
-          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/binance/tokens/images/32/0x55d398326f99059ff775485246999027b3197955.png"
+          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/binance/tokens/images/32/0x55d398326f99059fF775485246999027B3197955.png",
+          "url": "https://www.coingecko.com/en/coins/tether"
         }
       },
       {
@@ -21,7 +23,8 @@
           "id": "klay-token",
           "symbol": "OUSDT",
           "contract": "0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167",
-          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/klaytn/tokens/images/32/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167.png"
+          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/klaytn/tokens/images/32/0xcee8faf64bb97a73bb51e115aa89c17ffa8dd167.png",
+          "url": "https://www.coingecko.com/en/coins/orbit-bridge-klaytn-usd-tether"
         }
       },
       {
@@ -29,7 +32,8 @@
           "id": "avalanche",
           "symbol": "USDC.e",
           "contract":"0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/32/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png"
+          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/32/0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664.png",
+          "url": "https://www.coingecko.com/en/coins/usd-coin-avalanche-bridged-usdc-e"
         }
       }
     ]
