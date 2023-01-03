@@ -13,7 +13,7 @@
           "id": "binance-smart-chain",
           "symbol": "USDT",
           "contract":"0x55d398326f99059ff775485246999027b3197955",
-          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/binance/tokens/images/128/0x55d398326f99059ff775485246999027b3197955.png"
+          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/binance/tokens/images/32/0x55d398326f99059ff775485246999027b3197955.png"
         }
       },
       {
@@ -29,7 +29,7 @@
           "id": "avalanche",
           "symbol": "USDC.e",
           "contract":"0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/128/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png"
+          "thumb": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/32/0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664.png"
         }
       }
     ]
