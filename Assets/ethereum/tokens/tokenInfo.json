@@ -5011,6 +5011,26 @@
                 "Has32": true,
                 "Has128": false
             }
+        },
+        {
+            "Address": "0x7420B4b9a0110cdC71fB720908340C03F9Bc03EC",
+            "Name": "JasmyCoin",
+            "Symbol": "JASMY",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
+        },
+        {
+            "Address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+            "Name": "ApeCoin",
+            "Symbol": "APE",
+            "Decimals": 18,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
         }
     ]
 }
