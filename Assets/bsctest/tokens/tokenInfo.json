@@ -7,9 +7,21 @@
             "Name": "BUSD Token",
             "Symbol": "BUSD",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
+            }
+        },
+        {
+            "Address": "0xC9C0aD3179eE2f4801454926ED5D6A2Da30b56FB",
+            "Name": "USDC",
+            "Symbol": "USDC",
+            "Decimals": 18,
+            "IsNewToken": false,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
             }
         }
     ]

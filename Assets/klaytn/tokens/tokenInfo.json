@@ -7,6 +7,7 @@
             "Name": "Kokoa",
             "Symbol": "KOKOA",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -17,6 +18,7 @@
             "Name": "WEMIX TOKEN",
             "Symbol": "WEMIX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -27,6 +29,7 @@
             "Name": "BYPE",
             "Symbol": "BYPE",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -37,6 +40,7 @@
             "Name": "Auto-Staking-Klay",
             "Symbol": "AKLAY",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -47,6 +51,7 @@
             "Name": "Klaymore Stakehouse",
             "Symbol": "HOUSE",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -57,6 +62,7 @@
             "Name": "Ufo Token",
             "Symbol": "UFO",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -67,6 +73,7 @@
             "Name": "Klaymeta Token",
             "Symbol": "META",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -77,6 +84,7 @@
             "Name": "KlaySwap Protocol",
             "Symbol": "KSP",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -87,6 +95,7 @@
             "Name": "Somesing Exchange",
             "Symbol": "SSX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -97,6 +106,7 @@
             "Name": "DSC Mix",
             "Symbol": "MIX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -107,6 +117,7 @@
             "Name": "SIX",
             "Symbol": "SIX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -117,6 +128,7 @@
             "Name": "Kai Auto Token",
             "Symbol": "aKAI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -127,6 +139,7 @@
             "Name": "PER Project",
             "Symbol": "PER",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -137,6 +150,7 @@
             "Name": "Kronos",
             "Symbol": "KRNO",
             "Decimals": 9,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -147,6 +161,7 @@
             "Name": "Definix Token",
             "Symbol": "FINIX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -157,6 +172,7 @@
             "Name": "Orbit Bridge Klaytn USD Tether",
             "Symbol": "oUSDT",
             "Decimals": 6,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -167,6 +183,7 @@
             "Name": "KlayFi",
             "Symbol": "KFI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -177,6 +194,7 @@
             "Name": "Klaytn Dai",
             "Symbol": "KDAI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -187,6 +205,7 @@
             "Name": "Wrapped Klay",
             "Symbol": "WKLAY",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": false,
                 "Has128": false
@@ -197,6 +216,7 @@
             "Name": "Kai Share Token",
             "Symbol": "sKAI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -207,6 +227,7 @@
             "Name": "Orbit Bridge Klaytn Orbit Chain",
             "Symbol": "oORC",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -217,6 +238,7 @@
             "Name": "OBSR",
             "Symbol": "OBSR",
             "Decimals": 8,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -227,6 +249,7 @@
             "Name": "Fandom",
             "Symbol": "FDM",
             "Decimals": 16,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -237,6 +260,7 @@
             "Name": "kkakdugi",
             "Symbol": "KDG",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -247,6 +271,7 @@
             "Name": "gobus",
             "Symbol": "bus",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -257,6 +282,7 @@
             "Name": "Kronos",
             "Symbol": "KRNO",
             "Decimals": 9,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -267,6 +293,7 @@
             "Name": "Kai Vote Token",
             "Symbol": "vKAI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -277,6 +304,7 @@
             "Name": "Kai Auto Token",
             "Symbol": "aKAI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -287,6 +315,7 @@
             "Name": "Voting KlaySwap Protocol",
             "Symbol": "vKSP",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -297,6 +326,7 @@
             "Name": "Orbit Bridge Klaytn Orbit Chain",
             "Symbol": "oORC",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -307,6 +337,7 @@
             "Name": "Ufo Token",
             "Symbol": "UFO",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -317,6 +348,7 @@
             "Name": "Clam Token",
             "Symbol": "CLAM",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -327,6 +359,7 @@
             "Name": "Orbit Bridge Klaytn Ripple",
             "Symbol": "oXRP",
             "Decimals": 6,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -337,6 +370,7 @@
             "Name": "Orbit Bridge Klaytn Ethereum",
             "Symbol": "oETH",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -347,6 +381,7 @@
             "Name": "Cloudbric",
             "Symbol": "CLBK",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -357,6 +392,7 @@
             "Name": "Orbit Bridge Klaytn Qubit Token",
             "Symbol": "oQBT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -367,6 +403,7 @@
             "Name": "Monstock Token",
             "Symbol": "MON",
             "Decimals": 10,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -377,6 +414,7 @@
             "Name": "Orbit Bridge Klaytn TriumphX",
             "Symbol": "oTRIX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -387,6 +425,7 @@
             "Name": "DON token for KLAYTN",
             "Symbol": "oDON",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -397,6 +436,7 @@
             "Name": "ProjectWITH",
             "Symbol": "WIKEN",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -407,6 +447,7 @@
             "Name": "Orbit Bridge Klaytn Wrapped BTC",
             "Symbol": "oWBTC",
             "Decimals": 8,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -417,6 +458,7 @@
             "Name": "BLUEBAIKAL",
             "Symbol": "BBC",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -427,6 +469,7 @@
             "Name": "sKlay",
             "Symbol": "SKLAY",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -437,6 +480,7 @@
             "Name": "OBSR",
             "Symbol": "OBSR",
             "Decimals": 8,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -447,6 +491,7 @@
             "Name": "Orbit Bridge Klaytn DeFine Art",
             "Symbol": "oDFA",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -457,6 +502,7 @@
             "Name": "Fandom",
             "Symbol": "FDM",
             "Decimals": 16,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -467,6 +513,7 @@
             "Name": "Cojam",
             "Symbol": "CT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -477,6 +524,7 @@
             "Name": "CHAINFLIX",
             "Symbol": "CFXT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -487,6 +535,7 @@
             "Name": "Treecle",
             "Symbol": "TRCL",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -497,6 +546,7 @@
             "Name": "IBP Token",
             "Symbol": "IBP",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -507,6 +557,7 @@
             "Name": "XPIKE Token",
             "Symbol": "XE",
             "Decimals": 6,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -517,6 +568,7 @@
             "Name": "THE PLAYER",
             "Symbol": "PLYR",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -527,6 +579,7 @@
             "Name": "CRYPTOLLS COIN",
             "Symbol": "TOLLS",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -537,6 +590,7 @@
             "Name": "ORCA Finance Token",
             "Symbol": "ORCA",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -547,6 +601,7 @@
             "Name": "BWPM Vault",
             "Symbol": "sBWPM",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -557,6 +612,7 @@
             "Name": "COWCOW Token",
             "Symbol": "COW",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -567,6 +623,7 @@
             "Name": "Orbit Bridge Klaytn BELT Token",
             "Symbol": "oBELT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -577,6 +634,7 @@
             "Name": "MERITO",
             "Symbol": "MERI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -587,6 +645,7 @@
             "Name": "BlockchainPetToken",
             "Symbol": "BPT",
             "Decimals": 2,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -597,6 +656,7 @@
             "Name": "Orbit Bridge Klaytn ICON",
             "Symbol": "KICX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -607,6 +667,7 @@
             "Name": "MilliMeter",
             "Symbol": "MM",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -617,6 +678,7 @@
             "Name": "Orbit Bridge Klaytn CRYPTO BANK",
             "Symbol": "oCBANK",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -627,6 +689,7 @@
             "Name": "NIKPLACE",
             "Symbol": "NIK",
             "Decimals": 16,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -637,6 +700,7 @@
             "Name": "Insureum Token",
             "Symbol": "ISR",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -647,6 +711,7 @@
             "Name": "Turtle King",
             "Symbol": "TURK",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -657,6 +722,7 @@
             "Name": "Influencer",
             "Symbol": "IMI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -667,6 +733,7 @@
             "Name": "HiblocksToken",
             "Symbol": "HIBS",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -677,6 +744,7 @@
             "Name": "Pixel",
             "Symbol": "PXL",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -687,6 +755,7 @@
             "Name": "Orbit Bridge Klaytn AUTOv2",
             "Symbol": "oAUTO",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -697,6 +766,7 @@
             "Name": "HINT Token",
             "Symbol": "HINT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -707,6 +777,7 @@
             "Name": "Pibble Token",
             "Symbol": "PIB",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -717,6 +788,7 @@
             "Name": "Pibble Token",
             "Symbol": "PIB",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -727,6 +799,7 @@
             "Name": "BOX",
             "Symbol": "BOX",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -737,6 +810,7 @@
             "Name": "FEWK Far East White Kindoms OYAT",
             "Symbol": "OYAT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -747,6 +821,7 @@
             "Name": "TEMCO",
             "Symbol": "TEMCO",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -757,6 +832,7 @@
             "Name": "JSD",
             "Symbol": "JSD",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -767,6 +843,7 @@
             "Name": "Kai Bond Token",
             "Symbol": "bKAI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -777,6 +854,7 @@
             "Name": "Orbit Bridge Klaytn Aergo",
             "Symbol": "oAERGO",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -787,6 +865,7 @@
             "Name": "Airbloc",
             "Symbol": "ABL",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -797,6 +876,7 @@
             "Name": "Q2",
             "Symbol": "Q2",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -807,6 +887,7 @@
             "Name": "Orbit Bridge Klaytn TOM",
             "Symbol": "oTOM",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -817,6 +898,7 @@
             "Name": "DATA Token",
             "Symbol": "DTA",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -827,6 +909,7 @@
             "Name": "c4ei.net 4 klay",
             "Symbol": "CEIK",
             "Decimals": 8,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -837,6 +920,7 @@
             "Name": "Bluewhale Trust Pool KSP-KORC Compound Interest",
             "Symbol": "BWTP KSP-KORC CI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -847,6 +931,7 @@
             "Name": "Orbit Bridge Klaytn PancakeSwap Token",
             "Symbol": "oCAKE",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -857,6 +942,7 @@
             "Name": "APT Coin",
             "Symbol": "KAPT",
             "Decimals": 9,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -867,6 +953,7 @@
             "Name": "Orbit Bridge Klaytn Gala",
             "Symbol": "oGALA",
             "Decimals": 8,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -877,6 +964,7 @@
             "Name": "Jun Bond Token",
             "Symbol": "JUNB",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -887,6 +975,7 @@
             "Name": "CRYPTOKKI COIN",
             "Symbol": "TOKKI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -897,6 +986,7 @@
             "Name": "Orbit Bridge Klaytn BioPassport Coin",
             "Symbol": "oBIOT",
             "Decimals": 9,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -907,6 +997,7 @@
             "Name": "Orbit Bridge Klaytn Dotr Coin",
             "Symbol": "oDOTR",
             "Decimals": 9,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -917,6 +1008,7 @@
             "Name": "Beeblock",
             "Symbol": "BUZ",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -927,6 +1019,7 @@
             "Name": "ARTUBE TOKEN",
             "Symbol": "ATT",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -937,6 +1030,7 @@
             "Name": "Bluewhale Trust Pool KSP-KUSDT Compound Interest",
             "Symbol": "BWTP KSP-KUSDT CI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -947,6 +1041,7 @@
             "Name": "MyCreditChain",
             "Symbol": "MCC",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -957,6 +1052,7 @@
             "Name": "Bluewhale Trust Pool KORC-KDAI Compound Interest",
             "Symbol": "BWTP KORC-KDAI CI",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -967,6 +1063,7 @@
             "Name": "Orbit Bridge Klaytn USD Coin",
             "Symbol": "oUSDC",
             "Decimals": 6,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": true,
                 "Has128": false
@@ -977,6 +1074,7 @@
             "Name": "Orbit Bridge Klaytn BiFi",
             "Symbol": "oBiFi",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": false,
                 "Has128": false
