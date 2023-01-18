@@ -4,7 +4,7 @@
     "TokenList": [
         {
             "Address": "0xc83EEd1bf5464eD5383bc3342b918E08f6815950",
-            "Name": "ETH",
+            "Name": "Unified ETH",
             "Symbol": "ETH",
             "Decimals": 18,
             "IsNewToken": false,
@@ -15,7 +15,7 @@
         },
         {
             "Address": "0x8010a873d59719e895E20f15f9906B5a1F399C3A",
-            "Name": "BiFi",
+            "Name": "Unified BiFi",
             "Symbol": "BiFi",
             "Decimals": 18,
             "IsNewToken": false,
@@ -26,7 +26,7 @@
         },
         {
             "Address": "0xCd8bf79fA84D551f2465C0a646cABc295d43Be5C",
-            "Name": "BNB",
+            "Name": "Unified BNB",
             "Symbol": "BNB",
             "Decimals": 18,
             "IsNewToken": false,
@@ -37,7 +37,7 @@
         },
         {
             "Address": "0xad115F901a1Af99dc83D055C89641031fd1a50Dc",
-            "Name": "MATIC",
+            "Name": "Unified MATIC",
             "Symbol": "MATIC",
             "Decimals": 18,
             "IsNewToken": false,
@@ -48,7 +48,7 @@
         },
         {
             "Address": "0x28661511CDA7119B2185c647F23106a637CC074f",
-            "Name": "USDC",
+            "Name": "Unified USDC",
             "Symbol": "USDC",
             "Decimals": 6,
             "IsNewToken": false,
@@ -58,9 +58,9 @@
             }
         },
         {
-            "Address": "0x92AF0FC56D48D97f9420Ac249D4C2543a1870Eb5",
-            "Name": "Wrapped BFC",
-            "Symbol": "WBFC",
+            "Address": "0xB0fF18CB2d0F3f51a9c54Af862ed98f3caa027A1",
+            "Name": "Unified BFC",
+            "Symbol": "BFC",
             "Decimals": 18,
             "IsNewToken": false,
             "ImageInfo": {
