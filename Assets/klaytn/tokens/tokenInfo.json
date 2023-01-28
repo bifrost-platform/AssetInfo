@@ -1079,6 +1079,17 @@
                 "Has32": true,
                 "Has128": false
             }
+        },
+        {
+            "Address": "0xa006ba407cfc6584c90bac24ed971261885a0fd6",
+            "Name": "Orbit Bridge Klaytn Matic Token",
+            "Symbol": "oMATIC",
+            "Decimals": 18,
+            "IsNewToken": false,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
         }
     ]
 }
