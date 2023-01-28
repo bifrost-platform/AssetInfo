@@ -7,6 +7,7 @@
       "Name": "Tether USD",
       "Symbol": "USDT",
       "Decimals": 6,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -17,6 +18,7 @@
       "Name": "USD Coin",
       "Symbol": "USDC",
       "Decimals": 6,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -27,6 +29,7 @@
       "Name": "Dai Stablecoin",
       "Symbol": "DAI",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -37,6 +40,7 @@
       "Name": "Wrapped BTC",
       "Symbol": "WBTC",
       "Decimals": 8,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -47,6 +51,7 @@
       "Name": "ChainLink Token",
       "Symbol": "LINK",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -57,6 +62,7 @@
       "Name": "Lido DAO Token",
       "Symbol": "LDO",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -67,6 +73,7 @@
       "Name": "Frax",
       "Symbol": "FRAX",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -77,6 +84,7 @@
       "Name": "Frax Share",
       "Symbol": "FXS",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -87,6 +95,7 @@
       "Name": "Synthetix Network Token",
       "Symbol": "SNX",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -97,6 +106,7 @@
       "Name": "Decentralized USD",
       "Symbol": "USDD",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -107,6 +117,7 @@
       "Name": "Optimism",
       "Symbol": "OP",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -117,6 +128,7 @@
       "Name": "TerraUSD",
       "Symbol": "UST",
       "Decimals": 6,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -127,6 +139,7 @@
       "Name": "Kyber Network Crystal v2",
       "Symbol": "KNC",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -137,6 +150,7 @@
       "Name": "Synth sUSD",
       "Symbol": "sUSD",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -147,6 +161,7 @@
       "Name": "beefy.finance",
       "Symbol": "BIFI",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -157,6 +172,7 @@
       "Name": "Synth sETH",
       "Symbol": "sETH",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -167,6 +183,7 @@
       "Name": "BOB",
       "Symbol": "BOB",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -177,6 +194,7 @@
       "Name": "Thales DAO Token",
       "Symbol": "THALES",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -187,6 +205,7 @@
       "Name": "USD+",
       "Symbol": "USD+",
       "Decimals": 6,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -197,6 +216,7 @@
       "Name": "Synth sBTC",
       "Symbol": "sBTC",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -207,6 +227,7 @@
       "Name": "Hop",
       "Symbol": "HOP",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -217,6 +238,7 @@
       "Name": "Rari Governance Token",
       "Symbol": "RGT",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -227,6 +249,7 @@
       "Name": "O3 Swap Token",
       "Symbol": "O3",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -237,6 +260,7 @@
       "Name": "Rigo Token",
       "Symbol": "GRG",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -247,6 +271,7 @@
       "Name": "Synth sLINK",
       "Symbol": "sLINK",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -257,6 +282,7 @@
       "Name": "PickleToken",
       "Symbol": "PICKLE",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -267,6 +293,7 @@
       "Name": "Dentacoin",
       "Symbol": "DCN",
       "Decimals": 0,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -277,6 +304,7 @@
       "Name": "ROOBEE",
       "Symbol": "ROOBEE",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -287,6 +315,7 @@
       "Name": "IronBank",
       "Symbol": "IB",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -297,6 +326,7 @@
       "Name": "Wrapped Ether",
       "Symbol": "WETH",
       "Decimals": 18,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
