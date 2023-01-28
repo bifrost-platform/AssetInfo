@@ -1,0 +1,6 @@
+{
+  "Name": "ETH",
+  "Symbol": "ETH",
+  "Decimals": 18,
+  "ImageURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/optimism/coin/coinImage.png"
+}
