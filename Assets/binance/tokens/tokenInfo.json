@@ -4335,6 +4335,17 @@
                 "Has32": true,
                 "Has128": true
             }
+        },
+        {
+            "Address": "0xCC42724C6683B7E57334c4E856f4c9965ED682bD",
+            "Name": "Matic Token",
+            "Symbol": "MATIC",
+            "Decimals": 18,
+            "IsNewToken": false,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
         }
     ]
 }
