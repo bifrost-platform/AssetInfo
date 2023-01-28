@@ -1,5 +1,5 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrosttest1/tokens/images/",
+    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrost/tokens/images/",
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {
@@ -58,9 +58,9 @@
             }
         },
         {
-            "Address": "0xAe172D8c5E428D4b7C70f9E593b207F9daC9BF3e",
-            "Name": "Unified BFC",
-            "Symbol": "BFC",
+            "Address": "0x1c1b06405058AbE02e4748753aeD1458BEFEE3B9",
+            "Name": "Wrapped Bifrost",
+            "Symbol": "WBFC",
             "Decimals": 18,
             "IsNewToken": false,
             "ImageInfo": {
