@@ -3,7 +3,7 @@
     "EmptyToken": "empty-token.png",
     "TokenList": [
         {
-            "Address": "0xc83EEd1bf5464eD5383bc3342b918E08f6815950",
+            "Address": "0x6c9944674C1D2cF6c4c4999FC7290Ba105dcd70e",
             "Name": "Unified ETH",
             "Symbol": "ETH",
             "Decimals": 18,
@@ -14,7 +14,7 @@
             }
         },
         {
-            "Address": "0x8010a873d59719e895E20f15f9906B5a1F399C3A",
+            "Address": "0x047938C3aD13c1eB821C8e310B2B6F889b6d0003",
             "Name": "Unified BiFi",
             "Symbol": "BiFi",
             "Decimals": 18,
@@ -25,7 +25,7 @@
             }
         },
         {
-            "Address": "0xCd8bf79fA84D551f2465C0a646cABc295d43Be5C",
+            "Address": "0xB800EaF843F962DFe5e145A8c9D07A3e70b11d7F",
             "Name": "Unified BNB",
             "Symbol": "BNB",
             "Decimals": 18,
@@ -36,17 +36,18 @@
             }
         },
         {
-            "Address": "0xad115F901a1Af99dc83D055C89641031fd1a50Dc",
+            "Address": "0x21ad243b81eff53482F6F6E7C76539f2CfC0B734",
             "Name": "Unified MATIC",
             "Symbol": "MATIC",
             "Decimals": 18,
+            "IsNewToken": false,
             "ImageInfo": {
                 "Has32": false,
                 "Has128": true
             }
         },
         {
-            "Address": "0x28661511CDA7119B2185c647F23106a637CC074f",
+            "Address": "0x640952E7984f2ECedeAd8Fd97aA618Ab1210A21C",
             "Name": "Unified USDC",
             "Symbol": "USDC",
             "Decimals": 6,
@@ -57,9 +58,9 @@
             }
         },
         {
-            "Address": "0x1745F24d85192545E5eD1c9574782d067D3Fda09",
-            "Name": "Wrapped Bifrost",
-            "Symbol": "WBFC",
+            "Address": "0xAe172D8c5E428D4b7C70f9E593b207F9daC9BF3e",
+            "Name": "Unified BFC",
+            "Symbol": "BFC",
             "Decimals": 18,
             "IsNewToken": false,
             "ImageInfo": {
