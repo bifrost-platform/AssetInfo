@@ -4326,14 +4326,14 @@
             }
         },
         {
-            "Address": "0x1378e33a09d8bd8e449cfd8a5abca0439286d645",
+            "Address": "0x1378e33a09d8bd8e449CFD8A5aBCa0439286d645",
             "Name": "BiFi BSC",
             "Symbol": "BiFiB",
             "Decimals": 18,
             "IsNewToken": false,
             "ImageInfo": {
-                "Has32": false,
-                "Has128": false
+                "Has32": true,
+                "Has128": true
             }
         }
     ]
