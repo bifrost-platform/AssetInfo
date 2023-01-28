@@ -1076,7 +1076,7 @@
             "Decimals": 18,
             "IsNewToken": false,
             "ImageInfo": {
-                "Has32": false,
+                "Has32": true,
                 "Has128": false
             }
         }
