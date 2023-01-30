@@ -1497,6 +1497,17 @@
                 "Has32": true,
                 "Has128": true
             }
+        },
+        {
+            "Address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+            "Name": "BUSD Token",
+            "Symbol": "BUSD",
+            "Decimals": 18,
+            "IsNewToken": false,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
         }
     ]
 }

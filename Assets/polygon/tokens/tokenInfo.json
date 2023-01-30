@@ -4500,6 +4500,28 @@
                 "Has32": true,
                 "Has128": false
             }
+        },
+        {
+            "Address": "0x9c9e5fd8bbc25984b178fdce6117defa39d2db39",
+            "Name": "BUSD Token",
+            "Symbol": "BUSD",
+            "Decimals": 18,
+            "IsNewToken": false,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": false
+            }
+        },
+        {
+            "Address": "0xC3C7d422809852031b44ab29EEC9F1EfF2A58756",
+            "Name": "Lido DAO Token (PoS)",
+            "Symbol": "LDO",
+            "Decimals": 18,
+            "IsNewToken": false,
+            "ImageInfo": {
+                "Has32": true,
+                "Has128": true
+            }
         }
     ]
 }
