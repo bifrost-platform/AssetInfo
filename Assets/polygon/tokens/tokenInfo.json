@@ -4522,6 +4522,17 @@
         "Has32": true,
         "Has128": true
       }
+    },
+    {
+      "Address": "0xbFc70507384047Aa74c29Cdc8c5Cb88D0f7213AC",
+      "Name": "Artificial Liquid Intelligence Token",
+      "Symbol": "ALI",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
     }
   ]
 }
