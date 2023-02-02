@@ -1294,7 +1294,7 @@
       "Name": "Numeraire",
       "Symbol": "NMR",
       "Decimals": 18,
-      "IsNewToken": false,
+      "IsNewToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
