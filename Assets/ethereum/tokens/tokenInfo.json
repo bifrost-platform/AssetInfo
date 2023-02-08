@@ -1297,7 +1297,7 @@
       "IsNewToken": true,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": true
       }
     },
     {
