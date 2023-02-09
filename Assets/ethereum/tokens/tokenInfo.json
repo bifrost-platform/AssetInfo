@@ -1412,7 +1412,7 @@
       "Symbol": "NMR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1928,7 +1928,7 @@
       "Symbol": "FET",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -6043,10 +6043,58 @@
       "Name": "Artificial Liquid Intelligence Token",
       "Symbol": "ALI",
       "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x0d02755a5700414B26FF040e1dE35D337DF56218",
+      "Name": "Bend Token",
+      "Symbol": "BEND",
+      "Decimals": 18,
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
-        "Has32": true,
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xf4d2888d29D722226FafA5d9B24F9164c092421E",
+      "Name": "LooksRare Token",
+      "Symbol": "LOOKS",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x87d73E916D7057945c9BcD8cdd94e42A6F47f776",
+      "Name": "NFTX",
+      "Symbol": "NFTX",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x1E4EDE388cbc9F4b5c79681B7f94d36a11ABEBC9",
+      "Name": "X2Y2Token",
+      "Symbol": "X2Y2",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": false,
         "Has128": false
       }
     }

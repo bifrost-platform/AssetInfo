@@ -4939,7 +4939,7 @@
       "Name": "Artificial Liquid Intelligence Token",
       "Symbol": "ALI",
       "Decimals": 18,
-      "IsNewToken": true,
+      "IsNewToken": false,
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
