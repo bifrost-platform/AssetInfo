@@ -6058,7 +6058,7 @@
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
-        "Has32": false,
+        "Has32": true,
         "Has128": false
       }
     },
@@ -6070,7 +6070,7 @@
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
-        "Has32": false,
+        "Has32": true,
         "Has128": false
       }
     },
@@ -6082,7 +6082,7 @@
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
-        "Has32": false,
+        "Has32": true,
         "Has128": false
       }
     },
@@ -6094,7 +6094,7 @@
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
-        "Has32": false,
+        "Has32": true,
         "Has128": false
       }
     }
