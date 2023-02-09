@@ -8,6 +8,7 @@
       "Symbol": "ETH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -19,6 +20,7 @@
       "Symbol": "USDT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -30,6 +32,7 @@
       "Symbol": "USDC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -41,6 +44,7 @@
       "Symbol": "WBNB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -52,6 +56,7 @@
       "Symbol": "BUSD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -63,6 +68,7 @@
       "Symbol": "XRP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -74,6 +80,7 @@
       "Symbol": "ADA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -85,6 +92,7 @@
       "Symbol": "DOGE",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -96,6 +104,7 @@
       "Symbol": "DAI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -107,6 +116,7 @@
       "Symbol": "DOT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -118,6 +128,7 @@
       "Symbol": "SHIB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -129,6 +140,7 @@
       "Symbol": "AVAX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -140,6 +152,7 @@
       "Symbol": "UNI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -151,6 +164,7 @@
       "Symbol": "LTC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -162,6 +176,7 @@
       "Symbol": "LINK",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -173,6 +188,7 @@
       "Symbol": "ETC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -184,6 +200,7 @@
       "Symbol": "NEAR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -195,6 +212,7 @@
       "Symbol": "ATOM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -206,6 +224,7 @@
       "Symbol": "BTT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -217,6 +236,7 @@
       "Symbol": "BTCB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -228,6 +248,7 @@
       "Symbol": "BCH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -239,6 +260,7 @@
       "Symbol": "XCN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -250,6 +272,7 @@
       "Symbol": "FLOW",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -261,6 +284,7 @@
       "Symbol": "XTZ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -272,6 +296,7 @@
       "Symbol": "FRAX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -283,6 +308,7 @@
       "Symbol": "EGLD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -294,6 +320,7 @@
       "Symbol": "TUSD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -305,6 +332,7 @@
       "Symbol": "AXS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -316,6 +344,7 @@
       "Symbol": "EOS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -327,6 +356,7 @@
       "Symbol": "PAX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -338,6 +368,7 @@
       "Symbol": "MKR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -349,6 +380,7 @@
       "Symbol": "ZEC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -360,6 +392,7 @@
       "Symbol": "USDP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -371,6 +404,7 @@
       "Symbol": "BTT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -382,6 +416,7 @@
       "Symbol": "XEC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -393,6 +428,7 @@
       "Symbol": "IOTA",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -404,6 +440,7 @@
       "Symbol": "USDD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -415,6 +452,7 @@
       "Symbol": "FTM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -426,6 +464,7 @@
       "Symbol": "BAT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -437,6 +476,7 @@
       "Symbol": "PAXG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -448,6 +488,7 @@
       "Symbol": "ZIL",
       "Decimals": 12,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -459,6 +500,7 @@
       "Symbol": "UST",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -470,6 +512,7 @@
       "Symbol": "FXS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -481,6 +524,7 @@
       "Symbol": "GALA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -492,6 +536,7 @@
       "Symbol": "COMP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -503,6 +548,7 @@
       "Symbol": "1INCH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -514,6 +560,7 @@
       "Symbol": "SNX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -525,6 +572,7 @@
       "Symbol": "IOTX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -536,6 +584,7 @@
       "Symbol": "JST",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -547,6 +596,7 @@
       "Symbol": "SFM",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -558,6 +608,7 @@
       "Symbol": "SXP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -569,6 +620,7 @@
       "Symbol": "TWT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -580,6 +632,7 @@
       "Symbol": "ANKR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -591,6 +644,7 @@
       "Symbol": "BabyDoge",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -602,6 +656,7 @@
       "Symbol": "ONT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -613,6 +668,7 @@
       "Symbol": "YFI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -624,6 +680,7 @@
       "Symbol": "vBTC",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -635,6 +692,7 @@
       "Symbol": "NFT",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -646,6 +704,7 @@
       "Symbol": "NFT",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -657,6 +716,7 @@
       "Symbol": "SLP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -668,6 +728,7 @@
       "Symbol": "vETH",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -679,6 +740,7 @@
       "Symbol": "KNC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -690,6 +752,7 @@
       "Symbol": "ORBS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -701,6 +764,7 @@
       "Symbol": "COTI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -712,6 +776,7 @@
       "Symbol": "bCFX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -723,6 +788,7 @@
       "Symbol": "BNT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -734,6 +800,7 @@
       "Symbol": "WRX",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -745,6 +812,7 @@
       "Symbol": "vUSDC",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -756,6 +824,7 @@
       "Symbol": "CTSI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -767,6 +836,7 @@
       "Symbol": "ELF",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -778,6 +848,7 @@
       "Symbol": "CELR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -789,6 +860,7 @@
       "Symbol": "BSW",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -800,6 +872,7 @@
       "Symbol": "C98",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -811,6 +884,7 @@
       "Symbol": "PROM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -822,6 +896,7 @@
       "Symbol": "MDX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -833,6 +908,7 @@
       "Symbol": "ANY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -844,6 +920,7 @@
       "Symbol": "TLM",
       "Decimals": 4,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -855,6 +932,7 @@
       "Symbol": "REEF",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -866,6 +944,7 @@
       "Symbol": "XVS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -877,6 +956,7 @@
       "Symbol": "CTK",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -888,6 +968,7 @@
       "Symbol": "BAKE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -899,6 +980,7 @@
       "Symbol": "FLOKI",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -910,6 +992,7 @@
       "Symbol": "vBUSD",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -921,6 +1004,7 @@
       "Symbol": "ALPHA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -932,6 +1016,7 @@
       "Symbol": "BTCST",
       "Decimals": 17,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -943,6 +1028,7 @@
       "Symbol": "DODO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -954,6 +1040,7 @@
       "Symbol": "VAI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -965,6 +1052,7 @@
       "Symbol": "POLS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -976,6 +1064,7 @@
       "Symbol": "RAMP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -987,6 +1076,7 @@
       "Symbol": "YFII",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -998,6 +1088,7 @@
       "Symbol": "BAND",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1009,6 +1100,7 @@
       "Symbol": "TLOS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1020,6 +1112,7 @@
       "Symbol": "ATA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1031,6 +1124,7 @@
       "Symbol": "RISE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1042,6 +1136,7 @@
       "Symbol": "EPS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1053,6 +1148,7 @@
       "Symbol": "ALICE",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1064,6 +1160,7 @@
       "Symbol": "ALPACA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1075,6 +1172,7 @@
       "Symbol": "PHA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1086,6 +1184,7 @@
       "Symbol": "KMD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1097,6 +1196,7 @@
       "Symbol": "$DG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1108,6 +1208,7 @@
       "Symbol": "LTO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1119,6 +1220,7 @@
       "Symbol": "NMX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1130,6 +1232,7 @@
       "Symbol": "MATH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1141,6 +1244,7 @@
       "Symbol": "SFP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1152,6 +1256,7 @@
       "Symbol": "BPAY",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1163,6 +1268,7 @@
       "Symbol": "FINE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1174,6 +1280,7 @@
       "Symbol": "BIFI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1185,6 +1292,7 @@
       "Symbol": "vUSDT",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1196,6 +1304,7 @@
       "Symbol": "LIT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1207,6 +1316,7 @@
       "Symbol": "QANX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1218,6 +1328,7 @@
       "Symbol": "KOGE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1229,6 +1340,7 @@
       "Symbol": "CHESS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1240,6 +1352,7 @@
       "Symbol": "ADX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1251,6 +1364,7 @@
       "Symbol": "TORN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1262,6 +1376,7 @@
       "Symbol": "BZRX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1273,6 +1388,7 @@
       "Symbol": "OM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1284,6 +1400,7 @@
       "Symbol": "COS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1295,6 +1412,7 @@
       "Symbol": "FRONT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1306,6 +1424,7 @@
       "Symbol": "OVR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1317,6 +1436,7 @@
       "Symbol": "TKO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1328,6 +1448,7 @@
       "Symbol": "MDT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1339,6 +1460,7 @@
       "Symbol": "SAITO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1350,6 +1472,7 @@
       "Symbol": "FUSE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1361,6 +1484,7 @@
       "Symbol": "SANTOS",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1372,6 +1496,7 @@
       "Symbol": "DF",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1383,6 +1508,7 @@
       "Symbol": "SWFTC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1394,6 +1520,7 @@
       "Symbol": "RFOX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1405,6 +1532,7 @@
       "Symbol": "FEG",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1416,6 +1544,7 @@
       "Symbol": "AUTO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1427,6 +1556,7 @@
       "Symbol": "BIDR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1438,6 +1568,7 @@
       "Symbol": "BURGER",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1449,6 +1580,7 @@
       "Symbol": "HTB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1460,6 +1592,7 @@
       "Symbol": "FOR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1471,6 +1604,7 @@
       "Symbol": "MIR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1482,6 +1616,7 @@
       "Symbol": "BANANA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1493,6 +1628,7 @@
       "Symbol": "HOGE",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1504,6 +1640,7 @@
       "Symbol": "DEI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1515,6 +1652,7 @@
       "Symbol": "GBYTE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1526,6 +1664,7 @@
       "Symbol": "UFT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1537,6 +1676,7 @@
       "Symbol": "IDIA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1548,6 +1688,7 @@
       "Symbol": "TCT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1559,6 +1700,7 @@
       "Symbol": "OMAX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1570,6 +1712,7 @@
       "Symbol": "ARV",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1581,6 +1724,7 @@
       "Symbol": "CREAM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1592,6 +1736,7 @@
       "Symbol": "PSP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1603,6 +1748,7 @@
       "Symbol": "NWC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1614,6 +1760,7 @@
       "Symbol": "TKP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1625,6 +1772,7 @@
       "Symbol": "HAI",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1636,6 +1784,7 @@
       "Symbol": "UNCX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1647,6 +1796,7 @@
       "Symbol": "MATTER",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1658,6 +1808,7 @@
       "Symbol": "POSI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1669,6 +1820,7 @@
       "Symbol": "VRT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1680,6 +1832,7 @@
       "Symbol": "RAVEN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1691,6 +1844,7 @@
       "Symbol": "MONSTA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1702,6 +1856,7 @@
       "Symbol": "LNR",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1713,6 +1868,7 @@
       "Symbol": "BRBC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1724,6 +1880,7 @@
       "Symbol": "vDAI",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1735,6 +1892,7 @@
       "Symbol": "EZ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1746,6 +1904,7 @@
       "Symbol": "STAX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1757,6 +1916,7 @@
       "Symbol": "SPARTA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1768,6 +1928,7 @@
       "Symbol": "CAS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1779,6 +1940,7 @@
       "Symbol": "DEUS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1790,6 +1952,7 @@
       "Symbol": "POOLZ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1801,6 +1964,7 @@
       "Symbol": "vLTC",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1812,6 +1976,7 @@
       "Symbol": "FRIES",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1823,6 +1988,7 @@
       "Symbol": "ICE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1834,6 +2000,7 @@
       "Symbol": "O3",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1845,6 +2012,7 @@
       "Symbol": "vLINK",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1856,6 +2024,7 @@
       "Symbol": "BOG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1867,6 +2036,7 @@
       "Symbol": "VFOX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1878,6 +2048,7 @@
       "Symbol": "CERBY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1889,6 +2060,7 @@
       "Symbol": "ZMN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1900,6 +2072,7 @@
       "Symbol": "NFTY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1911,6 +2084,7 @@
       "Symbol": "SATT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1922,6 +2096,7 @@
       "Symbol": "GTON",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1933,6 +2108,7 @@
       "Symbol": "bROOBEE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1944,6 +2120,7 @@
       "Symbol": "MDA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1955,6 +2132,7 @@
       "Symbol": "vSXP",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1966,6 +2144,7 @@
       "Symbol": "FREE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1977,6 +2156,7 @@
       "Symbol": "FNX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1988,6 +2168,7 @@
       "Symbol": "DDIM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1999,6 +2180,7 @@
       "Symbol": "vDOT",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2010,6 +2192,7 @@
       "Symbol": "iDNA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2021,6 +2204,7 @@
       "Symbol": "XCUR",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2032,6 +2216,7 @@
       "Symbol": "DAFI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2043,6 +2228,7 @@
       "Symbol": "UNCL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2054,6 +2240,7 @@
       "Symbol": "IOI",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2065,6 +2252,7 @@
       "Symbol": "XTM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2076,6 +2264,7 @@
       "Symbol": "JulD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2087,6 +2276,7 @@
       "Symbol": "TETU",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2098,6 +2288,7 @@
       "Symbol": "WANA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2109,6 +2300,7 @@
       "Symbol": "BELT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2120,6 +2312,7 @@
       "Symbol": "SKMT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2131,6 +2324,7 @@
       "Symbol": "ACS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2142,6 +2336,7 @@
       "Symbol": "IF",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2153,6 +2348,7 @@
       "Symbol": "GUM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2164,6 +2360,7 @@
       "Symbol": "BHC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -2175,6 +2372,7 @@
       "Symbol": "HE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2186,6 +2384,7 @@
       "Symbol": "ODDZ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2197,6 +2396,7 @@
       "Symbol": "WSG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2208,6 +2408,7 @@
       "Symbol": "NPXB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2219,6 +2420,7 @@
       "Symbol": "DFY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2230,6 +2432,7 @@
       "Symbol": "RPG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2241,6 +2444,7 @@
       "Symbol": "PULI",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2252,6 +2456,7 @@
       "Symbol": "TYC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2263,6 +2468,7 @@
       "Symbol": "RHYTHM",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2274,6 +2480,7 @@
       "Symbol": "BEACH",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2285,6 +2492,7 @@
       "Symbol": "PVU",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2296,6 +2504,7 @@
       "Symbol": "LAUNCH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2307,6 +2516,7 @@
       "Symbol": "Helmet",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2318,6 +2528,7 @@
       "Symbol": "PPAY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2329,6 +2540,7 @@
       "Symbol": "SPORE",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2340,6 +2552,7 @@
       "Symbol": "SHARD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2351,6 +2564,7 @@
       "Symbol": "DITTO",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2362,6 +2576,7 @@
       "Symbol": "CYT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2373,6 +2588,7 @@
       "Symbol": "$ANRX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2384,6 +2600,7 @@
       "Symbol": "CTI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2395,6 +2612,7 @@
       "Symbol": "EXF",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2406,6 +2624,7 @@
       "Symbol": "HAKKA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2417,6 +2636,7 @@
       "Symbol": "EGG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2428,6 +2648,7 @@
       "Symbol": "LAB v2",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2439,6 +2660,7 @@
       "Symbol": "STM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2450,6 +2672,7 @@
       "Symbol": "vBCH",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2461,6 +2684,7 @@
       "Symbol": "LUCHOW",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2472,6 +2696,7 @@
       "Symbol": "LMT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2483,6 +2708,7 @@
       "Symbol": "PROPEL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2494,6 +2720,7 @@
       "Symbol": "WSPP",
       "Decimals": 0,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2505,6 +2732,7 @@
       "Symbol": "ORION",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2516,6 +2744,7 @@
       "Symbol": "TRAVEL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2527,6 +2756,7 @@
       "Symbol": "BRY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2538,6 +2768,7 @@
       "Symbol": "RBT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2549,6 +2780,7 @@
       "Symbol": "SAKE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2560,6 +2792,7 @@
       "Symbol": "WQT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2571,6 +2804,7 @@
       "Symbol": "GFX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -2582,6 +2816,7 @@
       "Symbol": "ARGON",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2593,6 +2828,7 @@
       "Symbol": "TWIN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2604,6 +2840,7 @@
       "Symbol": "DOS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2615,6 +2852,7 @@
       "Symbol": "GOFI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2626,6 +2864,7 @@
       "Symbol": "BREW",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2637,6 +2876,7 @@
       "Symbol": "BUNI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2648,6 +2888,7 @@
       "Symbol": "SBS",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2659,6 +2900,7 @@
       "Symbol": "RGP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2670,6 +2912,7 @@
       "Symbol": "LPK",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2681,6 +2924,7 @@
       "Symbol": "BAGEL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2692,6 +2936,7 @@
       "Symbol": "CBIX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2703,6 +2948,7 @@
       "Symbol": "NUTS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2714,6 +2960,7 @@
       "Symbol": "FSXU",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2725,6 +2972,7 @@
       "Symbol": "UBU",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2736,6 +2984,7 @@
       "Symbol": "FUSII",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2747,6 +2996,7 @@
       "Symbol": "2LC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2758,6 +3008,7 @@
       "Symbol": "MM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2769,6 +3020,7 @@
       "Symbol": "bMXX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2780,6 +3032,7 @@
       "Symbol": "BGOV",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2791,6 +3044,7 @@
       "Symbol": "BETH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -2802,6 +3056,7 @@
       "Symbol": "BCHA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -2813,6 +3068,7 @@
       "Symbol": "vBETH",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2824,6 +3080,7 @@
       "Symbol": "OCT",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2835,6 +3092,7 @@
       "Symbol": "Fuel",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2846,6 +3104,7 @@
       "Symbol": "vBSWAP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2857,6 +3116,7 @@
       "Symbol": "EMS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2868,6 +3128,7 @@
       "Symbol": "FIRO",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2879,6 +3140,7 @@
       "Symbol": "Cake",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2890,6 +3152,7 @@
       "Symbol": "BTS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2901,6 +3164,7 @@
       "Symbol": "SKILL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2912,6 +3176,7 @@
       "Symbol": "7UP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2923,6 +3188,7 @@
       "Symbol": "DGN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2934,6 +3200,7 @@
       "Symbol": "SYN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2945,6 +3212,7 @@
       "Symbol": "BSCX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2956,6 +3224,7 @@
       "Symbol": "PETN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2967,6 +3236,7 @@
       "Symbol": "SPORE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2978,6 +3248,7 @@
       "Symbol": "BUX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2989,6 +3260,7 @@
       "Symbol": "GFCE",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3000,6 +3272,7 @@
       "Symbol": "RBS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3011,6 +3284,7 @@
       "Symbol": "SHIELD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3022,6 +3296,7 @@
       "Symbol": "VANCII",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3033,6 +3308,7 @@
       "Symbol": "START",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3044,6 +3320,7 @@
       "Symbol": "ML",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3055,6 +3332,7 @@
       "Symbol": "HPS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3066,6 +3344,7 @@
       "Symbol": "KP3RB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3077,6 +3356,7 @@
       "Symbol": "vFIL",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3088,6 +3368,7 @@
       "Symbol": "vXVS",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3099,6 +3380,7 @@
       "Symbol": "GMT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3110,6 +3392,7 @@
       "Symbol": "Weather",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3121,6 +3404,7 @@
       "Symbol": "GENA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3132,6 +3416,7 @@
       "Symbol": "BUNNY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3143,6 +3428,7 @@
       "Symbol": "BTD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3154,6 +3440,7 @@
       "Symbol": "TOZ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3165,6 +3452,7 @@
       "Symbol": "DGSTB",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3176,6 +3464,7 @@
       "Symbol": "bcFLUX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3187,6 +3476,7 @@
       "Symbol": "TOON",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3198,6 +3488,7 @@
       "Symbol": "LINA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3209,6 +3500,7 @@
       "Symbol": "KIWI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3220,6 +3512,7 @@
       "Symbol": "D100",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3231,6 +3524,7 @@
       "Symbol": "EVAI",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3242,6 +3536,7 @@
       "Symbol": "JNTR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3253,6 +3548,7 @@
       "Symbol": "DES",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3264,6 +3560,7 @@
       "Symbol": "HOTCROSS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3275,6 +3572,7 @@
       "Symbol": "PHO",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3286,6 +3584,7 @@
       "Symbol": "ELMON",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3297,6 +3596,7 @@
       "Symbol": "SPACE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3308,6 +3608,7 @@
       "Symbol": "OWL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3319,6 +3620,7 @@
       "Symbol": "WNOW",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3330,6 +3632,7 @@
       "Symbol": "ANN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3341,6 +3644,7 @@
       "Symbol": "CAN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3352,6 +3656,7 @@
       "Symbol": "CBK",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3363,6 +3668,7 @@
       "Symbol": "VLTY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3374,6 +3680,7 @@
       "Symbol": "CROX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3385,6 +3692,7 @@
       "Symbol": "CHS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3396,6 +3704,7 @@
       "Symbol": "vADA",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3407,6 +3716,7 @@
       "Symbol": "WE",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3418,6 +3728,7 @@
       "Symbol": "CRP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3429,6 +3740,7 @@
       "Symbol": "N1CE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3440,6 +3752,7 @@
       "Symbol": "vXRP",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3451,6 +3764,7 @@
       "Symbol": "GAMER",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3462,6 +3776,7 @@
       "Symbol": "DARA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3473,6 +3788,7 @@
       "Symbol": "DRIVENx",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3484,6 +3800,7 @@
       "Symbol": "EarnX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3495,6 +3812,7 @@
       "Symbol": "TACO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3506,6 +3824,7 @@
       "Symbol": "WINGS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3517,6 +3836,7 @@
       "Symbol": "Ramen",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3528,6 +3848,7 @@
       "Symbol": "TITANO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3539,6 +3860,7 @@
       "Symbol": "CMCX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3550,6 +3872,7 @@
       "Symbol": "PASTA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3561,6 +3884,7 @@
       "Symbol": "1USE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3572,6 +3896,7 @@
       "Symbol": "ETM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3583,6 +3908,7 @@
       "Symbol": "AGF",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3594,6 +3920,7 @@
       "Symbol": "vDOGE",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3605,6 +3932,7 @@
       "Symbol": "SYL",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3616,6 +3944,7 @@
       "Symbol": "PEARL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3627,6 +3956,7 @@
       "Symbol": "SEA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3638,6 +3968,7 @@
       "Symbol": "SCT",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3649,6 +3980,7 @@
       "Symbol": "DOGGY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3660,6 +3992,7 @@
       "Symbol": "MITHRIL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3671,6 +4004,7 @@
       "Symbol": "L99",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3682,6 +4016,7 @@
       "Symbol": "WIN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3693,6 +4028,7 @@
       "Symbol": "lowb",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3704,6 +4040,7 @@
       "Symbol": "BITD",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3715,6 +4052,7 @@
       "Symbol": "MLTPX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3726,6 +4064,7 @@
       "Symbol": "SPT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3737,6 +4076,7 @@
       "Symbol": "Xpose",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3748,6 +4088,7 @@
       "Symbol": "COVAC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3759,6 +4100,7 @@
       "Symbol": "SHIR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3770,6 +4112,7 @@
       "Symbol": "TORG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3781,6 +4124,7 @@
       "Symbol": "GREEN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3792,6 +4136,7 @@
       "Symbol": "SCC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3803,6 +4148,7 @@
       "Symbol": "ELTB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3814,6 +4160,7 @@
       "Symbol": "NMS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3825,6 +4172,7 @@
       "Symbol": "808TA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3836,6 +4184,7 @@
       "Symbol": "PIZZA",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3847,6 +4196,7 @@
       "Symbol": "LTEX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3858,6 +4208,7 @@
       "Symbol": "FRF",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3869,6 +4220,7 @@
       "Symbol": "ElonGate",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3880,6 +4232,7 @@
       "Symbol": "ORE",
       "Decimals": 10,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3891,6 +4244,7 @@
       "Symbol": "WEB3",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3902,6 +4256,7 @@
       "Symbol": "TOKAU",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3913,6 +4268,7 @@
       "Symbol": "BabyFlokiCoin",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3924,6 +4280,7 @@
       "Symbol": "HUP",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3935,6 +4292,7 @@
       "Symbol": "Floshin",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3946,6 +4304,7 @@
       "Symbol": "BabyFB",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3957,6 +4316,7 @@
       "Symbol": "ANDX",
       "Decimals": 5,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3968,6 +4328,7 @@
       "Symbol": "CAR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3979,6 +4340,7 @@
       "Symbol": "CARS",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -3990,6 +4352,7 @@
       "Symbol": "CHI",
       "Decimals": 0,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4001,6 +4364,7 @@
       "Symbol": "crADA",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -4012,6 +4376,7 @@
       "Symbol": "XCUR",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4023,6 +4388,7 @@
       "Symbol": "DYT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4034,6 +4400,7 @@
       "Symbol": "PORTO",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4045,6 +4412,7 @@
       "Symbol": "FOMO",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4056,6 +4424,7 @@
       "Symbol": "KHP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4067,6 +4436,7 @@
       "Symbol": "HPS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4078,6 +4448,7 @@
       "Symbol": "INNBC",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4089,6 +4460,7 @@
       "Symbol": "LPKB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4100,6 +4472,7 @@
       "Symbol": "LPKM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4111,6 +4484,7 @@
       "Symbol": "LPKP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4122,6 +4496,7 @@
       "Symbol": "LPKQ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4133,6 +4508,7 @@
       "Symbol": "LPKT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4144,6 +4520,7 @@
       "Symbol": "LPKX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4155,6 +4532,7 @@
       "Symbol": "LPKY",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4166,6 +4544,7 @@
       "Symbol": "LPKZ",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4177,6 +4556,7 @@
       "Symbol": "MILK",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4188,6 +4568,7 @@
       "Symbol": "SEEDS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4199,6 +4580,7 @@
       "Symbol": "PERL",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4210,6 +4592,7 @@
       "Symbol": "RBW",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4221,6 +4604,7 @@
       "Symbol": "SHIELD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4232,6 +4616,7 @@
       "Symbol": "xMARK",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4243,6 +4628,7 @@
       "Symbol": "SUN",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4254,6 +4640,7 @@
       "Symbol": "SWTH",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4265,6 +4652,7 @@
       "Symbol": "TALK",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4276,6 +4664,7 @@
       "Symbol": "XTM",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4287,6 +4676,7 @@
       "Symbol": "TREE",
       "Decimals": 2,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4298,6 +4688,7 @@
       "Symbol": "TRX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": false,
         "Has128": false
@@ -4309,6 +4700,7 @@
       "Symbol": "VIR",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4320,6 +4712,7 @@
       "Symbol": "XP",
       "Decimals": 9,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -4331,6 +4724,7 @@
       "Symbol": "BiFiB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -4342,6 +4736,7 @@
       "Symbol": "MATIC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -4353,6 +4748,7 @@
       "Symbol": "FET",
       "Decimals": 18,
       "IsNewToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false

@@ -1,71 +1,77 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrosttest1/tokens/images/",
-    "EmptyToken": "empty-token.png",
-    "TokenList": [
-        {
-            "Address": "0xc83EEd1bf5464eD5383bc3342b918E08f6815950",
-            "Name": "Unified ETH",
-            "Symbol": "ETH",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0x8010a873d59719e895E20f15f9906B5a1F399C3A",
-            "Name": "Unified BiFi",
-            "Symbol": "BiFi",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0xCd8bf79fA84D551f2465C0a646cABc295d43Be5C",
-            "Name": "Unified BNB",
-            "Symbol": "BNB",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0xad115F901a1Af99dc83D055C89641031fd1a50Dc",
-            "Name": "Unified MATIC",
-            "Symbol": "MATIC",
-            "Decimals": 18,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0x28661511CDA7119B2185c647F23106a637CC074f",
-            "Name": "Unified USDC",
-            "Symbol": "USDC",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0x1745F24d85192545E5eD1c9574782d067D3Fda09",
-            "Name": "Wrapped Bifrost",
-            "Symbol": "WBFC",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        }
-    ]
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bifrosttest1/tokens/images/",
+  "EmptyToken": "empty-token.png",
+  "TokenList": [
+    {
+      "Address": "0xc83EEd1bf5464eD5383bc3342b918E08f6815950",
+      "Name": "Unified ETH",
+      "Symbol": "ETH",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0x8010a873d59719e895E20f15f9906B5a1F399C3A",
+      "Name": "Unified BiFi",
+      "Symbol": "BiFi",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0xCd8bf79fA84D551f2465C0a646cABc295d43Be5C",
+      "Name": "Unified BNB",
+      "Symbol": "BNB",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0xad115F901a1Af99dc83D055C89641031fd1a50Dc",
+      "Name": "Unified MATIC",
+      "Symbol": "MATIC",
+      "Decimals": 18,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0x28661511CDA7119B2185c647F23106a637CC074f",
+      "Name": "Unified USDC",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0x1745F24d85192545E5eD1c9574782d067D3Fda09",
+      "Name": "Wrapped Bifrost",
+      "Symbol": "WBFC",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    }
+  ]
 }

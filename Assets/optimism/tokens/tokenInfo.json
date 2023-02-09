@@ -8,6 +8,7 @@
       "Symbol": "USDT",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -19,6 +20,7 @@
       "Symbol": "USDC",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -30,6 +32,7 @@
       "Symbol": "DAI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -41,6 +44,7 @@
       "Symbol": "WBTC",
       "Decimals": 8,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -52,6 +56,7 @@
       "Symbol": "LINK",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -63,6 +68,7 @@
       "Symbol": "LDO",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -74,6 +80,7 @@
       "Symbol": "FRAX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -85,6 +92,7 @@
       "Symbol": "FXS",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -96,6 +104,7 @@
       "Symbol": "SNX",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -107,6 +116,7 @@
       "Symbol": "USDD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -118,6 +128,7 @@
       "Symbol": "OP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -129,6 +140,7 @@
       "Symbol": "UST",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -140,6 +152,7 @@
       "Symbol": "KNC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -151,6 +164,7 @@
       "Symbol": "sUSD",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -162,6 +176,7 @@
       "Symbol": "BIFI",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -173,6 +188,7 @@
       "Symbol": "sETH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -184,6 +200,7 @@
       "Symbol": "BOB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -195,6 +212,7 @@
       "Symbol": "THALES",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -206,6 +224,7 @@
       "Symbol": "USD+",
       "Decimals": 6,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -217,6 +236,7 @@
       "Symbol": "sBTC",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -228,6 +248,7 @@
       "Symbol": "HOP",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -239,6 +260,7 @@
       "Symbol": "RGT",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -250,6 +272,7 @@
       "Symbol": "O3",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -261,6 +284,7 @@
       "Symbol": "GRG",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -272,6 +296,7 @@
       "Symbol": "sLINK",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -283,6 +308,7 @@
       "Symbol": "PICKLE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -294,6 +320,7 @@
       "Symbol": "DCN",
       "Decimals": 0,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -305,6 +332,7 @@
       "Symbol": "ROOBEE",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -316,6 +344,7 @@
       "Symbol": "IB",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -327,6 +356,7 @@
       "Symbol": "WETH",
       "Decimals": 18,
       "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false

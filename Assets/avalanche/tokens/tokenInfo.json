@@ -1,1513 +1,1650 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/",
-    "EmptyToken": "empty-token.png",
-    "TokenList": [
-        {
-            "Address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
-            "Name": "Tether USD",
-            "Symbol": "USDT.e",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
-            "Name": "TetherToken",
-            "Symbol": "USDt",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-            "Name": "USD Coin",
-            "Symbol": "USDC.e",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
-            "Name": "USD Coin",
-            "Symbol": "USDC",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
-            "Name": "Binance USD",
-            "Symbol": "BUSD.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
-            "Name": "Dai Stablecoin",
-            "Symbol": "DAI.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
-            "Name": "SHIBA INU",
-            "Symbol": "SHIB.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
-            "Name": "Wrapped AVAX",
-            "Symbol": "WAVAX",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
-            "Name": "Uniswap",
-            "Symbol": "UNI.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
-            "Name": "Wrapped BTC",
-            "Symbol": "WBTC.e",
-            "Decimals": 8,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x5947BB275c521040051D82396192181b413227A3",
-            "Name": "Chainlink Token",
-            "Symbol": "LINK.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
-            "Name": "Frax",
-            "Symbol": "FRAX",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
-            "Name": "Aave Token",
-            "Symbol": "AAVE.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
-            "Name": "TrueUSD",
-            "Symbol": "TUSD",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
-            "Name": "Maker",
-            "Symbol": "MKR.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0xcf799767d366d789e8B446981C2D578E241fa25c",
-            "Name": "Decentralized USD",
-            "Symbol": "USDD",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
-            "Name": "Graph Token",
-            "Symbol": "GRT.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
-            "Name": "Basic Attention Token",
-            "Symbol": "BAT.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
-            "Name": "Curve DAO Token",
-            "Symbol": "CRV.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
-            "Name": "Compound",
-            "Symbol": "COMP.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
-            "Name": "1INCH Token",
-            "Symbol": "1INCH.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
-            "Name": "Synthetix Network Token",
-            "Symbol": "SNX.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
-            "Name": "ZRX",
-            "Symbol": "ZRX.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
-            "Name": "yearn.finance",
-            "Symbol": "YFI.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
-            "Name": "SushiToken",
-            "Symbol": "SUSHI.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
-            "Name": "UMA Voting Token v1",
-            "Symbol": "UMA.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
-            "Name": "Kyber Network Crystal v2",
-            "Symbol": "KNC",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
-            "Name": "Orbs",
-            "Symbol": "ORBS",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
-            "Name": "Spell Token",
-            "Symbol": "SPELL",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
-            "Name": "inSure",
-            "Symbol": "SURE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x214DB107654fF987AD859F34125307783fC8e387",
-            "Name": "Frax Share",
-            "Symbol": "FXS",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
-            "Name": "JoeBar",
-            "Symbol": "xJOE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
-            "Name": "JoeToken",
-            "Symbol": "JOE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
-            "Name": "Anyswap",
-            "Symbol": "ANY",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
-            "Name": "AlphaToken",
-            "Symbol": "ALPHA.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xC17c30e98541188614dF99239cABD40280810cA3",
-            "Name": "EverRise",
-            "Symbol": "RISE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
-            "Name": "beefy.finance",
-            "Symbol": "BIFI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
-            "Name": "TrustSwap Token",
-            "Symbol": "SWAP.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x80B010450fDAf6a3f8dF033Ee296E92751D603B3",
-            "Name": "Jade Protocol",
-            "Symbol": "JADE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3D9eAB723df76808bB84c05b20De27A2e69EF293",
-            "Name": "sJADE",
-            "Symbol": "sJADE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
-            "Name": "Wirex Token",
-            "Symbol": "WXT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
-            "Name": "Rai Reflex Index",
-            "Symbol": "RAI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
-            "Name": "Wrapped AllianceBlock Token",
-            "Symbol": "WALBT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3b9e3b5c616A1A038fDc190758Bbe9BAB6C7A857",
-            "Name": "UniCrypt",
-            "Symbol": "UNCX",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
-            "Name": "Pendle",
-            "Symbol": "PENDLE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
-            "Name": "DeFiYieldProtocol",
-            "Symbol": "DYP",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
-            "Name": "Avalanche INSUR Token",
-            "Symbol": "INSUR",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x60781C2586D68229fde47564546784ab3fACA982",
-            "Name": "Pangolin",
-            "Symbol": "PNG",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
-            "Name": "BENQI",
-            "Symbol": "QI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
-            "Name": "OpenOcean",
-            "Symbol": "OOE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
-            "Name": "ZooToken",
-            "Symbol": "ZOO",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
-            "Name": "NFTrade Token [via ChainPort.io]",
-            "Symbol": "NFTD",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x7D86F1eafF29F076576b2Ff09CE3bcC7533fD2C5",
-            "Name": "UNCL",
-            "Symbol": "UNCL",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
-            "Name": "Kalao Token",
-            "Symbol": "KLO",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4036f3d9c45a20f44f0b8B85dD6CA33005fF9654",
-            "Name": "ROOBEE",
-            "Symbol": "ROOBEE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
-            "Name": "Arable Protocol",
-            "Symbol": "ACRE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
-            "Name": "OddzToken",
-            "Symbol": "ODDZ",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
-            "Name": "Imperium Empires Token",
-            "Symbol": "IME",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
-            "Name": "Spore.Finance",
-            "Symbol": "SPORE",
-            "Decimals": 9,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x55b1a124c04A54eeFDEFE5FA2Ef5f852FB5f2f26",
-            "Name": "Ethereum Meta",
-            "Symbol": "ETHM",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
-            "Name": "WOWswap",
-            "Symbol": "WOW",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
-            "Name": "VersoToken",
-            "Symbol": "VSO",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xAfE3d2A31231230875DEe1fa1eEF14a412443d22",
-            "Name": "DeFiato [via ChainPort.io]",
-            "Symbol": "DFIAT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
-            "Name": "SHIBAVAX",
-            "Symbol": "SHIBX",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
-            "Name": "Treasure Under Sea",
-            "Symbol": "TUS",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
-            "Name": "Snowball",
-            "Symbol": "SNOB",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
-            "Name": "Defrost Finance Token",
-            "Symbol": "MELT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
-            "Name": "Boo Finance Token",
-            "Symbol": "BOOFI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x90fBE9dfe76F6EF971c7A297641dfa397099a13e",
-            "Name": "Atlantis Loans",
-            "Symbol": "ATL",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
-            "Name": "More Token",
-            "Symbol": "MORE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
-            "Name": "PolyGaj Token",
-            "Symbol": "GAJ",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4a4f77d74cf5Fd4ea4AB71Ba79988c055A5C27b2",
-            "Name": "LessToken",
-            "Symbol": "LESS",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
-            "Name": "HERMES",
-            "Symbol": "HERMES",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB147656604217a03Fe2c73c4838770DF8d9D21B8",
-            "Name": "Blizzard",
-            "Symbol": "BLIZZ",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
-            "Name": "Avaxtars Token",
-            "Symbol": "AVXT",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
-            "Name": "Bitcoin",
-            "Symbol": "BTC.b",
-            "Decimals": 8,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
-            "Name": "Yak Token",
-            "Symbol": "YAK",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6",
-            "Name": "Frozen Walrus Share",
-            "Symbol": "WSHARE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
-            "Name": "Time",
-            "Symbol": "TIME",
-            "Decimals": 9,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1a877B68bdA77d78EEa607443CcDE667B31B0CdF",
-            "Name": "PIGGY",
-            "Symbol": "PIGGY",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x788AE3b5D153d49F8DB649aacbA1857f744b739e",
-            "Name": "KITTY",
-            "Symbol": "KITTY",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c",
-            "Name": "PSHARE",
-            "Symbol": "PSHARE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x094BFaC9894d2A2A35771D0BD6d2447689190F32",
-            "Name": "CAT",
-            "Symbol": "CAT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x395908aeb53d33A9B8ac35e148E9805D34A555D3",
-            "Name": "frozenwalrus.finance",
-            "Symbol": "WLRS",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
-            "Name": "Synapse",
-            "Symbol": "SYN",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
-            "Name": "Magic Internet Money",
-            "Symbol": "MIM",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
-            "Name": "Defrost Finance H2O",
-            "Symbol": "H2O",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xAE21d31a6494829a9E4B2B291F4984AAE8121757",
-            "Name": "IceCream Finance",
-            "Symbol": "CREAM",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
-            "Name": "Avalaunch",
-            "Symbol": "XAVA",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x155f794b56353533E0AfBF76e1B1FC57DFAd5Bd7",
-            "Name": "IceCream Shares",
-            "Symbol": "CSHARE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
-            "Name": "Elk",
-            "Symbol": "ELK",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557",
-            "Name": "BSCstarter",
-            "Symbol": "START",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2",
-            "Name": "HERMES Shares",
-            "Symbol": "HSHARES",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
-            "Name": "xPTP",
-            "Symbol": "xPTP",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
-            "Name": "Colony Token",
-            "Symbol": "CLY",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
-            "Name": "BiLira",
-            "Symbol": "TRYB",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
-            "Name": "MarginSwap",
-            "Symbol": "MFI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
-            "Name": "PenguinToken",
-            "Symbol": "PEFI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x9767203e89dcD34851240B3919d4900d3E5069f1",
-            "Name": "A4",
-            "Symbol": "A4",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47",
-            "Name": "Omlira",
-            "Symbol": "OML",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
-            "Name": "HonToken",
-            "Symbol": "HON",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
-            "Name": "Avaware",
-            "Symbol": "AVE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
-            "Name": "Oh! Finance",
-            "Symbol": "OH",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
-            "Name": "TEDDY",
-            "Symbol": "TEDDY",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
-            "Name": "Hurricane Token",
-            "Symbol": "HCT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x1111111111182587795eF1098ac7da81a108C97a",
-            "Name": "Bold Point Token",
-            "Symbol": "BPT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x6241af3817Db48a7F9E19FD9446d78E50936d275",
-            "Name": "JPEG",
-            "Symbol": "JPEG",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4bf5cd1AC6FfF12E88AEDD3c70EB4148F90F8894",
-            "Name": "Orbit",
-            "Symbol": "ORBIT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
-            "Name": "Canary",
-            "Symbol": "CNR",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86",
-            "Name": "Vee",
-            "Symbol": "VEE",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
-            "Name": "Blizz.Finance Protocol Token",
-            "Symbol": "BLZZ",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xCC2f1d827b18321254223dF4e84dE399D9Ff116c",
-            "Name": "SmartCoin",
-            "Symbol": "SMRT",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD",
-            "Name": "TRACTOR JOE",
-            "Symbol": "TRACTOR",
-            "Decimals": 9,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x70b4aE8eb7bd572Fc0eb244Cd8021066b3Ce7EE4",
-            "Name": "NovaXCrystal",
-            "Symbol": "XCRS",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4C1057455747e3eE5871D374FdD77A304cE10989",
-            "Name": "NovaXMetal",
-            "Symbol": "XMTL",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xE6eE049183B474ecf7704da3F6F555a1dCAF240F",
-            "Name": "NovaXSolarEnergy",
-            "Symbol": "XSLR",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
-            "Name": "SmarterCoin",
-            "Symbol": "SMRTr",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
-            "Name": "Husky",
-            "Symbol": "HUSKY",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x325a98F258a5732c7b06555603F6aF5BC1C17F0a",
-            "Name": "$ALPHA",
-            "Symbol": "$ALPHA",
-            "Decimals": 9,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xB2AC04b71888E17Aa2c5102cf3d0215467D74100",
-            "Name": "Blizz AVAX",
-            "Symbol": "bAVAX",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x6807eD4369d9399847F306D7d835538915fA749d",
-            "Name": "Blizz DAI",
-            "Symbol": "bDAI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xC25Ff1aF397b76252D6975b4D7649b35C0E60F69",
-            "Name": "Blizz USDC",
-            "Symbol": "bUSDC",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x18cb11C9F2B6F45A7ac0A95eFD322ED4cf9EEEBF",
-            "Name": "Blizz USDT",
-            "Symbol": "bUSDT",
-            "Decimals": 6,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0x81CCdD9e44C518caEe2F720C43CD0853032A1779",
-            "Name": "Blizz WBTC",
-            "Symbol": "bWBTC",
-            "Decimals": 8,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xCcC9b2c9D96C33cECc064ddd444B132EFF56E232",
-            "Name": "Blizz WETH",
-            "Symbol": "bWETH",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x350b3Ff32ab1b6BeaBec41aBCEbff682e0F37A3B",
-            "Name": "FarmersOnly Blight",
-            "Symbol": "BLIGHT",
-            "Decimals": 9,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xa6772f1EFeDeF231a3D92851470bd73316DDeaa9",
-            "Name": "FarmersOnly Staked Blight",
-            "Symbol": "sBLIGHT",
-            "Decimals": 9,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
-            "Name": "GMX",
-            "Symbol": "GMX",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
-            "Name": "Staked Spell Tokens",
-            "Symbol": "sSPELL",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
-            "Name": "STEP.APP",
-            "Symbol": "FITFI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x298C5c64eBa94b8dd425582E4266A882Db6D9848",
-            "Name": "Super Ankr Reward-Earning Staked AVAX",
-            "Symbol": "SaAVAXb",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-            "Name": "SushiToken",
-            "Symbol": "SUSHI",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": false,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
-            "Name": "TSD Stablecoin",
-            "Symbol": "TSD",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
-            "Name": "Wootrade Network",
-            "Symbol": "WOO.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
-            "Name": "Wrapped Ether",
-            "Symbol": "WETH.e",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        },
-        {
-            "Address": "0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87",
-            "Name": "BiFi",
-            "Symbol": "BiFi",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": true
-            }
-        },
-        {
-            "Address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
-            "Name": "BUSD Token",
-            "Symbol": "BUSD",
-            "Decimals": 18,
-            "IsNewToken": false,
-            "ImageInfo": {
-                "Has32": true,
-                "Has128": false
-            }
-        }
-    ]
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/avalanche/tokens/images/",
+  "EmptyToken": "empty-token.png",
+  "TokenList": [
+    {
+      "Address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
+      "Name": "Tether USD",
+      "Symbol": "USDT.e",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
+      "Name": "TetherToken",
+      "Symbol": "USDt",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
+      "Name": "USD Coin",
+      "Symbol": "USDC.e",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E",
+      "Name": "USD Coin",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x19860CCB0A68fd4213aB9D8266F7bBf05A8dDe98",
+      "Name": "Binance USD",
+      "Symbol": "BUSD.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
+      "Name": "Dai Stablecoin",
+      "Symbol": "DAI.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x02D980A0D7AF3fb7Cf7Df8cB35d9eDBCF355f665",
+      "Name": "SHIBA INU",
+      "Symbol": "SHIB.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
+      "Name": "Wrapped AVAX",
+      "Symbol": "WAVAX",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x8eBAf22B6F053dFFeaf46f4Dd9eFA95D89ba8580",
+      "Name": "Uniswap",
+      "Symbol": "UNI.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x50b7545627a5162F82A992c33b87aDc75187B218",
+      "Name": "Wrapped BTC",
+      "Symbol": "WBTC.e",
+      "Decimals": 8,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x5947BB275c521040051D82396192181b413227A3",
+      "Name": "Chainlink Token",
+      "Symbol": "LINK.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xD24C2Ad096400B6FBcd2ad8B24E7acBc21A1da64",
+      "Name": "Frax",
+      "Symbol": "FRAX",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x63a72806098Bd3D9520cC43356dD78afe5D386D9",
+      "Name": "Aave Token",
+      "Symbol": "AAVE.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x1C20E891Bab6b1727d14Da358FAe2984Ed9B59EB",
+      "Name": "TrueUSD",
+      "Symbol": "TUSD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x88128fd4b259552A9A1D457f435a6527AAb72d42",
+      "Name": "Maker",
+      "Symbol": "MKR.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0xcf799767d366d789e8B446981C2D578E241fa25c",
+      "Name": "Decentralized USD",
+      "Symbol": "USDD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x8a0cAc13c7da965a312f08ea4229c37869e85cB9",
+      "Name": "Graph Token",
+      "Symbol": "GRT.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x98443B96EA4b0858FDF3219Cd13e98C7A4690588",
+      "Name": "Basic Attention Token",
+      "Symbol": "BAT.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x249848BeCA43aC405b8102Ec90Dd5F22CA513c06",
+      "Name": "Curve DAO Token",
+      "Symbol": "CRV.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xc3048E19E76CB9a3Aa9d77D8C03c29Fc906e2437",
+      "Name": "Compound",
+      "Symbol": "COMP.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0xd501281565bf7789224523144Fe5D98e8B28f267",
+      "Name": "1INCH Token",
+      "Symbol": "1INCH.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xBeC243C995409E6520D7C41E404da5dEba4b209B",
+      "Name": "Synthetix Network Token",
+      "Symbol": "SNX.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x596fA47043f99A4e0F122243B841E55375cdE0d2",
+      "Name": "ZRX",
+      "Symbol": "ZRX.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
+      "Name": "yearn.finance",
+      "Symbol": "YFI.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x37B608519F91f70F2EeB0e5Ed9AF4061722e4F76",
+      "Name": "SushiToken",
+      "Symbol": "SUSHI.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x3Bd2B1c7ED8D396dbb98DED3aEbb41350a5b2339",
+      "Name": "UMA Voting Token v1",
+      "Symbol": "UMA.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x39fC9e94Caeacb435842FADeDeCB783589F50f5f",
+      "Name": "Kyber Network Crystal v2",
+      "Symbol": "KNC",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x340fE1D898ECCAad394e2ba0fC1F93d27c7b717A",
+      "Name": "Orbs",
+      "Symbol": "ORBS",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xCE1bFFBD5374Dac86a2893119683F4911a2F7814",
+      "Name": "Spell Token",
+      "Symbol": "SPELL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x5fC17416925789E0852FBFcd81c490ca4abc51F9",
+      "Name": "inSure",
+      "Symbol": "SURE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x214DB107654fF987AD859F34125307783fC8e387",
+      "Name": "Frax Share",
+      "Symbol": "FXS",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x57319d41F71E81F3c65F2a47CA4e001EbAFd4F33",
+      "Name": "JoeBar",
+      "Symbol": "xJOE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x6e84a6216eA6dACC71eE8E6b0a5B7322EEbC0fDd",
+      "Name": "JoeToken",
+      "Symbol": "JOE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+      "Name": "Anyswap",
+      "Symbol": "ANY",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x2147EFFF675e4A4eE1C2f918d181cDBd7a8E208f",
+      "Name": "AlphaToken",
+      "Symbol": "ALPHA.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xC17c30e98541188614dF99239cABD40280810cA3",
+      "Name": "EverRise",
+      "Symbol": "RISE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xd6070ae98b8069de6B494332d1A1a81B6179D960",
+      "Name": "beefy.finance",
+      "Symbol": "BIFI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xc7B5D72C836e718cDA8888eaf03707fAef675079",
+      "Name": "TrustSwap Token",
+      "Symbol": "SWAP.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x80B010450fDAf6a3f8dF033Ee296E92751D603B3",
+      "Name": "Jade Protocol",
+      "Symbol": "JADE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x3D9eAB723df76808bB84c05b20De27A2e69EF293",
+      "Name": "sJADE",
+      "Symbol": "sJADE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xfcDe4A87b8b6FA58326BB462882f1778158B02F1",
+      "Name": "Wirex Token",
+      "Symbol": "WXT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x97Cd1CFE2ed5712660bb6c14053C0EcB031Bff7d",
+      "Name": "Rai Reflex Index",
+      "Symbol": "RAI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9E037dE681CaFA6E661e6108eD9c2bd1AA567Ecd",
+      "Name": "Wrapped AllianceBlock Token",
+      "Symbol": "WALBT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x3b9e3b5c616A1A038fDc190758Bbe9BAB6C7A857",
+      "Name": "UniCrypt",
+      "Symbol": "UNCX",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xfB98B335551a418cD0737375a2ea0ded62Ea213b",
+      "Name": "Pendle",
+      "Symbol": "PENDLE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x961C8c0B1aaD0c0b10a51FeF6a867E3091BCef17",
+      "Name": "DeFiYieldProtocol",
+      "Symbol": "DYP",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x544c42fBB96B39B21DF61cf322b5EDC285EE7429",
+      "Name": "Avalanche INSUR Token",
+      "Symbol": "INSUR",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x60781C2586D68229fde47564546784ab3fACA982",
+      "Name": "Pangolin",
+      "Symbol": "PNG",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
+      "Name": "BENQI",
+      "Symbol": "QI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x0ebd9537A25f56713E34c45b38F421A1e7191469",
+      "Name": "OpenOcean",
+      "Symbol": "OOE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x1B88D7aD51626044Ec62eF9803EA264DA4442F32",
+      "Name": "ZooToken",
+      "Symbol": "ZOO",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9E3Ca00f2d4A9E5d4f0add0900de5f15050812cF",
+      "Name": "NFTrade Token [via ChainPort.io]",
+      "Symbol": "NFTD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x7D86F1eafF29F076576b2Ff09CE3bcC7533fD2C5",
+      "Name": "UNCL",
+      "Symbol": "UNCL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xb27c8941a7Df8958A1778c0259f76D1F8B711C35",
+      "Name": "Kalao Token",
+      "Symbol": "KLO",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x4036f3d9c45a20f44f0b8B85dD6CA33005fF9654",
+      "Name": "ROOBEE",
+      "Symbol": "ROOBEE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x00EE200Df31b869a321B10400Da10b561F3ee60d",
+      "Name": "Arable Protocol",
+      "Symbol": "ACRE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB0a6e056B587D0a85640b39b1cB44086F7a26A1E",
+      "Name": "OddzToken",
+      "Symbol": "ODDZ",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xF891214fdcF9cDaa5fdC42369eE4F27F226AdaD6",
+      "Name": "Imperium Empires Token",
+      "Symbol": "IME",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x6e7f5C0b9f4432716bDd0a77a3601291b9D9e985",
+      "Name": "Spore.Finance",
+      "Symbol": "SPORE",
+      "Decimals": 9,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x55b1a124c04A54eeFDEFE5FA2Ef5f852FB5f2f26",
+      "Name": "Ethereum Meta",
+      "Symbol": "ETHM",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xA384Bc7Cdc0A93e686da9E7B8C0807cD040F4E0b",
+      "Name": "WOWswap",
+      "Symbol": "WOW",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x846D50248BAf8b7ceAA9d9B53BFd12d7D7FBB25a",
+      "Name": "VersoToken",
+      "Symbol": "VSO",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xAfE3d2A31231230875DEe1fa1eEF14a412443d22",
+      "Name": "DeFiato [via ChainPort.io]",
+      "Symbol": "DFIAT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x440aBbf18c54b2782A4917b80a1746d3A2c2Cce1",
+      "Name": "SHIBAVAX",
+      "Symbol": "SHIBX",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xf693248F96Fe03422FEa95aC0aFbBBc4a8FdD172",
+      "Name": "Treasure Under Sea",
+      "Symbol": "TUS",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xC38f41A296A4493Ff429F1238e030924A1542e50",
+      "Name": "Snowball",
+      "Symbol": "SNOB",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x47EB6F7525C1aA999FBC9ee92715F5231eB1241D",
+      "Name": "Defrost Finance Token",
+      "Symbol": "MELT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB00F1ad977a949a3CCc389Ca1D1282A2946963b0",
+      "Name": "Boo Finance Token",
+      "Symbol": "BOOFI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x90fBE9dfe76F6EF971c7A297641dfa397099a13e",
+      "Name": "Atlantis Loans",
+      "Symbol": "ATL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xd9D90f882CDdD6063959A9d837B05Cb748718A05",
+      "Name": "More Token",
+      "Symbol": "MORE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x595c8481c48894771CE8FaDE54ac6Bf59093F9E8",
+      "Name": "PolyGaj Token",
+      "Symbol": "GAJ",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x4a4f77d74cf5Fd4ea4AB71Ba79988c055A5C27b2",
+      "Name": "LessToken",
+      "Symbol": "LESS",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB15f02F9Da8CD1f99E9dd375F21dc96D25ddd82C",
+      "Name": "HERMES",
+      "Symbol": "HERMES",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB147656604217a03Fe2c73c4838770DF8d9D21B8",
+      "Name": "Blizzard",
+      "Symbol": "BLIZZ",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x397bBd6A0E41bdF4C3F971731E180Db8Ad06eBc1",
+      "Name": "Avaxtars Token",
+      "Symbol": "AVXT",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+      "Name": "Bitcoin",
+      "Symbol": "BTC.b",
+      "Decimals": 8,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+      "Name": "Yak Token",
+      "Symbol": "YAK",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xe6d1aFea0B76C8f51024683DD27FA446dDAF34B6",
+      "Name": "Frozen Walrus Share",
+      "Symbol": "WSHARE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xb54f16fB19478766A268F172C9480f8da1a7c9C3",
+      "Name": "Time",
+      "Symbol": "TIME",
+      "Decimals": 9,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x1a877B68bdA77d78EEa607443CcDE667B31B0CdF",
+      "Name": "PIGGY",
+      "Symbol": "PIGGY",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x788AE3b5D153d49F8DB649aacbA1857f744b739e",
+      "Name": "KITTY",
+      "Symbol": "KITTY",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xA5e2cFe48fe8C4ABD682CA2B10fCAaFE34b8774c",
+      "Name": "PSHARE",
+      "Symbol": "PSHARE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x094BFaC9894d2A2A35771D0BD6d2447689190F32",
+      "Name": "CAT",
+      "Symbol": "CAT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x395908aeb53d33A9B8ac35e148E9805D34A555D3",
+      "Name": "frozenwalrus.finance",
+      "Symbol": "WLRS",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x1f1E7c893855525b303f99bDF5c3c05Be09ca251",
+      "Name": "Synapse",
+      "Symbol": "SYN",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x130966628846BFd36ff31a822705796e8cb8C18D",
+      "Name": "Magic Internet Money",
+      "Symbol": "MIM",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x026187BdbC6b751003517bcb30Ac7817D5B766f8",
+      "Name": "Defrost Finance H2O",
+      "Symbol": "H2O",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xAE21d31a6494829a9E4B2B291F4984AAE8121757",
+      "Name": "IceCream Finance",
+      "Symbol": "CREAM",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xd1c3f94DE7e5B45fa4eDBBA472491a9f4B166FC4",
+      "Name": "Avalaunch",
+      "Symbol": "XAVA",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x155f794b56353533E0AfBF76e1B1FC57DFAd5Bd7",
+      "Name": "IceCream Shares",
+      "Symbol": "CSHARE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xE1C110E1B1b4A1deD0cAf3E42BfBdbB7b5d7cE1C",
+      "Name": "Elk",
+      "Symbol": "ELK",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xF44Fb887334Fa17d2c5c0F970B5D320ab53eD557",
+      "Name": "BSCstarter",
+      "Symbol": "START",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xfa4B6db72A650601E7Bd50a0A9f537c9E98311B2",
+      "Name": "HERMES Shares",
+      "Symbol": "HSHARES",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x060556209E507d30f2167a101bFC6D256Ed2f3e1",
+      "Name": "xPTP",
+      "Symbol": "xPTP",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+      "Name": "Colony Token",
+      "Symbol": "CLY",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x564A341Df6C126f90cf3ECB92120FD7190ACb401",
+      "Name": "BiLira",
+      "Symbol": "TRYB",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9Fda7cEeC4c18008096C2fE2B85F05dc300F94d0",
+      "Name": "MarginSwap",
+      "Symbol": "MFI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xe896CDeaAC9615145c0cA09C8Cd5C25bced6384c",
+      "Name": "PenguinToken",
+      "Symbol": "PEFI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9767203e89dcD34851240B3919d4900d3E5069f1",
+      "Name": "A4",
+      "Symbol": "A4",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x979fFD8eEd7a43629eA29581DF4Bfe2b3F224e47",
+      "Name": "Omlira",
+      "Symbol": "OML",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xEd2b42D3C9c6E97e11755BB37df29B6375ede3EB",
+      "Name": "HonToken",
+      "Symbol": "HON",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+      "Name": "Avaware",
+      "Symbol": "AVE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x937E077aBaEA52d3abf879c9b9d3f2eBd15BAA21",
+      "Name": "Oh! Finance",
+      "Symbol": "OH",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x094bd7B2D99711A1486FB94d4395801C6d0fdDcC",
+      "Name": "TEDDY",
+      "Symbol": "TEDDY",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x45C13620B55C35A5f539d26E88247011Eb10fDbd",
+      "Name": "Hurricane Token",
+      "Symbol": "HCT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x1111111111182587795eF1098ac7da81a108C97a",
+      "Name": "Bold Point Token",
+      "Symbol": "BPT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x6241af3817Db48a7F9E19FD9446d78E50936d275",
+      "Name": "JPEG",
+      "Symbol": "JPEG",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x4bf5cd1AC6FfF12E88AEDD3c70EB4148F90F8894",
+      "Name": "Orbit",
+      "Symbol": "ORBIT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x8D88e48465F30Acfb8daC0b3E35c9D6D7d36abaf",
+      "Name": "Canary",
+      "Symbol": "CNR",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x3709E8615E02C15B096f8a9B460ccb8cA8194e86",
+      "Name": "Vee",
+      "Symbol": "VEE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x0f34919404a290e71fc6A510cB4a6aCb8D764b24",
+      "Name": "Blizz.Finance Protocol Token",
+      "Symbol": "BLZZ",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xCC2f1d827b18321254223dF4e84dE399D9Ff116c",
+      "Name": "SmartCoin",
+      "Symbol": "SMRT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x542fA0B261503333B90fE60c78F2BeeD16b7b7fD",
+      "Name": "TRACTOR JOE",
+      "Symbol": "TRACTOR",
+      "Decimals": 9,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x70b4aE8eb7bd572Fc0eb244Cd8021066b3Ce7EE4",
+      "Name": "NovaXCrystal",
+      "Symbol": "XCRS",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x4C1057455747e3eE5871D374FdD77A304cE10989",
+      "Name": "NovaXMetal",
+      "Symbol": "XMTL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xE6eE049183B474ecf7704da3F6F555a1dCAF240F",
+      "Name": "NovaXSolarEnergy",
+      "Symbol": "XSLR",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x6D923f688C7FF287dc3A5943CAeefc994F97b290",
+      "Name": "SmarterCoin",
+      "Symbol": "SMRTr",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x65378b697853568dA9ff8EaB60C13E1Ee9f4a654",
+      "Name": "Husky",
+      "Symbol": "HUSKY",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x325a98F258a5732c7b06555603F6aF5BC1C17F0a",
+      "Name": "$ALPHA",
+      "Symbol": "$ALPHA",
+      "Decimals": 9,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xB2AC04b71888E17Aa2c5102cf3d0215467D74100",
+      "Name": "Blizz AVAX",
+      "Symbol": "bAVAX",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x6807eD4369d9399847F306D7d835538915fA749d",
+      "Name": "Blizz DAI",
+      "Symbol": "bDAI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xC25Ff1aF397b76252D6975b4D7649b35C0E60F69",
+      "Name": "Blizz USDC",
+      "Symbol": "bUSDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x18cb11C9F2B6F45A7ac0A95eFD322ED4cf9EEEBF",
+      "Name": "Blizz USDT",
+      "Symbol": "bUSDT",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0x81CCdD9e44C518caEe2F720C43CD0853032A1779",
+      "Name": "Blizz WBTC",
+      "Symbol": "bWBTC",
+      "Decimals": 8,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xCcC9b2c9D96C33cECc064ddd444B132EFF56E232",
+      "Name": "Blizz WETH",
+      "Symbol": "bWETH",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x350b3Ff32ab1b6BeaBec41aBCEbff682e0F37A3B",
+      "Name": "FarmersOnly Blight",
+      "Symbol": "BLIGHT",
+      "Decimals": 9,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xa6772f1EFeDeF231a3D92851470bd73316DDeaa9",
+      "Name": "FarmersOnly Staked Blight",
+      "Symbol": "sBLIGHT",
+      "Decimals": 9,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x62edc0692BD897D2295872a9FFCac5425011c661",
+      "Name": "GMX",
+      "Symbol": "GMX",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x3Ee97d514BBef95a2f110e6B9b73824719030f7a",
+      "Name": "Staked Spell Tokens",
+      "Symbol": "sSPELL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x714f020C54cc9D104B6F4f6998C63ce2a31D1888",
+      "Name": "STEP.APP",
+      "Symbol": "FITFI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x298C5c64eBa94b8dd425582E4266A882Db6D9848",
+      "Name": "Super Ankr Reward-Earning Staked AVAX",
+      "Symbol": "SaAVAXb",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
+      "Name": "SushiToken",
+      "Symbol": "SUSHI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x4fbf0429599460D327BD5F55625E30E4fC066095",
+      "Name": "TSD Stablecoin",
+      "Symbol": "TSD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xaBC9547B534519fF73921b1FBA6E672b5f58D083",
+      "Name": "Wootrade Network",
+      "Symbol": "WOO.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+      "Name": "Wrapped Ether",
+      "Symbol": "WETH.e",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x3C1BB39bb696B443a1D80BB2b3a3d950Ba9DEE87",
+      "Name": "BiFi",
+      "Symbol": "BiFi",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "Name": "BUSD Token",
+      "Symbol": "BUSD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    }
+  ]
 }
