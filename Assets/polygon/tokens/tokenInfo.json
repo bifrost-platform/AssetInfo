@@ -931,7 +931,7 @@
       "Name": "Fetch (PoS)",
       "Symbol": "FET",
       "Decimals": 18,
-      "IsNewToken": true,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false

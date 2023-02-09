@@ -1294,7 +1294,7 @@
       "Name": "Numeraire",
       "Symbol": "NMR",
       "Decimals": 18,
-      "IsNewToken": true,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1767,7 +1767,7 @@
       "Name": "Fetch",
       "Symbol": "FET",
       "Decimals": 18,
-      "IsNewToken": true,
+      "IsNewToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
