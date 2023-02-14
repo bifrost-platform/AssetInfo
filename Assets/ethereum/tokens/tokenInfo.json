@@ -500,7 +500,7 @@
       "Symbol": "LRC",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1364,7 +1364,7 @@
       "Symbol": "CELR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2060,7 +2060,7 @@
       "Symbol": "DUSK",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6055,8 +6055,8 @@
       "Name": "Bend Token",
       "Symbol": "BEND",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6067,8 +6067,8 @@
       "Name": "LooksRare Token",
       "Symbol": "LOOKS",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6079,8 +6079,8 @@
       "Name": "NFTX",
       "Symbol": "NFTX",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6090,6 +6090,42 @@
       "Address": "0x1E4EDE388cbc9F4b5c79681B7f94d36a11ABEBC9",
       "Name": "X2Y2Token",
       "Symbol": "X2Y2",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xF57e7e7C23978C3cAEC3C3548E3D615c346e79fF",
+      "Name": "Immutable X",
+      "Symbol": "IMX",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x9E32b13ce7f2E80A01932B42553652E053D6ed8e",
+      "Name": "Metis Token",
+      "Symbol": "Metis",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
+      "Name": "SKALE",
+      "Symbol": "SKL",
       "Decimals": 18,
       "IsNewToken": true,
       "IsTrendyToken": true,
