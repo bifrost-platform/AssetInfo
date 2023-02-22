@@ -500,7 +500,7 @@
       "Symbol": "LRC",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1364,7 +1364,7 @@
       "Symbol": "CELR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1628,7 +1628,7 @@
       "Symbol": "QKC",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1868,7 +1868,7 @@
       "Symbol": "ACH",
       "Decimals": 8,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2060,7 +2060,7 @@
       "Symbol": "DUSK",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2624,7 +2624,7 @@
       "Symbol": "KEY",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6103,8 +6103,8 @@
       "Name": "Immutable X",
       "Symbol": "IMX",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6115,8 +6115,8 @@
       "Name": "Metis Token",
       "Symbol": "Metis",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -6126,6 +6126,42 @@
       "Address": "0x00c83aeCC790e8a4453e5dD3B0B4b3680501a7A7",
       "Name": "SKALE",
       "Symbol": "SKL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xc4c7Ea4FAB34BD9fb9a5e1B1a98Df76E26E6407c",
+      "Name": "CocosTokenV2",
+      "Symbol": "COCOS",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x71Ab77b7dbB4fa7e017BC15090b2163221420282",
+      "Name": "Highstreet token",
+      "Symbol": "HIGH",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": true,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0xd084B83C305daFD76AE3E1b4E1F1fe2eCcCb3988",
+      "Name": "Terra Virtua Kolect",
+      "Symbol": "TVK",
       "Decimals": 18,
       "IsNewToken": true,
       "IsTrendyToken": true,
