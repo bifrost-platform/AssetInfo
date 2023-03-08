@@ -176,7 +176,7 @@
       "Symbol": "MKR.e",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
