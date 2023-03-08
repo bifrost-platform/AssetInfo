@@ -308,7 +308,7 @@
       "Symbol": "MKR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -428,7 +428,7 @@
       "Symbol": "SNX",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -560,7 +560,7 @@
       "Symbol": "FXS",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1628,7 +1628,7 @@
       "Symbol": "QKC",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1808,7 +1808,7 @@
       "Symbol": "TRU",
       "Decimals": 8,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1868,7 +1868,7 @@
       "Symbol": "ACH",
       "Decimals": 8,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -2624,7 +2624,7 @@
       "Symbol": "KEY",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6139,8 +6139,8 @@
       "Name": "CocosTokenV2",
       "Symbol": "COCOS",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6151,8 +6151,8 @@
       "Name": "Highstreet token",
       "Symbol": "HIGH",
       "Decimals": 18,
-      "IsNewToken": true,
-      "IsTrendyToken": true,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6163,11 +6163,23 @@
       "Name": "Terra Virtua Kolect",
       "Symbol": "TVK",
       "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
+    },
+    {
+      "Address": "0x6DEA81C8171D0bA574754EF6F8b412F2Ed88c54D",
+      "Name": "LQTY",
+      "Symbol": "LQTY",
+      "Decimals": 18,
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": true
       }
     }
   ]

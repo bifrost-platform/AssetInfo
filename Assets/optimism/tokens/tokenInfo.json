@@ -92,7 +92,7 @@
       "Symbol": "FXS",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
