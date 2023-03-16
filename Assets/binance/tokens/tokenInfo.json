@@ -4753,6 +4753,18 @@
         "Has32": true,
         "Has128": false
       }
+    },
+    {
+      "Address": "0x153C0c947177e631e3DFc594ba28750d3a921FB5",
+      "Name": "CryptoGPT Token",
+      "Symbol": "GPT",
+      "Decimals": 18,
+      "IsNewToken": true,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
     }
   ]
 }

@@ -308,7 +308,7 @@
       "Symbol": "MKR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -428,7 +428,7 @@
       "Symbol": "SNX",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -560,7 +560,7 @@
       "Symbol": "FXS",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1100,7 +1100,7 @@
       "Symbol": "RNDR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -1412,7 +1412,7 @@
       "Symbol": "NMR",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1808,7 +1808,7 @@
       "Symbol": "TRU",
       "Decimals": 8,
       "IsNewToken": false,
-      "IsTrendyToken": true,
+      "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -1928,7 +1928,7 @@
       "Symbol": "FET",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": true
@@ -2300,7 +2300,7 @@
       "Symbol": "AGIX",
       "Decimals": 8,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6044,7 +6044,7 @@
       "Symbol": "ALI",
       "Decimals": 18,
       "IsNewToken": false,
-      "IsTrendyToken": false,
+      "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
         "Has128": false
@@ -6175,11 +6175,23 @@
       "Name": "LQTY",
       "Symbol": "LQTY",
       "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
+      "Address": "0xD04E772BC0d591fBD288f2E2a86aFA3D3CB647F8",
+      "Name": "CryptoGPT Token",
+      "Symbol": "GPT",
+      "Decimals": 18,
       "IsNewToken": true,
       "IsTrendyToken": true,
       "ImageInfo": {
         "Has32": true,
-        "Has128": true
+        "Has128": false
       }
     }
   ]
