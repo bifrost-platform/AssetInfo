@@ -62,6 +62,18 @@
       }
     },
     {
+      "Address": "0x815e850CDDb2BB8C8afb61266525daFfB9adD7dc",
+      "Name": "Unified USDT",
+      "Symbol": "USDT",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
+    },
+    {
       "Address": "0x1745F24d85192545E5eD1c9574782d067D3Fda09",
       "Name": "Wrapped Bifrost",
       "Symbol": "WBFC",
