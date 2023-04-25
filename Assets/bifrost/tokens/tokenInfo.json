@@ -73,6 +73,18 @@
         "Has32": true,
         "Has128": true
       }
+    },
+    {
+      "Address": "0x17102AC78a02a98fC78B0c29B7b0506f035A99E5",
+      "Name": "Unified SAT",
+      "Symbol": "SAT",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": false
+      }
     }
   ]
 }
