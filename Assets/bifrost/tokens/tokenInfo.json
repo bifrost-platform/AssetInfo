@@ -85,6 +85,18 @@
         "Has32": true,
         "Has128": false
       }
+    },
+    {
+      "Address": "0x3eA8654d5755e673599473ab37d92788B5bA12aE",
+      "Name": "Unified USDT",
+      "Symbol": "USDT",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true
+      }
     }
   ]
 }
