@@ -4765,6 +4765,18 @@
         "Has32": true,
         "Has128": false
       }
+    },
+    {
+      "Address": "0x3ce414000C518FC55846388ef0aaB5d0abf275Be",
+      "Name": "Play to Donate",
+      "Symbol": "P2D",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": true
+      }
     }
   ]
 }

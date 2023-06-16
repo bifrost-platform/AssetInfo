@@ -97,6 +97,18 @@
         "Has32": true,
         "Has128": true
       }
+    },
+    {
+      "Address": "0xAa2E0911AC56C6f8A9C4f0006A8C907D5d180A6a",
+      "Name": "Unified P2D",
+      "Symbol": "P2D",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": true
+      }
     }
   ]
 }
