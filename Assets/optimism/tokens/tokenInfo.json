@@ -11,7 +11,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": true
+        "Has128": true,
+        "Has256": true
       }
     },
     {
@@ -23,7 +24,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
       }
     },
     {
@@ -35,7 +37,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
       }
     },
     {
@@ -47,7 +50,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
       }
     },
     {
@@ -59,7 +63,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
       }
     },
     {
@@ -71,7 +76,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
       }
     },
     {
@@ -83,7 +89,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -95,7 +102,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -107,7 +115,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -119,7 +128,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -131,7 +141,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
       }
     },
     {
@@ -143,7 +154,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -155,7 +167,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -167,7 +180,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -179,7 +193,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -191,7 +206,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -203,7 +219,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -215,7 +232,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -227,7 +245,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -239,7 +258,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -251,7 +271,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -263,7 +284,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": true
+        "Has128": true,
+        "Has256": false
       }
     },
     {
@@ -275,7 +297,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -287,7 +310,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": true
+        "Has128": true,
+        "Has256": false
       }
     },
     {
@@ -299,7 +323,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -311,7 +336,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -323,7 +349,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -335,7 +362,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -347,7 +375,8 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": false
       }
     },
     {
@@ -359,7 +388,47 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false
+        "Has128": false,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x76FB31fb4af56892A25e32cFC43De717950c9278",
+      "Name": "Aave Token",
+      "Symbol": "AAVE",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x9C9e5fD8bbc25984B178FdCE6117Defa39d2db39",
+      "Name": "BUSD Token",
+      "Symbol": "BUSD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x6fd9d7AD17242c41f7131d257212c54A0e816691",
+      "Name": "Uniswap",
+      "Symbol": "UNI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false,
+        "Has256": true
       }
     }
   ]
