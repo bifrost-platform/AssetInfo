@@ -51,7 +51,7 @@ def downscale (in_size: int, out_size: int, in_dir: path, out_dir: path):
             with Image.open(fn) as img:
                 new_img = img.resize((out_size, out_size))
                 out_file = path.join(out_dir, fn.split("/")[-1])
-                new_img.save(out_file, "png")
+                new_img.save(out_file, "png", optimize=True)
         except Exception as e:
             logger.error(f"error occurred for {fn}: {e}")
 
@@ -69,8 +69,6 @@ def run(base: str):
                 makedirs(out_dir)
                 logger.info(f"directory is created: {out_dir}")
             logger.info(f"outer directory: {out_dir}")
-            rate = int(SIZES[base] / SIZES[target])
-            logger.info(f"downscale rate: {rate}")
             downscale(SIZES[base], SIZES[target], in_dir, out_dir)
 
 def main():
