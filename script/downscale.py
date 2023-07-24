@@ -40,8 +40,8 @@ SIZES = {
 }
 
 
-def downscale (rate: int, in_dir: path, out_dir: path):
-    if rate <= 1: raise Exception(f"Rate should be larger than or equal to 1: {rate}")
+def downscale (in_size: int, out_size: int, in_dir: path, out_dir: path):
+    if out_size > in_size: raise Exception(f"Rate should be less than or equal to {in_size}: {out_size}")
     files = glob(path.join(in_dir, "*.png"))
     length = len(files)
     logger.info(f"files: {length}")
@@ -49,9 +49,7 @@ def downscale (rate: int, in_dir: path, out_dir: path):
         logger.debug(f"run downscale for #{idx}/{length}")
         try:
             with Image.open(fn) as img:
-                wsize = int(img.size[0] / rate)
-                hsize = int(img.size[1] / rate)
-                new_img = img.resize((wsize, hsize))
+                new_img = img.resize((out_size, out_size))
                 out_file = path.join(out_dir, fn.split("/")[-1])
                 new_img.save(out_file, "png")
         except Exception as e:
@@ -73,7 +71,7 @@ def run(base: str):
             logger.info(f"outer directory: {out_dir}")
             rate = int(SIZES[base] / SIZES[target])
             logger.info(f"downscale rate: {rate}")
-            downscale(rate, in_dir, out_dir)
+            downscale(SIZES[base], SIZES[target], in_dir, out_dir)
 
 def main():
     parser = ArgumentParser()
