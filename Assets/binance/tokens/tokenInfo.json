@@ -11,7 +11,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -37,7 +37,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -50,7 +50,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -63,7 +63,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -89,7 +89,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -141,7 +141,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -154,7 +154,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -167,7 +167,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -193,7 +193,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -219,7 +219,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -232,7 +232,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -258,7 +258,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -271,7 +271,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -479,7 +479,7 @@
       "IsTrendyToken": false,
       "ImageInfo": {
         "Has32": true,
-        "Has128": false,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -5158,8 +5158,8 @@
       "IsNewToken": false,
       "IsTrendyToken": false,
       "ImageInfo": {
-        "Has32": false,
-        "Has128": false,
+        "Has32": true,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -5171,8 +5171,8 @@
       "IsNewToken": false,
       "IsTrendyToken": false,
       "ImageInfo": {
-        "Has32": false,
-        "Has128": false,
+        "Has32": true,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -5184,8 +5184,8 @@
       "IsNewToken": false,
       "IsTrendyToken": false,
       "ImageInfo": {
-        "Has32": false,
-        "Has128": false,
+        "Has32": true,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -5197,8 +5197,8 @@
       "IsNewToken": false,
       "IsTrendyToken": false,
       "ImageInfo": {
-        "Has32": false,
-        "Has128": false,
+        "Has32": true,
+        "Has128": true,
         "Has256": true
       }
     },
@@ -5210,8 +5210,8 @@
       "IsNewToken": false,
       "IsTrendyToken": false,
       "ImageInfo": {
-        "Has32": false,
-        "Has128": false,
+        "Has32": true,
+        "Has128": true,
         "Has256": true
       }
     }
