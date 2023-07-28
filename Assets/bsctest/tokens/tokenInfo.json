@@ -3,9 +3,9 @@
   "EmptyToken": "empty-token.png",
   "TokenList": [
     {
-      "Address": "0x312d92B462492B2D110c7b378a72F6F78B1d6289",
-      "Name": "BUSD Token",
-      "Symbol": "BUSD",
+      "Address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "Name": "Wrapped BNB",
+      "Symbol": "WBNB",
       "Decimals": 18,
       "IsNewToken": false,
       "IsTrendyToken": false,
@@ -18,6 +18,19 @@
     {
       "Address": "0xC9C0aD3179eE2f4801454926ED5D6A2Da30b56FB",
       "Name": "USDC",
+      "Symbol": "USDC",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x66B57c5ea363cFC94033275675C57776F89B06C4",
+      "Name": "Tether USD",
       "Symbol": "USDC",
       "Decimals": 18,
       "IsNewToken": false,
