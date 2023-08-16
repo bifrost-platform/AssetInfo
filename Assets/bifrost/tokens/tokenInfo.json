@@ -118,6 +118,32 @@
         "Has128": true,
         "Has256": false
       }
+    },
+    {
+      "Address": "0x9DD4d64e41EA7Fc90ACEC15B08552172Ce94556a",
+      "Name": "Unified EGG",
+      "Symbol": "EGG",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0xB1f3A83597Bce2AD842c29bD750AE17afc474137",
+      "Name": "Unified WITCH",
+      "Symbol": "WITCH",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
