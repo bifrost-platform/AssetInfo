@@ -1,0 +1,11 @@
+addReviewers: true
+addAssignees: author
+
+reviewers:
+  - oh51dy
+  - gihyeonsung
+  - jormal
+  - yjkellyjoo
+  - zibersaioros
+
+numberOfReviewers: 0

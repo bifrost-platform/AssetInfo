@@ -66,6 +66,32 @@
         "Has128": true,
         "Has256": false
       }
+    },
+    {
+      "Address": "0x9225c534403eEAB0B80394F60683F51EF9acD627",
+      "Name": "Nestree",
+      "Symbol": "EGG",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x8d9a156587C4593F34294D6b1DCBc7A5F29e0356",
+      "Name": "Witch Token",
+      "Symbol": "WITCH",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
