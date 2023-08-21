@@ -1,0 +1,19 @@
+{
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/base/tokens/images/",
+  "EmptyToken": "empty-token.png",
+  "TokenList": [
+    {
+      "Address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+      "Name": "Dai Stablecoin",
+      "Symbol": "DAI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false,
+        "Has256": false
+      }
+    }
+  ]
+}

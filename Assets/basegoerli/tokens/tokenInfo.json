@@ -1,0 +1,19 @@
+{
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/basegoerli/tokens/images/",
+  "EmptyToken": "empty-token.png",
+  "TokenList": [
+    {
+      "Address": "0x263deEAd49900486A1E9C312BB70CC172E333917",
+      "Name": "DAI stable",
+      "Symbol": "DAI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": false,
+        "Has128": false,
+        "Has256": false
+      }
+    }
+  ]
+}
