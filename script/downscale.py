@@ -17,6 +17,8 @@ CHAINS = [
     "arbitrumone",
     "avalanche",
     "baobab",
+    "base",
+    "basegoerli",
     "bifrost",
     "bifrosttest1",
     "binance",
