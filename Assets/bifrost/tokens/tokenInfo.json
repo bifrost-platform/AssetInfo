@@ -144,6 +144,19 @@
         "Has128": true,
         "Has256": true
       }
+    },
+    {
+      "Address": "0xcDB9579Db96EB5C8298dF889D915D0FF668AfF2a",
+      "Name": "Unified DAI",
+      "Symbol": "DAI",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
