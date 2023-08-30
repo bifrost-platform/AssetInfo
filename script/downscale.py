@@ -57,10 +57,11 @@ def downscale (in_size: int, out_size: int, in_dir: path, out_dir: path):
         except Exception as e:
             logger.error(f"error occurred for {fn}: {e}")
 
-def run(base: str):
+def run(base: str, chain: str):
     targets = [ size for size in SIZES if size != base and SIZES[size] <= SIZES[base]]
+    chains = [chain] if chain else CHAINS
     logger.info(f"targets: {targets}")
-    for chain in CHAINS:
+    for chain in chains:
         image_path = path.join(BASE_PATH, chain, TOKEN_PATH)
         in_dir = path.join(image_path, base)
         logger.info(f"inner directory: {in_dir}")
@@ -76,10 +77,12 @@ def run(base: str):
 def main():
     parser = ArgumentParser()
     parser.add_argument("--base", type=str, default="256", required=True)
+    parser.add_argument("--chain", type=str, default=None, required=False)
     args = parser.parse_args()
     logger.info(f"argument setting: {args}")
     if args.base not in SIZES: raise Exception(f"Invalid image target: {args.base}")
-    run(args.base)
+    if args.chain not in CHAINS: raise Exception(f"Invalid chain: {args.chain}")
+    run(args.base, args.chain)
 
 if __name__ == "__main__":
     main()
