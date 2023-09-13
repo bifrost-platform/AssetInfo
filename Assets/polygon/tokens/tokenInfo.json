@@ -68,19 +68,6 @@
       }
     },
     {
-      "Address": "0x0000000000000000000000000000000000001010",
-      "Name": "Matic Token",
-      "Symbol": "MATIC",
-      "Decimals": 18,
-      "IsNewToken": false,
-      "IsTrendyToken": false,
-      "ImageInfo": {
-        "Has32": true,
-        "Has128": true,
-        "Has256": true
-      }
-    },
-    {
       "Address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
       "Name": "(PoS) Wrapped BTC",
       "Symbol": "WBTC",
