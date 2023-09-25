@@ -31,7 +31,7 @@
     {
       "Address": "0x66B57c5ea363cFC94033275675C57776F89B06C4",
       "Name": "Tether USD",
-      "Symbol": "USDC",
+      "Symbol": "USDT",
       "Decimals": 18,
       "IsNewToken": false,
       "IsTrendyToken": false,
