@@ -1,5 +1,32 @@
 {
   "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/arbitrumgoerli/tokens/images/",
   "EmptyToken": "empty-token.png",
-  "TokenList": []
+  "TokenList": [
+    {
+      "Address": "0xCf82e5f1738f38BbfeD169D089609D42201271E4",
+      "Name": "USDT",
+      "Symbol": "USDT",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x7E453cAcAD3CCfA13aCE3E03296c091aaC860501",
+      "Name": "USDC",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    }
+  ]
 }
