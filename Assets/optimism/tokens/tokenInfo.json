@@ -1,5 +1,5 @@
 {
-  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/optimism/tokens/images",
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/optimism/tokens/images/",
   "EmptyToken": "empty-token.png",
   "TokenList": [
     {
