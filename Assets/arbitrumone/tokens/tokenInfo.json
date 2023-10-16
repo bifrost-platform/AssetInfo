@@ -29,6 +29,19 @@
       }
     },
     {
+      "Address": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+      "Name": "USD Coin",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
       "Address": "0xFa7F8980b0f1E64A2062791cc3b0871572f1F7f0",
       "Name": "Uniswap",
       "Symbol": "UNI",
