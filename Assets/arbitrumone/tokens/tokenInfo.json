@@ -1,5 +1,5 @@
 {
-  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/arbitrumone/tokens/images",
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/arbitrumone/tokens/images/",
   "EmptyToken": "empty-token.png",
   "TokenList": [
     {
