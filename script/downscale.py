@@ -58,7 +58,7 @@ def downscale (in_size: int, out_size: int, in_dir: path, out_dir: path):
             logger.error(f"error occurred for {fn}: {e}")
 
 def run(base: str, chain: str):
-    targets = [ size for size in SIZES if size != base and SIZES[size] <= SIZES[base]]
+    targets = [ size for size in SIZES if SIZES[size] <= SIZES[base]]
     chains = [chain] if chain else CHAINS
     logger.info(f"targets: {targets}")
     for chain in chains:
