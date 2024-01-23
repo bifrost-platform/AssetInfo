@@ -2,6 +2,18 @@
   "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/basesepolia/tokens/images/",
   "EmptyToken": "empty-token.png",
   "TokenList": [
-
+    {
+      "Address": "0x4e64812e093167EbA03b829284C1C959CC28DA72",
+      "Decimals": "18",
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "DAI stable",
+      "Symbol": "DAI"
+    }
   ]
 }
