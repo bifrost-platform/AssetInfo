@@ -1,45 +1,58 @@
 {
-    "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/mumbai/tokens/images/",
-    "EmptyToken": "empty-token.png",
-    "TokenList": [
-        {
-          "Address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
-          "Name": "Wrapped Matic",
-          "Symbol": "WMATIC",
-          "Decimals": 18,
-          "IsNewToken": false,
-          "IsTrendyToken": false,
-          "ImageInfo": {
-            "Has32": true,
-            "Has128": true,
-            "Has256": true
-          }
-        },
-        {
-          "Address": "0x312d92B462492B2D110c7b378a72F6F78B1d6289",
-          "Name": "Tether USD",
-          "Symbol": "USDT",
-          "Decimals": 6,
-          "IsNewToken": false,
-          "IsTrendyToken": false,
-          "ImageInfo": {
-            "Has32": true,
-            "Has128": true,
-            "Has256": true
-          }
-        },
-        {
-          "Address": "0xc508ab50142721A0213A47AaFF4E93C3eDb978E2",
-          "Name": "USD Coin (PoS)",
-          "Symbol": "USDC",
-          "Decimals": 6,
-          "IsNewToken": false,
-          "IsTrendyToken": false,
-          "ImageInfo": {
-            "Has32": true,
-            "Has128": true,
-            "Has256": true
-          }
-        }
-    ]
+  "ImageBaseUrl": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/mumbai/tokens/images/",
+  "EmptyToken": "empty-token.png",
+  "TokenList": [
+    {
+      "Address": "0x5B67676a984807a212b1c59eBFc9B3568a474F0a",
+      "Name": "Wrapped Matic",
+      "Symbol": "WMATIC",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x312d92B462492B2D110c7b378a72F6F78B1d6289",
+      "Name": "Tether USD",
+      "Symbol": "USDT",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0xc508ab50142721A0213A47AaFF4E93C3eDb978E2",
+      "Name": "USD Coin (PoS)",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x8ed42D9ae83213813AB077B71a80b9331FB690A2",
+      "Decimals": "8",
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Wrapped BTC",
+      "Symbol": "WBTC"
+    }
+  ]
 }

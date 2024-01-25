@@ -156,6 +156,32 @@
         "Has128": true,
         "Has256": true
       }
+    },
+    {
+      "Address": "0xa4BDE980dAAbDf9861F87ea89d4854a5FF062755",
+      "Decimals": "18",
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Unified BTCB",
+      "Symbol": "BTCB"
+    },
+    {
+      "Address": "0xb710c446E2e4e162D734580Bd6f13725c345E1F7",
+      "Decimals": "8",
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Unified WBTC",
+      "Symbol": "WBTC"
     }
   ]
 }

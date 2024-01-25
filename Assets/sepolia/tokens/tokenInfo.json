@@ -92,6 +92,19 @@
       "IsTrendyToken": false,
       "Name": "Nestree",
       "Symbol": "EGG"
+    },
+    {
+      "Address": "0xfb227D3d049a2cdB7b5b75D5227B50219eDe3224",
+      "Decimals": "8",
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Wrapped BTC",
+      "Symbol": "WBTC"
     }
   ]
 }
