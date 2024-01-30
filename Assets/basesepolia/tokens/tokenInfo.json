@@ -4,7 +4,7 @@
   "TokenList": [
     {
       "Address": "0x4e64812e093167EbA03b829284C1C959CC28DA72",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,

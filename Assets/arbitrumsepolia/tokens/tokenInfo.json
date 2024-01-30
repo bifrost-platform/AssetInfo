@@ -4,7 +4,7 @@
   "TokenList": [
     {
       "Address": "0xA743D461686742d380AA49d554421919EA9964Fa",
-      "Decimals": "6",
+      "Decimals": 6,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -17,7 +17,7 @@
     },
     {
       "Address": "0x2e578Fc8712506A22abb584F7BbBb971ad65f290",
-      "Decimals": "6",
+      "Decimals": 6,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
