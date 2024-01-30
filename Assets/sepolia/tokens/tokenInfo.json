@@ -4,7 +4,7 @@
   "TokenList": [
     {
       "Address": "0x469B7B5e119348ad7d61aa8ac38101CdC2b42A22",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -17,7 +17,7 @@
     },
     {
       "Address": "0xa2b384F74058D5C4Ca2994414388DD456dd63fdA",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -30,7 +30,7 @@
     },
     {
       "Address": "0x176efbA371f5f50BDC058e5B568F4fCd58d0Ddd4",
-      "Decimals": "6",
+      "Decimals": 6,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -43,7 +43,7 @@
     },
     {
       "Address": "0x7870D8a5a669a0BA0C1f940EAe4e945a5583CF3A",
-      "Decimals": "6",
+      "Decimals": 6,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -56,7 +56,7 @@
     },
     {
       "Address": "0x7c55004de2348Bf8751A028047A1848Efab31eA9",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -69,7 +69,7 @@
     },
     {
       "Address": "0xcfb19537c7F177859aE9Af948b3CBF0052ffE992",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -82,7 +82,7 @@
     },
     {
       "Address": "0xc2301048F43B0da6354484c225526Be78d21e222",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
