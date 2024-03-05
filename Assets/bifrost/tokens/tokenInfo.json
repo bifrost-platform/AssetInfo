@@ -183,6 +183,19 @@
       "IsTrendyToken": false,
       "Name": "Unified WBTC",
       "Symbol": "WBTC"
+    },
+    {
+      "Address": "0x059BAf8874837895aDe3a1AF4f0A19C1a9385FEF",
+      "Decimals": 18,
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "C2E Coin",
+      "Symbol": "C2E"
     }
   ]
 }

@@ -182,6 +182,19 @@
       "IsTrendyToken": false,
       "Name": "Unified WBTC",
       "Symbol": "WBTC"
+    },
+    {
+      "Address": "0x9039B6f30aa5bD00c303A3644c16B8Cc8031CE53",
+      "Decimals": "18",
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Bitcoin USD",
+      "Symbol": "BtcUSD"
     }
   ]
 }
