@@ -95,7 +95,7 @@
     },
     {
       "Address": "0xfb227D3d049a2cdB7b5b75D5227B50219eDe3224",
-      "Decimals": "8",
+      "Decimals": 8,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,

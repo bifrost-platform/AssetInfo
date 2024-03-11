@@ -159,7 +159,7 @@
     },
     {
       "Address": "0xa4BDE980dAAbDf9861F87ea89d4854a5FF062755",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -172,7 +172,7 @@
     },
     {
       "Address": "0xb710c446E2e4e162D734580Bd6f13725c345E1F7",
-      "Decimals": "8",
+      "Decimals": 8,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
@@ -185,7 +185,7 @@
     },
     {
       "Address": "0x9039B6f30aa5bD00c303A3644c16B8Cc8031CE53",
-      "Decimals": "18",
+      "Decimals": 18,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
