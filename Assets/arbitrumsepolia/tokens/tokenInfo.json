@@ -30,7 +30,7 @@
     },
     {
       "Address": "0xdD3B4c386729aE16dA6F961d7E0d4775C28ecA09",
-      "Decimals": "8",
+      "Decimals": 8,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,

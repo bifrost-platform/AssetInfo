@@ -43,7 +43,7 @@
     },
     {
       "Address": "0x8ed42D9ae83213813AB077B71a80b9331FB690A2",
-      "Decimals": "8",
+      "Decimals": 8,
       "ImageInfo": {
         "Has128": true,
         "Has256": true,
