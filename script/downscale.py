@@ -1,15 +1,14 @@
+from PIL import Image
 from argparse import ArgumentParser
 from glob import glob
 from logging import INFO, basicConfig, getLogger
 from os import makedirs, path
 
-from PIL import Image
-
 basicConfig()
 logger = getLogger("downscale")
 logger.setLevel(INFO)
 
-BASE_PATH = "/Users/jormal/Documents/Repositories/AssetInfo/Assets"
+BASE_PATH = path.join(path.dirname(path.realpath(__file__)), "..", "Assets/")
 CHAINS = [
     "arbitrumgoerli",
     "arbitrumone",

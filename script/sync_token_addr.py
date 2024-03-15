@@ -7,7 +7,7 @@ basicConfig()
 logger = getLogger("sync_token_address")
 logger.setLevel(INFO)
 
-BASE_PATH = "/Users/jormal/Documents/Repositories/AssetInfo/Assets"
+BASE_PATH = path.join(path.dirname(path.realpath(__file__)), "../", "Assets/")
 CHAINS = [
     "arbitrumgoerli",
     "arbitrumone",
@@ -58,4 +58,5 @@ def main():
 
 
 if __name__ == "__main__":
+    print(BASE_PATH)
     main()
