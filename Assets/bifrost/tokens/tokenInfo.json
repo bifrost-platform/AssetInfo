@@ -196,6 +196,19 @@
       "IsTrendyToken": false,
       "Name": "C2E Coin",
       "Symbol": "C2E"
+    },
+    {
+      "Address": "0x6906Ccda405926FC3f04240187dd4fAd5DF6d555",
+      "Decimals": 18,
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Bitcoin USD",
+      "Symbol": "BtcUSD"
     }
   ]
 }
