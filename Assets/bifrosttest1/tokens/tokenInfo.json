@@ -195,6 +195,19 @@
       "IsTrendyToken": false,
       "Name": "Bitcoin USD",
       "Symbol": "BtcUSD"
+    },
+    {
+      "Address": "0x52Eb8CFC008814328cF8daec9e2023Fb58384242",
+      "Decimals": 8,
+      "ImageInfo": {
+        "Has128": true,
+        "Has256": true,
+        "Has32": true
+      },
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "Name": "Unified BTC",
+      "Symbol": "BTC"
     }
   ]
 }
