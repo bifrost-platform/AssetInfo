@@ -27,6 +27,32 @@
         "Has128": true,
         "Has256": true
       }
+    },
+    {
+      "Address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "Name": "USD Base Coin",
+      "Symbol": "USDbC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
+    },
+    {
+      "Address": "0x833589fcd6edb6e08f4c7c32d4f71b54bda02913",
+      "Name": "USD Coin",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
