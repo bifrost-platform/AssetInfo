@@ -14,6 +14,19 @@
       "IsTrendyToken": false,
       "Name": "DAI stable",
       "Symbol": "DAI"
+    },
+    {
+      "Address": "0xC96971f6F5A1D20EFcD465B1163812a955b414A3",
+      "Name": "USD Coin",
+      "Symbol": "USDC",
+      "Decimals": 6,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
