@@ -53,6 +53,19 @@
         "Has128": true,
         "Has256": true
       }
+    },
+    {
+      "Address": "0xe4b20925D9E9a62F1E492e15a81dC0de62804dd4",
+      "Name": "Bitcoin USD",
+      "Symbol": "BTCUSD",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
