@@ -1,0 +1,6 @@
+{
+  "Name": "BTC",
+  "Symbol": "BTC",
+  "Decimals": 8,
+  "ImageURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/bitcointest/coin/coinImage.png"
+}
