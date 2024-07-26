@@ -30,8 +30,8 @@
     },
     {
       "Address": "0xf97fD4bE50e5E56C957DC799488cF589B6916925",
-      "Name": "Bitcoin USD BTCUSD",
-      "Symbol": "BTCUSD",
+      "Name": "Bitcoin USD",
+      "Symbol": "BtcUSD",
       "Decimals": 18,
       "IsNewToken": false,
       "IsTrendyToken": false,
