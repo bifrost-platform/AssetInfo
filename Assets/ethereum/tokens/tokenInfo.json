@@ -6800,6 +6800,19 @@
         "Has128": true,
         "Has256": true
       }
+    },
+    {
+      "Address": "0x455e53CBB86018Ac2B8092FdCd39d8444aFFC3F6",
+      "Name": "Polygon Ecosystem Token",
+      "Symbol": "POL",
+      "Decimals": 18,
+      "IsNewToken": false,
+      "IsTrendyToken": false,
+      "ImageInfo": {
+        "Has32": true,
+        "Has128": true,
+        "Has256": true
+      }
     }
   ]
 }
