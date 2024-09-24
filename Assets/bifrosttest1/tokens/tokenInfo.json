@@ -43,8 +43,8 @@
     },
     {
       "Address": "0xad115F901a1Af99dc83D055C89641031fd1a50Dc",
-      "Name": "Unified MATIC",
-      "Symbol": "MATIC",
+      "Name": "Unified POL",
+      "Symbol": "POL",
       "Decimals": 18,
       "IsTrendyToken": false,
       "ImageInfo": {

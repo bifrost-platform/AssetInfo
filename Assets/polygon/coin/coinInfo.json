@@ -1,6 +1,6 @@
 {
-    "Name": "MATIC",
-    "Symbol": "MATIC",
-    "Decimals": 18,
-    "ImageURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/polygon/coin/coinImage.png"
+  "Name": "Polygon Ecosystem Token",
+  "Symbol": "POL",
+  "Decimals": 18,
+  "ImageURL": "https://raw.githubusercontent.com/bifrost-platform/AssetInfo/master/Assets/polygon/coin/coinImage.png"
 }
